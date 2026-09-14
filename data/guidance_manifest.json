@@ -1,0 +1,92 @@
+[
+  {
+    "path": "data\\raw\\guidance\\use-international-standard-iso-10993-1-biological-evaluation-medical-d.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-international-standard-iso-10993-1-biological-evaluation-medical-devices-part-1-evaluation-and",
+    "pdf_url": "https://www.fda.gov/media/142959/download",
+    "size_kb": 1275
+  },
+  {
+    "path": "data\\raw\\guidance\\biocompatibility-testing-medical-devices-standards-specific-informatio.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/biocompatibility-testing-medical-devices-standards-specific-information-accreditation-scheme",
+    "pdf_url": "https://www.fda.gov/media/142388/download",
+    "size_kb": 871
+  },
+  {
+    "path": "data\\raw\\guidance\\submission-and-review-sterility-information-premarket-notification-510.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/submission-and-review-sterility-information-premarket-notification-510k-submissions-devices-labeled",
+    "pdf_url": "https://www.fda.gov/media/74445/download",
+    "size_kb": 273
+  },
+  {
+    "path": "data\\raw\\guidance\\sterilized-convenience-kits-clinical-and-surgical-use.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/sterilized-convenience-kits-clinical-and-surgical-use",
+    "pdf_url": "https://www.fda.gov/media/71358/download",
+    "size_kb": 152
+  },
+  {
+    "path": "data\\raw\\guidance\\510k-program-evaluating-substantial-equivalence-premarket-notification.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/510k-program-evaluating-substantial-equivalence-premarket-notifications-510k",
+    "pdf_url": "https://www.fda.gov/media/82395/download",
+    "size_kb": 843
+  },
+  {
+    "path": "data\\raw\\guidance\\benefit-risk-factors-consider-when-determining-substantial-equivalence.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/benefit-risk-factors-consider-when-determining-substantial-equivalence-premarket-notifications-510k",
+    "pdf_url": "https://www.fda.gov/media/89019/download",
+    "size_kb": 537
+  },
+  {
+    "path": "data\\raw\\guidance\\special-510k-program.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/special-510k-program",
+    "pdf_url": "https://www.fda.gov/media/116418/download",
+    "size_kb": 736
+  },
+  {
+    "path": "data\\raw\\guidance\\abbreviated-510k-program.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/abbreviated-510k-program",
+    "pdf_url": "https://www.fda.gov/media/72646/download",
+    "size_kb": 282
+  },
+  {
+    "path": "data\\raw\\guidance\\refuse-accept-policy-510ks.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/refuse-accept-policy-510ks",
+    "pdf_url": "https://www.fda.gov/media/83888/download",
+    "size_kb": 1767
+  },
+  {
+    "path": "data\\raw\\guidance\\requests-feedback-and-meetings-medical-device-submissions-q-submission.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program",
+    "pdf_url": "https://www.fda.gov/media/114034/download",
+    "size_kb": 572
+  },
+  {
+    "path": "data\\raw\\guidance\\medical-devices-containing-materials-derived-animal-sources-except-in-.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-devices-containing-materials-derived-animal-sources-except-in-vitro-diagnostic-devices",
+    "pdf_url": "https://www.fda.gov/media/87251/download",
+    "size_kb": 602
+  },
+  {
+    "path": "data\\raw\\guidance\\labeling-regulatory-requirements-medical-devices-fda-89-4203.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-regulatory-requirements-medical-devices-fda-89-4203",
+    "pdf_url": "https://www.fda.gov/media/74034/download",
+    "size_kb": 3047
+  },
+  {
+    "path": "data\\raw\\guidance\\recognition-and-withdrawal-voluntary-consensus-standards.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/recognition-and-withdrawal-voluntary-consensus-standards",
+    "pdf_url": "https://www.fda.gov/media/71995/download",
+    "size_kb": 559
+  },
+  {
+    "path": "data\\raw\\guidance\\reprocessing-medical-devices-health-care-settings-validation-methods-a.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/reprocessing-medical-devices-health-care-settings-validation-methods-and-labeling",
+    "pdf_url": "https://www.fda.gov/media/80265/download",
+    "size_kb": 902
+  },
+  {
+    "path": "data\\raw\\guidance\\deciding-when-submit-510k-software-change-existing-device.pdf",
+    "landing_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-software-change-existing-device",
+    "pdf_url": "https://www.fda.gov/media/99785/download",
+    "size_kb": 666
+  }
+]

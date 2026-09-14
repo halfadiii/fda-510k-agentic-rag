@@ -1,0 +1,12 @@
+# Pinned to the versions this project was built and measured with.
+pymupdf==1.28.2
+requests==2.32.3
+qdrant-client==1.19.0
+sentence-transformers==3.4.1
+rank-bm25==0.2.2
+openai==3.13.0
+python-dotenv==1.0.1
+numpy==1.26.4
+# torch comes in with sentence-transformers. It is left unpinned because the
+# right build depends on the machine (CPU, or a CUDA version); a CPU wheel is
+# enough, since only a small embedding model runs locally.

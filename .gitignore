@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Rebuildable, and large: the downloaded PDFs (~117 MB) and the two indexes.
+# download_corpus.py, download_guidance.py and embed.py recreate them.
+data/raw/
+data/qdrant/
+data/bm25.pkl
+data/*.pdf
+data/*.xlsx
+
+__pycache__/
+*.pyc

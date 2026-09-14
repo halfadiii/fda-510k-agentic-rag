@@ -1,0 +1,851 @@
+{
+  "search_term": "wound dressing",
+  "downloaded_at": "2026-09-12 19:09:31",
+  "counts": {
+    "510k": 120,
+    "guidance": 0
+  },
+  "510k": [
+    {
+      "k_number": "K131796",
+      "device_name": "MANUKA FILL WOUND DRESSING",
+      "applicant": "Links Medical Products, Inc.",
+      "decision_date": "2014-03-14",
+      "path": "data\\raw\\510k\\K131796.pdf"
+    },
+    {
+      "k_number": "K171225",
+      "device_name": "Sorbact Wound Dressing-Ribbon Gauze",
+      "applicant": "Abigo Medical AB",
+      "decision_date": "2017-08-21",
+      "path": "data\\raw\\510k\\K171225.pdf"
+    },
+    {
+      "k_number": "K201016",
+      "device_name": "LUOFUCON PHMB Alginate Dressing (Rx use), LUOFUCON PHMB Antibacterial Alginate Wound Dressing (OTC use)",
+      "applicant": "Huizhou Foryou Medical Devices Co., Ltd.",
+      "decision_date": "2021-01-28",
+      "path": "data\\raw\\510k\\K201016.pdf"
+    },
+    {
+      "k_number": "K133729",
+      "device_name": "WOUND DRESSING WITH MANUKA HONEY",
+      "applicant": "Manuka Health New Zealand , Ltd.",
+      "decision_date": "2015-01-23",
+      "path": "data\\raw\\510k\\K133729.pdf"
+    },
+    {
+      "k_number": "K982939",
+      "device_name": "BTF THIN FILM WOUND DRESSING",
+      "applicant": "Bioderm, Inc.",
+      "decision_date": "1998-10-13",
+      "path": "data\\raw\\510k\\K982939.pdf"
+    },
+    {
+      "k_number": "K984388",
+      "device_name": "HA ABSORBENT WOUND DRESSING",
+      "applicant": "Convatec, A Division of E.R. Squibb & Sons",
+      "decision_date": "1999-03-03",
+      "path": "data\\raw\\510k\\K984388.pdf"
+    },
+    {
+      "k_number": "K983833",
+      "device_name": "ACTICOAT COMPOSITE WOUND DRESSING, ACTICOAT COMPOSITE WOUND DRESSING-ADHESIVE",
+      "applicant": "Westaim Biomedical, Inc.",
+      "decision_date": "1998-12-10",
+      "path": "data\\raw\\510k\\K983833.pdf"
+    },
+    {
+      "k_number": "K991818",
+      "device_name": "ACRYDERM SILVER ANTI-MICROBIAL WOUND DRESSING, MODELS 1041, 1042, 1043, 1044, 1045",
+      "applicant": "Acrymed, Inc.",
+      "decision_date": "2000-04-17",
+      "path": "data\\raw\\510k\\K991818.pdf"
+    },
+    {
+      "k_number": "K954743",
+      "device_name": "DERMAGRAN WOUND DRESSING CLEANER W/ZINC",
+      "applicant": "Derma Sciences, Inc.",
+      "decision_date": "1995-11-02",
+      "path": "data\\raw\\510k\\K954743.pdf"
+    },
+    {
+      "k_number": "K991729",
+      "device_name": "FERRIS POLYOSTOMY STERILE WOUND DRESSING",
+      "applicant": "Ferris Mfg. Corp.",
+      "decision_date": "1999-08-27",
+      "path": "data\\raw\\510k\\K991729.pdf"
+    },
+    {
+      "k_number": "K982778",
+      "device_name": "BIODERM FOAM WOUND DRESSING",
+      "applicant": "Bioderm, Inc.",
+      "decision_date": "1998-10-21",
+      "path": "data\\raw\\510k\\K982778.pdf"
+    },
+    {
+      "k_number": "K971918",
+      "device_name": "AMERIGEL OINTMENT SATURATED WOUND DRESSING",
+      "applicant": "Amerx Health Care Corp.",
+      "decision_date": "1997-08-12",
+      "path": "data\\raw\\510k\\K971918.pdf"
+    },
+    {
+      "k_number": "K251826",
+      "device_name": "RENASYS WOUND+  Dressing Kit with AIRLOCK Technology",
+      "applicant": "Smith & Nephew Medical, Ltd.",
+      "decision_date": "2025-09-11",
+      "path": "data\\raw\\510k\\K251826.pdf"
+    },
+    {
+      "k_number": "K962623",
+      "device_name": "OSMOCYTE ULTRA/PE PILLOW WOUND DRESSING",
+      "applicant": "Procyte Corp.",
+      "decision_date": "1996-11-26",
+      "path": "data\\raw\\510k\\K962623.pdf"
+    },
+    {
+      "k_number": "K233111",
+      "device_name": "ALGS2 Ag Alginate Wound Dressing Rx; ALGS2 Ag Alginate Wound Dressing OTC; ALGS2S Re-enforced Ag Alginate Wound Dressing Rx; ALGS2S Re-enforced Ag Alginate Wound Dressing OTC",
+      "applicant": "Foshan United Medical Technologies, Ltd.",
+      "decision_date": "2024-05-24",
+      "path": "data\\raw\\510k\\K233111.pdf"
+    },
+    {
+      "k_number": "K963623",
+      "device_name": "SPYROFLEX PIGMENTED WOUND DRESSING",
+      "applicant": "Polymedica Industries, Inc.",
+      "decision_date": "1996-10-25",
+      "path": "data\\raw\\510k\\K963623.pdf"
+    },
+    {
+      "k_number": "K232796",
+      "device_name": "LUOFUCON\u00ae Collagen Particles (Collagen Wound Dressing)",
+      "applicant": "Huizhou Foryou Medical Devices Co., Ltd.",
+      "decision_date": "2024-04-25",
+      "path": "data\\raw\\510k\\K232796.pdf"
+    },
+    {
+      "k_number": "K242985",
+      "device_name": "CollOvine\u0099 Wound Dressing",
+      "applicant": "Ovigenex, LLC",
+      "decision_date": "2025-06-20",
+      "path": "data\\raw\\510k\\K242985.pdf"
+    },
+    {
+      "k_number": "K233151",
+      "device_name": "PluroGel\u00ae Antimicrobial Burn and Wound Dressing, PluroGel\u00ae Burn and Wound Dressing (OTC)",
+      "applicant": "Medline Industries, LP",
+      "decision_date": "2024-03-26",
+      "path": "data\\raw\\510k\\K233151.pdf"
+    },
+    {
+      "k_number": "K991214",
+      "device_name": "SIMPLICARE TRANSPARENT WOUND DRESSING",
+      "applicant": "Hollister, Inc.",
+      "decision_date": "1999-10-14",
+      "path": "data\\raw\\510k\\K991214.pdf"
+    },
+    {
+      "k_number": "K190819",
+      "device_name": "Silicone PHMB Foam Wound Dressing",
+      "applicant": "Advanced Medical Solutions, Ltd.",
+      "decision_date": "2019-07-25",
+      "path": "data\\raw\\510k\\K190819.pdf"
+    },
+    {
+      "k_number": "K102943",
+      "device_name": "CORELEADER ALGI-FIBER WOUND DRESSING MODEL ADW 05050",
+      "applicant": "Coreleader Biotech Co., Ltd.",
+      "decision_date": "2011-04-12",
+      "path": "data\\raw\\510k\\K102943.pdf"
+    },
+    {
+      "k_number": "K964240",
+      "device_name": "BIAFINE WOUND DRESSING EMULSION",
+      "applicant": "Medix Pharmaceuticals Americas, Inc.",
+      "decision_date": "1997-01-22",
+      "path": "data\\raw\\510k\\K964240.pdf"
+    },
+    {
+      "k_number": "K993948",
+      "device_name": "SIS WOUND DRESSING II",
+      "applicant": "Cook Biotech, Inc.",
+      "decision_date": "2000-01-06",
+      "path": "data\\raw\\510k\\K993948.pdf"
+    },
+    {
+      "k_number": "K964701",
+      "device_name": "MITRAFLEX PIGMENTED WOUND DRESSING",
+      "applicant": "Polymedica Industries, Inc.",
+      "decision_date": "1997-02-07",
+      "path": "data\\raw\\510k\\K964701.pdf"
+    },
+    {
+      "k_number": "K974520",
+      "device_name": "SPYROFLEX FOAM ISLAND WOUND DRESSING, SPYROFLEX FOAM ISLAND WOUND DRESSING, TINTED, SPYROFOAM",
+      "applicant": "Innovative Technologies (Us), Inc.",
+      "decision_date": "1998-02-06",
+      "path": "data\\raw\\510k\\K974520.pdf"
+    },
+    {
+      "k_number": "K981299",
+      "device_name": "SILVERLON CONTACT WOUND DRESSING",
+      "applicant": "Argentum International, LLC",
+      "decision_date": "1998-09-25",
+      "path": "data\\raw\\510k\\K981299.pdf"
+    },
+    {
+      "k_number": "K141573",
+      "device_name": "SILVERLON ISLAND WOUND DRESSING",
+      "applicant": "Argentum Medical",
+      "decision_date": "2014-08-28",
+      "path": "data\\raw\\510k\\K141573.pdf"
+    },
+    {
+      "k_number": "K182409",
+      "device_name": "Applied Tissue Technologies PWD\u0099 Platform Wound Dressing",
+      "applicant": "Applied Tissue Technologies, LLC",
+      "decision_date": "2019-01-11",
+      "path": "data\\raw\\510k\\K182409.pdf"
+    },
+    {
+      "k_number": "K222657",
+      "device_name": "MEBO Wound Dressing",
+      "applicant": "Mebo Life Science, Inc.",
+      "decision_date": "2022-10-18",
+      "path": "data\\raw\\510k\\K222657.pdf"
+    },
+    {
+      "k_number": "K954740",
+      "device_name": "DERMAGRAN WOUND DRESSING",
+      "applicant": "Derma Sciences, Inc.",
+      "decision_date": "1995-11-02",
+      "path": "data\\raw\\510k\\K954740.pdf"
+    },
+    {
+      "k_number": "K102478",
+      "device_name": "OTC ELASTO-GEL MANUKA HONEY WOUND DRESSING",
+      "applicant": "Southwest Technologies, Inc.",
+      "decision_date": "2010-11-03",
+      "path": "data\\raw\\510k\\K102478.pdf"
+    },
+    {
+      "k_number": "K153565",
+      "device_name": "DONASORB SILVER WOUND DRESSING",
+      "applicant": "Virchow Biotech Pvt, Ltd.",
+      "decision_date": "2016-09-22",
+      "path": "data\\raw\\510k\\K153565.pdf"
+    },
+    {
+      "k_number": "K973170",
+      "device_name": "SIS WOUND DRESSING",
+      "applicant": "Cook Biotech, Inc.",
+      "decision_date": "1998-04-30",
+      "path": "data\\raw\\510k\\K973170.pdf"
+    },
+    {
+      "k_number": "K981753",
+      "device_name": "INNOVATIVE TECHNOLOGIES TRANSPARENT FILM AND INTELLIGENT FILM WOUND DRESSING",
+      "applicant": "Innovative Technologies , Ltd.",
+      "decision_date": "1998-06-30",
+      "path": "data\\raw\\510k\\K981753.pdf"
+    },
+    {
+      "k_number": "K252001",
+      "device_name": "Collagen Wound Dressing",
+      "applicant": "Winner Medical Co., Ltd.",
+      "decision_date": "2025-10-10",
+      "path": "data\\raw\\510k\\K252001.pdf"
+    },
+    {
+      "k_number": "K173005",
+      "device_name": "SURECELL Gelling Fiber Wound Dressing",
+      "applicant": "Jiangsu Newvalue Medical Producst Co.,Ltd",
+      "decision_date": "2018-05-25",
+      "path": "data\\raw\\510k\\K173005.pdf"
+    },
+    {
+      "k_number": "K160872",
+      "device_name": "PolyPlex Wound Dressing",
+      "applicant": "Global Health Solutions, LLC",
+      "decision_date": "2016-11-23",
+      "path": "data\\raw\\510k\\K160872.pdf"
+    },
+    {
+      "k_number": "K250115",
+      "device_name": "Hemastyl(\u0099) Wound Dressing",
+      "applicant": "Rapid Nexus Nanotech Wound Solutions, Inc.",
+      "decision_date": "2025-10-14",
+      "path": "data\\raw\\510k\\K250115.pdf"
+    },
+    {
+      "k_number": "K100580",
+      "device_name": "EXSALT WOUND DRESSING",
+      "applicant": "Exciton Technologies, Inc.",
+      "decision_date": "2010-10-12",
+      "path": "data\\raw\\510k\\K100580.pdf"
+    },
+    {
+      "k_number": "K990861",
+      "device_name": "WOUND DRESSING/ABD PAD, MODEL #10810",
+      "applicant": "Hospital Specialty Co.",
+      "decision_date": "1999-04-12",
+      "path": "data\\raw\\510k\\K990861.pdf"
+    },
+    {
+      "k_number": "K133775",
+      "device_name": "EXSALT SD7 WOUND DRESSING WITH ADHESIVE BACKING",
+      "applicant": "Exciton Technologies, Inc.",
+      "decision_date": "2014-03-26",
+      "path": "data\\raw\\510k\\K133775.pdf"
+    },
+    {
+      "k_number": "K103067",
+      "device_name": "EXSALT SD7 WOUND DRESSING",
+      "applicant": "Exciton Technologies, Inc.",
+      "decision_date": "2011-05-20",
+      "path": "data\\raw\\510k\\K103067.pdf"
+    },
+    {
+      "k_number": "K100430",
+      "device_name": "URGOTUL AG, ANTIMICROBIAL WOUND DRESSING WITH SILVER",
+      "applicant": "Laboratoires Urgo",
+      "decision_date": "2010-06-11",
+      "path": "data\\raw\\510k\\K100430.pdf"
+    },
+    {
+      "k_number": "K163062",
+      "device_name": "PHMB Antimicrobial Foam Wound Dressing",
+      "applicant": "Advanced Medical Solutions, Ltd.",
+      "decision_date": "2017-07-25",
+      "path": "data\\raw\\510k\\K163062.pdf"
+    },
+    {
+      "k_number": "K242100",
+      "device_name": "SurgiAid Collagen Wound Dressing  (HA)",
+      "applicant": "Maxigen Biotech, Inc.",
+      "decision_date": "2025-10-16",
+      "path": "data\\raw\\510k\\K242100.pdf"
+    },
+    {
+      "k_number": "K223126",
+      "device_name": "SurgiAid\u00ae Collagen Wound Dressing",
+      "applicant": "Maxigen Biotech, Inc.",
+      "decision_date": "2023-10-11",
+      "path": "data\\raw\\510k\\K223126.pdf"
+    },
+    {
+      "k_number": "K141738",
+      "device_name": "MEDEOR MATRIX WOUND DRESSING",
+      "applicant": "Kensey Nash Corporation Dba Dsm Biomedical",
+      "decision_date": "2015-02-17",
+      "path": "data\\raw\\510k\\K141738.pdf"
+    },
+    {
+      "k_number": "K110647",
+      "device_name": "RENASYS FOAM NPWT WOUND DRESSING KITS WITH SUCTION PAD; RENASYS GAUZE NPWT WOUND DRESSING KITS WITH SUCTION PAD; RENASYS",
+      "applicant": "Smith & Nephew, Inc.",
+      "decision_date": "2011-06-22",
+      "path": "data\\raw\\510k\\K110647.pdf"
+    },
+    {
+      "k_number": "K983362",
+      "device_name": "NU-GEL * WOUND DRESSING",
+      "applicant": "Johnson & Johnson Medical, Inc.",
+      "decision_date": "1998-12-16",
+      "path": "data\\raw\\510k\\K983362.pdf"
+    },
+    {
+      "k_number": "K170213",
+      "device_name": "SupraSDRM Biodegradable Matrix Wound Dressing",
+      "applicant": "Polymedics Innovations, GmbH",
+      "decision_date": "2017-06-28",
+      "path": "data\\raw\\510k\\K170213.pdf"
+    },
+    {
+      "k_number": "K173911",
+      "device_name": "Medline Burn and Wound Dressing",
+      "applicant": "Medline Industries, Inc.",
+      "decision_date": "2018-07-19",
+      "path": "data\\raw\\510k\\K173911.pdf"
+    },
+    {
+      "k_number": "K231057",
+      "device_name": "Antibacterial Gel Wound Dressing",
+      "applicant": "Winner Medical Co., Ltd.",
+      "decision_date": "2023-12-01",
+      "path": "data\\raw\\510k\\K231057.pdf"
+    },
+    {
+      "k_number": "K220673",
+      "device_name": "Sterile Silver Alginate Wound Dressing",
+      "applicant": "Qingdao Bright Moon Biomedical Materials Co., Ltd.",
+      "decision_date": "2023-03-16",
+      "path": "data\\raw\\510k\\K220673.pdf"
+    },
+    {
+      "k_number": "K180533",
+      "device_name": "Procellera Composite Antibacterial Wound Dressing",
+      "applicant": "Vomaris Wound Care, Inc.",
+      "decision_date": "2018-12-10",
+      "path": "data\\raw\\510k\\K180533.pdf"
+    },
+    {
+      "k_number": "K173072",
+      "device_name": "Algidex Ag Silver Alginate Wound  Dressing",
+      "applicant": "Deroyal Industries, Inc.",
+      "decision_date": "2018-04-04",
+      "path": "data\\raw\\510k\\K173072.pdf"
+    },
+    {
+      "k_number": "K974251",
+      "device_name": "X-CELL WOUND DRESSING",
+      "applicant": "Xylos Corporation",
+      "decision_date": "1998-06-22",
+      "path": "data\\raw\\510k\\K974251.pdf"
+    },
+    {
+      "k_number": "K172570",
+      "device_name": "ALGS6 Ag Alginate Wound Dressing",
+      "applicant": "Foshan United Medical Technologies, Ltd.",
+      "decision_date": "2018-05-11",
+      "path": "data\\raw\\510k\\K172570.pdf"
+    },
+    {
+      "k_number": "K121407",
+      "device_name": "OXYBAND WOUND DRESSING",
+      "applicant": "O2s, LLC",
+      "decision_date": "2012-07-09",
+      "path": "data\\raw\\510k\\K121407.pdf"
+    },
+    {
+      "k_number": "K181197",
+      "device_name": "PHMB Foam Wound Dressing",
+      "applicant": "Advanced Medical Solutions, Ltd.",
+      "decision_date": "2018-08-03",
+      "path": "data\\raw\\510k\\K181197.pdf"
+    },
+    {
+      "k_number": "K230529",
+      "device_name": "HealiAid Dental Collagen Wound Dressing",
+      "applicant": "Maxigen Biotech, Inc.",
+      "decision_date": "2023-11-22",
+      "path": "data\\raw\\510k\\K230529.pdf"
+    },
+    {
+      "k_number": "K122817",
+      "device_name": "SILVERLON ISLAND WOUND DRESSING",
+      "applicant": "Argentum Medical, LLC",
+      "decision_date": "2014-05-01",
+      "path": "data\\raw\\510k\\K122817.pdf"
+    },
+    {
+      "k_number": "K991608",
+      "device_name": "DERMAPHYLYX CALCIUM ALGINATE WOUND DRESSING",
+      "applicant": "Dermaphylyx, Inc.",
+      "decision_date": "1999-07-20",
+      "path": "data\\raw\\510k\\K991608.pdf"
+    },
+    {
+      "k_number": "K972458",
+      "device_name": "LYOCELL WOUND DRESSING/SURGICAL SPONGE",
+      "applicant": "Courtaulds Fibers, Inc.",
+      "decision_date": "1997-09-19",
+      "path": "data\\raw\\510k\\K972458.pdf"
+    },
+    {
+      "k_number": "K962439",
+      "device_name": "DERMAPLEX HYDROGEL WOUND DRESSING (2X2,4X4,4X8,6X10)",
+      "applicant": "Richard Hamer Assoc., Inc.",
+      "decision_date": "1996-09-03",
+      "path": "data\\raw\\510k\\K962439.pdf"
+    },
+    {
+      "k_number": "K952907",
+      "device_name": "EX-111 WOUND DRESSING",
+      "applicant": "Variseal Manufacturing Corp.",
+      "decision_date": "1995-08-07",
+      "path": "data\\raw\\510k\\K952907.pdf"
+    },
+    {
+      "k_number": "K180570",
+      "device_name": "Silverlon Island Wound Dressing, Silverlon Wound Pad Dressing (also known as Silverlon Burn Pad Dressing)",
+      "applicant": "Argentum Medical, LLC",
+      "decision_date": "2019-01-14",
+      "path": "data\\raw\\510k\\K180570.pdf"
+    },
+    {
+      "k_number": "K991061",
+      "device_name": "DERMAPHYLYX CALCIUM ALGINATE WOUND DRESSING",
+      "applicant": "Dermaphylyx, Inc.",
+      "decision_date": "1999-06-28",
+      "path": "data\\raw\\510k\\K991061.pdf"
+    },
+    {
+      "k_number": "K990079",
+      "device_name": "FASTSEAL CHEST WOUND DRESSING",
+      "applicant": "Greenfield Medical Technologies, Inc.",
+      "decision_date": "1999-12-23",
+      "path": "data\\raw\\510k\\K990079.pdf"
+    },
+    {
+      "k_number": "K964398",
+      "device_name": "SPYROFLEX PIGMENTED WOUND DRESSING/SPYROFLEX WOUND DRESSING TINTED",
+      "applicant": "Polymedica Industries, Inc.",
+      "decision_date": "1997-10-24",
+      "path": "data\\raw\\510k\\K964398.pdf"
+    },
+    {
+      "k_number": "K972530",
+      "device_name": "CONVATEC ODOR CONTROL WOUND DRESSING",
+      "applicant": "Convatec, A Division of E.R. Squibb & Sons",
+      "decision_date": "1997-10-01",
+      "path": "data\\raw\\510k\\K972530.pdf"
+    },
+    {
+      "k_number": "K191460",
+      "device_name": "PWD Platform Wound Dressing 3\u0094 x 5\u0094 Oblong",
+      "applicant": "Applied Tissue Technologies, LLC",
+      "decision_date": "2019-07-02",
+      "path": "data\\raw\\510k\\K191460.pdf"
+    },
+    {
+      "k_number": "K172140",
+      "device_name": "NovoSorb BTM Wound Dressing (2cm x 2cm), NovoSorb BTM Wound Dressing (10cm x 10cm), NovoSorb BTM Wound Dressing (10cm x 20cm), NovoSorb BTM Wound Dressing (20cm x 40cm)",
+      "applicant": "Polynovo Biomaterials Pty, Ltd.",
+      "decision_date": "2017-08-11",
+      "path": "data\\raw\\510k\\K172140.pdf"
+    },
+    {
+      "k_number": "K182680",
+      "device_name": "KerraContact Ag Perf Advanced Perforated Silver Wound Dressing",
+      "applicant": "Exciton Technologies, Inc.",
+      "decision_date": "2018-12-06",
+      "path": "data\\raw\\510k\\K182680.pdf"
+    },
+    {
+      "k_number": "K221532",
+      "device_name": "PHMB Wound Dressing",
+      "applicant": "Winner Medical Co., Ltd.",
+      "decision_date": "2023-01-30",
+      "path": "data\\raw\\510k\\K221532.pdf"
+    },
+    {
+      "k_number": "K123394",
+      "device_name": "CORELEADER HYDRO-HEALER HYDROCOLLOID WOUND DRESSING",
+      "applicant": "Coreleader Biotech Co., Ltd.",
+      "decision_date": "2013-06-06",
+      "path": "data\\raw\\510k\\K123394.pdf"
+    },
+    {
+      "k_number": "K990180",
+      "device_name": "BURNFREE (4X4, 8X8, 16X24) STERILE BURN & WOUND DRESSING",
+      "applicant": "Nortrade Medical, Inc.",
+      "decision_date": "1999-08-13",
+      "path": "data\\raw\\510k\\K990180.pdf"
+    },
+    {
+      "k_number": "K243576",
+      "device_name": "RENASYS Foam Wound Dressing Kit with AIRLOCK Technology and Soft Port; RENASYS Gauze Wound Dressing Kit with AIRLOCK Technology and Soft Port",
+      "applicant": "Smith & Nephew Medical, Ltd.",
+      "decision_date": "2025-02-18",
+      "path": "data\\raw\\510k\\K243576.pdf"
+    },
+    {
+      "k_number": "K100429",
+      "device_name": "URGOCELL AG, ANTIMICROBIAL WOUND DRESSING WITH SILVER",
+      "applicant": "Laboratoires Urgo",
+      "decision_date": "2010-06-11",
+      "path": "data\\raw\\510k\\K100429.pdf"
+    },
+    {
+      "k_number": "K123219",
+      "device_name": "URGOCLEAN ABSORBENT WOUND DRESSING",
+      "applicant": "Laboratoires Urgo",
+      "decision_date": "2013-03-18",
+      "path": "data\\raw\\510k\\K123219.pdf"
+    },
+    {
+      "k_number": "K162017",
+      "device_name": "Ross Ru Wound Dressing Gel",
+      "applicant": "Biotd S.A.",
+      "decision_date": "2017-04-20",
+      "path": "data\\raw\\510k\\K162017.pdf"
+    },
+    {
+      "k_number": "K211277",
+      "device_name": "Theia NPWT Foam Wound Dressing Kit",
+      "applicant": "Clear Choice Therapeutics, Inc.",
+      "decision_date": "2021-12-16",
+      "path": "data\\raw\\510k\\K211277.pdf"
+    },
+    {
+      "k_number": "K132343",
+      "device_name": "MARIGEN WOUND DRESSING",
+      "applicant": "Kerecis Limited",
+      "decision_date": "2013-10-23",
+      "path": "data\\raw\\510k\\K132343.pdf"
+    },
+    {
+      "k_number": "K190224",
+      "device_name": "Medline Burn and Wound Dressing (OTC)",
+      "applicant": "Medline Industries, Inc.",
+      "decision_date": "2019-03-08",
+      "path": "data\\raw\\510k\\K190224.pdf"
+    },
+    {
+      "k_number": "K974891",
+      "device_name": "ACUTEK'S HYDROCOLLOID WOUND DRESSING, TIB 197013",
+      "applicant": "Acutek Adhesive Specialties, Inc.",
+      "decision_date": "1998-10-21",
+      "path": "data\\raw\\510k\\K974891.pdf"
+    },
+    {
+      "k_number": "K990438",
+      "device_name": "DERMAFLEX WOUND DRESSING, DERMAFLEX FOAM WOUND DRESSING, HEALIAFLEX WOUND DRESSING, HEALIAFOAM WOUND DRESSING",
+      "applicant": "Dermaphylyx, Inc.",
+      "decision_date": "1999-03-25",
+      "path": "data\\raw\\510k\\K990438.pdf"
+    },
+    {
+      "k_number": "K110172",
+      "device_name": "SONAFINE WOUND DRESSING",
+      "applicant": "Stratus Pharmaceutical",
+      "decision_date": "2011-08-19",
+      "path": "data\\raw\\510k\\K110172.pdf"
+    },
+    {
+      "k_number": "K982116",
+      "device_name": "AQUACEL HYDROFIBER WOUND DRESSING",
+      "applicant": "Convatec, A Bristol-Myers Squibb Co.",
+      "decision_date": "1998-09-08",
+      "path": "data\\raw\\510k\\K982116.pdf"
+    },
+    {
+      "k_number": "K961085",
+      "device_name": "DEROYAL WOUND CARE MULTIDEX PLUS GEL WOUND DRESSING",
+      "applicant": "Debusk Knitting Mills, Div. Deroyal Industries",
+      "decision_date": "1996-05-21",
+      "path": "data\\raw\\510k\\K961085.pdf"
+    },
+    {
+      "k_number": "K212521",
+      "device_name": "Field Shield Wound Dressing",
+      "applicant": "Kericure, Inc.",
+      "decision_date": "2024-07-18",
+      "path": "data\\raw\\510k\\K212521.pdf"
+    },
+    {
+      "k_number": "K974205",
+      "device_name": "KNITTED WOUND DRESSING-STANDARD, WCL AND RIBBON",
+      "applicant": "Convatec, A Division of E.R. Squibb & Sons",
+      "decision_date": "1998-02-06",
+      "path": "data\\raw\\510k\\K974205.pdf"
+    },
+    {
+      "k_number": "K962421",
+      "device_name": "SORBCEL ALGINATE/CMC WOUND DRESSING",
+      "applicant": "Innovative Technologies , Ltd.",
+      "decision_date": "1996-07-11",
+      "path": "data\\raw\\510k\\K962421.pdf"
+    },
+    {
+      "k_number": "K961323",
+      "device_name": "LYOFOAM EXTRA C ODOR ABSORBING WOUND DRESSING",
+      "applicant": "Acme United Corp.",
+      "decision_date": "1996-06-19",
+      "path": "data\\raw\\510k\\K961323.pdf"
+    },
+    {
+      "k_number": "K990955",
+      "device_name": "MODIFICATION OF:BIODERM FOAM WOUND DRESSING",
+      "applicant": "Bioderm, Inc.",
+      "decision_date": "1999-05-18",
+      "path": "data\\raw\\510k\\K990955.pdf"
+    },
+    {
+      "k_number": "K231152",
+      "device_name": "Collagen Wound Dressing",
+      "applicant": "Winner Medical Co., Ltd.",
+      "decision_date": "2023-10-12",
+      "path": "data\\raw\\510k\\K231152.pdf"
+    },
+    {
+      "k_number": "K982597",
+      "device_name": "FIBRCOL PLUS COLLAGEN WOUND DRESSING WITH ALGINATE",
+      "applicant": "Johnson & Johnson Medical, Inc.",
+      "decision_date": "1998-08-20",
+      "path": "data\\raw\\510k\\K982597.pdf"
+    },
+    {
+      "k_number": "K171645",
+      "device_name": "CoMatryx Collagen Wound Dressing 1 gram pouch, CoMatryx Collagen Wound Dressing 1 gram vial, CoMatryx Collagen Wound Dressing 10 gram bottle",
+      "applicant": "Strukmyer Medical",
+      "decision_date": "2017-07-25",
+      "path": "data\\raw\\510k\\K171645.pdf"
+    },
+    {
+      "k_number": "K143001",
+      "device_name": "SILVERLON ISLAND WOUND DRESSING, SILVERLON WOUND PAD DRESSING",
+      "applicant": "Argentum Medical",
+      "decision_date": "2014-11-07",
+      "path": "data\\raw\\510k\\K143001.pdf"
+    },
+    {
+      "k_number": "K142979",
+      "device_name": "RENASYS; EZ MAX Negative Pressure Wound Therapy; Foam NPWT Wound Dressing Kits with Soft Port; Gauze NPWT Wound Dressing Kits with Soft Port; EZ PLUS/EZ MAX Canisters",
+      "applicant": "Smith & Nephew, Inc.",
+      "decision_date": "2015-04-29",
+      "path": "data\\raw\\510k\\K142979.pdf"
+    },
+    {
+      "k_number": "K140483",
+      "device_name": "ASAP OTC WOUND DRESSING GEL",
+      "applicant": "Abl Medical, LLC",
+      "decision_date": "2014-05-20",
+      "path": "data\\raw\\510k\\K140483.pdf"
+    },
+    {
+      "k_number": "K143124",
+      "device_name": "KA01 Chitosan Wound Dressing",
+      "applicant": "Foshan United Medical Technologies, Ltd.",
+      "decision_date": "2015-01-26",
+      "path": "data\\raw\\510k\\K143124.pdf"
+    },
+    {
+      "k_number": "K120250",
+      "device_name": "FIBRILLAR COLLAGEN WOUND DRESSING",
+      "applicant": "Collafirm, LLC",
+      "decision_date": "2013-04-21",
+      "path": "data\\raw\\510k\\K120250.pdf"
+    },
+    {
+      "k_number": "K962851",
+      "device_name": "ACRYNOODLES ABSORBENT WOUND DRESSING",
+      "applicant": "Acrymed, Inc.",
+      "decision_date": "1996-09-06",
+      "path": "data\\raw\\510k\\K962851.pdf"
+    },
+    {
+      "k_number": "K950281",
+      "device_name": "MESH MATRIX WOUND DRESSING",
+      "applicant": "Brennen Medical, Inc.",
+      "decision_date": "1995-04-13",
+      "path": "data\\raw\\510k\\K950281.pdf"
+    },
+    {
+      "k_number": "K974890",
+      "device_name": "ACUTEK'S HYDROCOLLOID WOUND DRESSING, TIB 997002",
+      "applicant": "Acutek Adhesive Specialties, Inc.",
+      "decision_date": "1998-10-13",
+      "path": "data\\raw\\510k\\K974890.pdf"
+    },
+    {
+      "k_number": "K122297",
+      "device_name": "ENLUXTRA HUMIFIBER WOUND DRESSING",
+      "applicant": "Basf Venture Capital America, Inc.",
+      "decision_date": "2012-08-28",
+      "path": "data\\raw\\510k\\K122297.pdf"
+    },
+    {
+      "k_number": "K100787",
+      "device_name": "RENASYS F/-AB ABDOMINAL WOUND DRESSING KIT",
+      "applicant": "Smith & Nephew, Inc.",
+      "decision_date": "2010-09-17",
+      "path": "data\\raw\\510k\\K100787.pdf"
+    },
+    {
+      "k_number": "K142712",
+      "device_name": "Dental Collagen Wound Dressing (Nova Tape and NovaPlug)",
+      "applicant": "Novabone Products, LLC",
+      "decision_date": "2015-01-08",
+      "path": "data\\raw\\510k\\K142712.pdf"
+    },
+    {
+      "k_number": "K253816",
+      "device_name": "MuCover (proposed name) Oral Wound Dressing",
+      "applicant": "MoleculeX Co., Ltd.",
+      "decision_date": "2026-05-21",
+      "path": "data\\raw\\510k\\K253816.pdf"
+    },
+    {
+      "k_number": "K161570",
+      "device_name": "Theia NPWT Foam Wound Dressing Kit-Small, Theia NPWT Foam Wound Dressing Kit-Medium, Theia NPWT Foam Wound Dressing Kit-Large",
+      "applicant": "Lc Medical Concepts, Inc.",
+      "decision_date": "2016-08-29",
+      "path": "data\\raw\\510k\\K161570.pdf"
+    },
+    {
+      "k_number": "K182722",
+      "device_name": "XLR8 Abdominal Wound Dressing Kit",
+      "applicant": "Genadyne Biotechnologies",
+      "decision_date": "2019-09-27",
+      "path": "data\\raw\\510k\\K182722.pdf"
+    },
+    {
+      "k_number": "K991920",
+      "device_name": "DERMAPHYLYX HYDROPHILIC FOAM WOUND DRESSING",
+      "applicant": "Dermaphylyx, Inc.",
+      "decision_date": "1999-08-12",
+      "path": "data\\raw\\510k\\K991920.pdf"
+    },
+    {
+      "k_number": "K132004",
+      "device_name": "NPWT WOUND DRESSING KIT- MEDIUM, NPWT WOUND DRESSING KIT- LARGE",
+      "applicant": "Creo Quality, LLC",
+      "decision_date": "2014-05-02",
+      "path": "data\\raw\\510k\\K132004.pdf"
+    },
+    {
+      "k_number": "K990368",
+      "device_name": "DUODERM HYDROACTIVE GEL WOUND DRESSING",
+      "applicant": "Convatec, A Bristol-Myers Squibb Co.",
+      "decision_date": "1999-03-26",
+      "path": "data\\raw\\510k\\K990368.pdf"
+    },
+    {
+      "k_number": "K112580",
+      "device_name": "COLLAGEN WOUND DRESSING",
+      "applicant": "Dalim Tissen Co., Ltd.",
+      "decision_date": "2012-06-01",
+      "path": "data\\raw\\510k\\K112580.pdf"
+    },
+    {
+      "k_number": "K213341",
+      "device_name": "Fibrillar Collagen Wound Dressing",
+      "applicant": "Collagen Matrix, Inc.",
+      "decision_date": "2022-05-31",
+      "path": "data\\raw\\510k\\K213341.pdf"
+    },
+    {
+      "k_number": "K223310",
+      "device_name": "Antimicrobial Silicone PHMB Foam Wound Dressing",
+      "applicant": "Advanced Medical Solutions Limited",
+      "decision_date": "2023-04-05",
+      "path": "data\\raw\\510k\\K223310.pdf"
+    },
+    {
+      "k_number": "K974892",
+      "device_name": "ACUTEK'S HYDROCOLLOID WOUND DRESSING, TIB 197012",
+      "applicant": "Acutek Adhesive Specialties, Inc.",
+      "decision_date": "1998-10-13",
+      "path": "data\\raw\\510k\\K974892.pdf"
+    },
+    {
+      "k_number": "K984539",
+      "device_name": "FERRIS POLYMEM CALCIUM ALGINATE STERILE WOUND DRESSING",
+      "applicant": "Ferris Mfg. Corp.",
+      "decision_date": "1999-03-01",
+      "path": "data\\raw\\510k\\K984539.pdf"
+    },
+    {
+      "k_number": "K954235",
+      "device_name": "HOLLISTER HYDROCOLLOID WOUND DRESSING",
+      "applicant": "Hollister, Inc.",
+      "decision_date": "1995-10-06",
+      "path": "data\\raw\\510k\\K954235.pdf"
+    }
+  ],
+  "guidance": []
+}
