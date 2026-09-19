@@ -118,6 +118,44 @@ which nothing uses yet.
 
 ---
 
+## The exam
+
+Anyone can build a RAG demo that looks good on the questions its author tried.
+So before scoring anything, `make_eval_set.py` builds an exam where the right
+answer, and the page it lives on, is known in advance.
+
+A model drafts, and a person decides. The model wrote **66** candidate questions
+from real passages; every one was reviewed by hand against its passage. **40 were
+kept** (6 of them edited) and **26 dropped**. The drop reasons are a finding in
+themselves: most were questions built on **comparison tables that PDF extraction
+had mangled** (which column was the device and which the predicate could not be
+recovered) or on **boilerplate cover letters** that say nothing about the device.
+
+Add 9 questions written by hand that the system should refuse (wool, a retail
+price, EU rules, a pacemaker, a false premise, a future guidance revision), and the
+exam is **49 questions**:
+
+| Category | Questions | What it tests |
+| --- | --- | --- |
+| One 510(k) summary | 22 | a single fact from one device |
+| One guidance document | 17 | a fact or definition from guidance |
+| Two documents together | 1 | a device fact plus what guidance says about it |
+| Should refuse | 8 | the answer is not in the corpus |
+| Known gap | 1 | the answer is in a PDF table that extraction flattened |
+
+40 of the 49 have a known answer, spread across 36 documents, with the page
+range recorded. Retrieval counts as a hit if it returns any chunk from that
+document overlapping those pages, because chunks overlap and the same fact can sit
+in two neighbours. 9 of 49 (18%) should be refused, inside the 15-20% target.
+
+```bash
+python make_eval_set.py generate   # model drafts candidates
+python make_eval_set.py review     # a person keeps, edits or drops each one
+python make_eval_set.py build      # merge with the hand-written ones -> data/eval/eval_set.json
+```
+
+---
+
 ## Run it
 
 ```bash
@@ -171,20 +209,28 @@ ingest.py              PDFs -> chunks with section and page             -> data/
 embed.py               chunks -> Qdrant (dense) + BM25 (keyword)
 search.py              dense, BM25, and hybrid with Reciprocal Rank Fusion
 answer.py              gate, draft, citation check, retry, refuse
+make_eval_set.py       the exam: generate, review by hand, build     -> data/eval/
 data/manifest.json     exactly which clearances the corpus holds
 data/audit.csv         the audit, per file
 data/chunk_stats.csv   chunks, words and sections per document
+data/eval/             candidates.json (drafts), reviewed.json (every keep/drop
+                       decision and its reason), eval_set.json (the exam)
 ```
 
 ---
 
 ## State of things, honestly
 
-**There is no evaluation set yet.** The citation check proves every citation
-points at a passage the model was given. It does not prove the answer reads that
-passage correctly. That needs questions with known answers, and it is the next
-piece of work: retrieval recall for dense against BM25 against hybrid, then answer
-faithfulness.
+**The exam is built but not yet scored.** The citation check proves every
+citation points at a passage the model was given. It does not prove the answer
+reads that passage correctly. `data/eval/eval_set.json` is the set of questions
+with known answers that will measure it (see "The exam" above). Scoring against
+it is the next step: retrieval recall for dense against BM25 against hybrid, then
+answer faithfulness. Until then, this README makes no accuracy claim.
+
+**Cross-document questions are thin.** Only one of the ten drafted survived
+review, so the exam barely tests questions that need a device summary and a
+guidance document together.
 
 **The gate is a judgement.** It is told to lean towards YES, so weak passages
 sometimes get through. The drafting step catches some of those by declining.

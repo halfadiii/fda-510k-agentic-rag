@@ -1,0 +1,943 @@
+[
+  {
+    "id": "gen-single_510k-001",
+    "category": "single_510k",
+    "question": "For what types of minor wounds is the MANUKA FILL wound dressing (K131796) cleared for over-the-counter management?",
+    "expected_behavior": "answer",
+    "reference_answer": "MANUKA FILL is indicated for over-the-counter management of minor abrasions, minor lacerations, minor cuts, and minor scalds and minor burns. It also provides a moist wound environment that supports autolytic debridement of necrotic tissue.",
+    "key_facts": [
+      "minor abrasions",
+      "minor lacerations",
+      "minor cuts",
+      "minor scalds and minor burns",
+      "moist wound environment",
+      "autolytic debridement"
+    ],
+    "gold": [
+      {
+        "doc_id": "K131796",
+        "chunk_id": "K131796_c008",
+        "page_start": 9,
+        "page_end": 10
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-003",
+    "category": "single_510k",
+    "question": "What material is the CoMatryx Collagen Wound Dressing (K171645) made from, and what is its physical form?",
+    "expected_behavior": "answer",
+    "reference_answer": "The CoMatryx Collagen Wound Dressing is composed of Type 1 bovine collagen and is ground into a powder form.",
+    "key_facts": [
+      "Type 1 bovine collagen",
+      "ground to powder"
+    ],
+    "gold": [
+      {
+        "doc_id": "K171645",
+        "chunk_id": "K171645_c004",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-004",
+    "category": "single_510k",
+    "question": "What sterilization method is used for the exsaltTM Wound Dressing (K100580) and its predicate devices?",
+    "expected_behavior": "answer",
+    "reference_answer": "The exsaltTM Wound Dressing and its predicate devices are sterilized by gamma irradiation.",
+    "key_facts": [
+      "gamma irradiation",
+      "exsaltTM Wound Dressing",
+      "predicate devices"
+    ],
+    "gold": [
+      {
+        "doc_id": "K100580",
+        "chunk_id": "K100580_c001",
+        "page_start": 2,
+        "page_end": 2
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-006",
+    "category": "single_510k",
+    "question": "What concentration of PHMB is present in the absorbent pad of the PHMB Wound Dressing described in 510(k) K221532, and what sterilization method is used for it?",
+    "expected_behavior": "answer",
+    "reference_answer": "The absorbent pad contains 0.2% PHMB, and the dressing is sterilized using ethylene oxide under conditions validated per ISO 11135:2014.",
+    "key_facts": [
+      "0.2% PHMB",
+      "Ethylene Oxide sterilization",
+      "ISO 11135:2014"
+    ],
+    "gold": [
+      {
+        "doc_id": "K221532",
+        "chunk_id": "K221532_c004",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-007",
+    "category": "single_510k",
+    "question": "Under which 510(k) number was the OxyBand Wound Dressing previously cleared for marketing before the 02S filing?",
+    "expected_behavior": "answer",
+    "reference_answer": "The OxyBand Wound Dressing was previously cleared under 510(k) number K04063.",
+    "key_facts": [
+      "K04063 (OCR-garbled predicate K-number",
+      "verify if used for scoring)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K121407",
+        "chunk_id": "K121407_c001",
+        "page_start": 1,
+        "page_end": 1
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-008",
+    "category": "single_510k",
+    "question": "What concentration range of polyhexamethylene biguanide (PHMB) is incorporated into the absorbent polyurethane foam pad of the Silicone PHMB Foam Wound Dressing described in 510(k) K190819?",
+    "expected_behavior": "answer",
+    "reference_answer": "The absorbent polyurethane foam pad contains PHMB at 0.8-1.1 %w/w.",
+    "key_facts": [
+      "0.8-1.1 %w/w PHMB",
+      "absorbent polyurethane foam pad",
+      "Silicone PHMB Foam Wound Dressing / K190819"
+    ],
+    "gold": [
+      {
+        "doc_id": "K190819",
+        "chunk_id": "K190819_c009",
+        "page_start": 7,
+        "page_end": 8
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-010",
+    "category": "single_510k",
+    "question": "For the Urgoclean Ag wound dressing cleared under K143017, what type of wound exudate is the device specifically intended to manage, and which category of chronic wounds does the indication list?",
+    "expected_behavior": "answer",
+    "reference_answer": "Urgoclean Ag is indicated to manage exuding wounds, particularly during debridement of slough, and the chronic exuding wounds listed include venous stasis ulcers, arterial ulcers, pressure ulcers (stage II-IV), and diabetic ulcers.",
+    "key_facts": [
+      "exuding wounds",
+      "debridement of slough",
+      "venous stasis ulcers, arterial ulcers, pressure ulcers (stage II-IV), diabetic ulcers"
+    ],
+    "gold": [
+      {
+        "doc_id": "K143017",
+        "chunk_id": "K143017_c002",
+        "page_start": 3,
+        "page_end": 4
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-011",
+    "category": "single_510k",
+    "question": "For how many days does the exsalt 5D7 Wound Dressing maintain its antibacterial activity against Pseudomonas aeruginosa and Staphylococcus aureus, according to the K103067 premarket notification?",
+    "expected_behavior": "answer",
+    "reference_answer": "The exsalt 5D7 Wound Dressing maintains its antibacterial activity for up to 7 days against Pseudomonas aeruginosa and Staphylococcus aureus.",
+    "key_facts": [
+      "7 days",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus"
+    ],
+    "gold": [
+      {
+        "doc_id": "K103067",
+        "chunk_id": "K103067_c003",
+        "page_start": 2,
+        "page_end": 2
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-013",
+    "category": "single_510k",
+    "question": "What predicate device did NovaBone Products, LLC identify as substantially equivalent to its NovaTape and NovaPlug Dental Collagen Wound Dressings in 510(k) K142712, and what was that predicate's FDA clearance date?",
+    "expected_behavior": "answer",
+    "reference_answer": "The predicate was the Collagen Topical Wound Dressing – Oral, cleared as K040403 on May 10, 2004 and marketed as ACE Resorbable Collagen Tape (RCT) and Plug (RCP).",
+    "key_facts": [
+      "K040403",
+      "Collagen Topical Wound Dressing – Oral",
+      "May 10, 2004",
+      "ACE Resorbable Collagen Tape (RCT) and Plug (RCP)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K142712",
+        "chunk_id": "K142712_c008",
+        "page_start": 8,
+        "page_end": 8
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-014",
+    "category": "single_510k",
+    "question": "What sterilization assurance level (SAL) is achieved by the electron beam and gamma irradiation methods used for the MEBO Wound Dressing (K222657), and under which standard was the device's sterilization validated?",
+    "expected_behavior": "answer",
+    "reference_answer": "Both sterilization methods achieve a SAL of 10^-6, and the sterilization is validated according to ANSI AAMI ISO 11137-1: 2006/(R)2015.",
+    "key_facts": [
+      "SAL 10^-6",
+      "ANSI AAMI ISO 111371: 2006/(R)2015 (OCR-garbled standard number",
+      "likely \"ISO 11137-1\")"
+    ],
+    "gold": [
+      {
+        "doc_id": "K222657",
+        "chunk_id": "K222657_c005",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-016",
+    "category": "single_510k",
+    "question": "Under the prescription indications for the Silverlon Island Wound Dressing (K143001), what is the maximum duration of use when applied under the supervision of a healthcare professional?",
+    "expected_behavior": "answer",
+    "reference_answer": "The Silverlon Island Wound Dressing is intended for up to 7 days of use under the supervision of a healthcare professional.",
+    "key_facts": [
+      "up to 7 day use",
+      "under the supervision of a healthcare professional",
+      "Silverlon Island Wound Dressing (K143001)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K143001",
+        "chunk_id": "K143001_c005",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-017",
+    "category": "single_510k",
+    "question": "Which ISO standard was used to guide the biocompatibility evaluation of the Medeor Matrix Wound Dressing (K141738)?",
+    "expected_behavior": "answer",
+    "reference_answer": "The biocompatibility testing for Medeor Matrix Wound Dressing was performed according to ISO 10993-1:2009, Biological Evaluation of Medical Devices—Part 1.",
+    "key_facts": [
+      "ISO 10993-1:2009",
+      "Biological Evaluation of Medical Devices",
+      "Part 1"
+    ],
+    "gold": [
+      {
+        "doc_id": "K141738",
+        "chunk_id": "K141738_c008",
+        "page_start": 7,
+        "page_end": 8
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-018",
+    "category": "single_510k",
+    "question": "What ingredient in Medline Burn and Wound Dressing (K173911) serves as a preservative to prevent microbial growth in the product?",
+    "expected_behavior": "answer",
+    "reference_answer": "Polyhexanide (PHMB) is the preservative included in Medline Burn and Wound Dressing to inhibit microorganism growth.",
+    "key_facts": [
+      "Polyhexanide",
+      "PHMB",
+      "preservative"
+    ],
+    "gold": [
+      {
+        "doc_id": "K173911",
+        "chunk_id": "K173911_c005",
+        "page_start": 5,
+        "page_end": 5
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-020",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for the Enluxtra Humifiber Wound Dressing (K122297), what result was reported for the bacterial mutagenicity testing?",
+    "expected_behavior": "answer",
+    "reference_answer": "The bacterial mutagenicity test result was reported as not mutagenic.",
+    "key_facts": [
+      "Bacterial Mutagenicity",
+      "not mutagenic",
+      "Enluxtra Humifiber Wound Dressing"
+    ],
+    "gold": [
+      {
+        "doc_id": "K122297",
+        "chunk_id": "K122297_c001",
+        "page_start": 2,
+        "page_end": 3
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-022",
+    "category": "single_510k",
+    "question": "In the performance testing for the Field Shield Wound Dressing (K212521), what reduction percentage and time-to-kill were demonstrated in the modified USP<51> time-to-kill test against organisms such as MRSA, VRE, and Candida auris?",
+    "expected_behavior": "answer",
+    "reference_answer": "The modified USP<51> time-to-kill test showed a 99.99% reduction of microorganisms, including MRSA, VRE, Candida albicans, and Candida auris, within 10 minutes of exposure.",
+    "key_facts": [
+      "99.99% reduction",
+      "within 10 minutes",
+      "MRSA, VRE, Candida albicans, Candida auris"
+    ],
+    "gold": [
+      {
+        "doc_id": "K212521",
+        "chunk_id": "K212521_c008",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-023",
+    "category": "single_510k",
+    "question": "Which FDA guidance document and ISO standard does the LUOFUCON® Collagen Particles (K232796) submission cite as the basis for its animal-derived materials safety requirements?",
+    "expected_behavior": "answer",
+    "reference_answer": "The submission states that safety for animal-derived materials complies with the FDA guidance on Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices) and with ISO 22442 standards.",
+    "key_facts": [
+      "FDA guidance: Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices)",
+      "ISO 22442",
+      "LUOFUCON® Collagen Particles / K232796"
+    ],
+    "gold": [
+      {
+        "doc_id": "K232796",
+        "chunk_id": "K232796_c010",
+        "page_start": 9,
+        "page_end": 10
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-025",
+    "category": "single_510k",
+    "question": "What material is the Collagen Wound Dressing in 510(k) K231152 made from, and what form does it take?",
+    "expected_behavior": "answer",
+    "reference_answer": "The device is made entirely of bovine collagen and is supplied as a single-layer, porous sheet.",
+    "key_facts": [
+      "100% collagen",
+      "bovine source",
+      "single-layer sheet form",
+      "porous microstructure"
+    ],
+    "gold": [
+      {
+        "doc_id": "K231152",
+        "chunk_id": "K231152_c010",
+        "page_start": 10,
+        "page_end": 11
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-026",
+    "category": "single_510k",
+    "question": "What is the concentration of silver and oxidized silver species on the exsalt M T7 Wound Dressing, expressed both in mg/cm2 and as a weight percentage?",
+    "expected_behavior": "answer",
+    "reference_answer": "The silver and oxidized silver species concentration on the exsalt M T7 Wound Dressing is 0.4 mg/cm2, which corresponds to 4.5% w/w.",
+    "key_facts": [
+      "0.4 mg/cm2",
+      "4.5% w/w",
+      "silver and oxidized silver species"
+    ],
+    "gold": [
+      {
+        "doc_id": "K113564",
+        "chunk_id": "K113564_c001",
+        "page_start": 1,
+        "page_end": 2
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-028",
+    "category": "single_510k",
+    "question": "For the RENASYS EZ MAX Negative Pressure Wound Therapy Device (K142979), what wound types are listed as appropriate for treatment?",
+    "expected_behavior": "answer",
+    "reference_answer": "The appropriate wound types include chronic, acute, traumatic, sub-acute and dehisced wounds, ulcers (such as pressure or diabetic), partial-thickness burns, and flaps and grafts.",
+    "key_facts": [
+      "chronic, acute, traumatic",
+      "sub-acute and dehisced wounds",
+      "ulcers (pressure or diabetic)",
+      "partial-thickness burns",
+      "flaps and grafts"
+    ],
+    "gold": [
+      {
+        "doc_id": "K142979",
+        "chunk_id": "K142979_c008",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-029",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for HealiAid® Dental Collagen Wound Dressing (K230529), what animal model was used for the comparative degradation testing between HealiAid® Dental and the predicate devices neoTape®/neoPlug®/neoCote®?",
+    "expected_behavior": "answer",
+    "reference_answer": "The comparative degradation testing was performed in a porcine gingiva model, where HealiAid® Dental showed a similar degradation timecourse to the predicate devices.",
+    "key_facts": [
+      "porcine gingiva model",
+      "comparative degradation testing",
+      "similar timecourse of degradation"
+    ],
+    "gold": [
+      {
+        "doc_id": "K230529",
+        "chunk_id": "K230529_c007",
+        "page_start": 9,
+        "page_end": 10
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-031",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for the ALGS2 Ag Alginate Wound Dressing (K233111), which ISO standard is cited for the implantation effects/wound healing study?",
+    "expected_behavior": "answer",
+    "reference_answer": "The implantation effects (wound healing study) is cited to ISO 10993-6, which addresses local effects after implantation.",
+    "key_facts": [
+      "ISO 10993-6",
+      "implantation effects",
+      "wound healing study"
+    ],
+    "gold": [
+      {
+        "doc_id": "K233111",
+        "chunk_id": "K233111_c011",
+        "page_start": 8,
+        "page_end": 10
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_510k-032",
+    "category": "single_510k",
+    "question": "What predicate device is the XLR8 Abdominal Wound Dressing Kit (K182722) declared substantially equivalent to, and what is that predicate's K-number?",
+    "expected_behavior": "answer",
+    "reference_answer": "The XLR8 Abdominal Wound Dressing Kit is substantially equivalent to the Avance Foam Abdominal Dressing Kit, cleared under K161939.",
+    "key_facts": [
+      "Avance Foam Abdominal Dressing Kit",
+      "K161939",
+      "substantially equivalent"
+    ],
+    "gold": [
+      {
+        "doc_id": "K182722",
+        "chunk_id": "K182722_c007",
+        "page_start": 8,
+        "page_end": 8
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-001",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on general considerations for animal studies intended to evaluate medical devices, what does FDA recommend be provided alongside the study report to support the choice of animal model?",
+    "expected_behavior": "answer",
+    "reference_answer": "FDA recommends providing a detailed justification of the animal model with the study report, including the rationale for selecting that model and a brief review of the scientific evidence supporting its use.",
+    "key_facts": [
+      "detailed justification of the animal model",
+      "rationale for animal model selection",
+      "brief review of supporting scientific evidence"
+    ],
+    "gold": [
+      {
+        "doc_id": "general_considerations_animal_studies_intended_evaluate",
+        "chunk_id": "general_considerations_animal_studies_intended_evaluate_c028",
+        "page_start": 18,
+        "page_end": 19
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-002",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on reprocessing medical devices in health care settings, which sterilization method is described as the most commonly used in health care facilities?",
+    "expected_behavior": "answer",
+    "reference_answer": "Steam sterilization is identified as the most common sterilization method used in health care settings.",
+    "key_facts": [
+      "steam sterilization",
+      "most common method",
+      "health care settings"
+    ],
+    "gold": [
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c026",
+        "page_start": 16,
+        "page_end": 17
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-003",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on ISO 10993-1 biological evaluation of medical devices, what time interval has FDA historically accepted for positive control data relative to the device sensitization test, rather than waiting for the six-month interval described in ISO 10993-10?",
+    "expected_behavior": "answer",
+    "reference_answer": "FDA has historically accepted positive control data conducted within three months of the device test, rather than waiting up to six months for subsequent positive control data.",
+    "key_facts": [
+      "positive control data within three months of the device test",
+      "rather than waiting up to six months",
+      "ISO 10993-10 six-month interval"
+    ],
+    "gold": [
+      {
+        "doc_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d",
+        "chunk_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d_c054",
+        "page_start": 31,
+        "page_end": 31
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-005",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on general considerations for animal studies intended to evaluate medical devices, what process can a sponsor use to obtain FDA feedback on the animal model selected for a study?",
+    "expected_behavior": "answer",
+    "reference_answer": "A sponsor can obtain FDA feedback on the selected animal model through the Q-Submission process.",
+    "key_facts": [
+      "Q-Submission process",
+      "FDA feedback on animal model"
+    ],
+    "gold": [
+      {
+        "doc_id": "general_considerations_animal_studies_intended_evaluate",
+        "chunk_id": "general_considerations_animal_studies_intended_evaluate_c014",
+        "page_start": 11,
+        "page_end": 11
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-006",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance \"Refuse Accept Policy 510(k)s,\" what should a submitter explicitly state if the subject device and the predicate device have no differences in indications and intended use?",
+    "expected_behavior": "answer",
+    "reference_answer": "The submitter should explicitly state that there are no differences between the subject device and the predicate(s) with respect to indications and intended use.",
+    "key_facts": [
+      "no differences between subject and predicate must be explicitly stated (answer restates passage wording closely",
+      "but fact is real and clearly attributable)"
+    ],
+    "gold": [
+      {
+        "doc_id": "refuse-accept-policy-510ks",
+        "chunk_id": "refuse-accept-policy-510ks_c046",
+        "page_start": 34,
+        "page_end": 35
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-007",
+    "category": "single_guidance",
+    "question": "In the FDA guidance on reprocessing medical devices in health care settings, what is the purpose of the negative sample control in the soil extraction testing protocol?",
+    "expected_behavior": "answer",
+    "reference_answer": "The negative sample control is an extraction performed without any device, and it serves as a blank sample.",
+    "key_facts": [
+      "negative sample control",
+      "extraction with no device",
+      "blank"
+    ],
+    "gold": [
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c054",
+        "page_start": 31,
+        "page_end": 32
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-009",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on recognition and withdrawal of voluntary consensus standards, what factors does FDA consider when deciding how long a transition period should be for a standard whose recognition is being withdrawn?",
+    "expected_behavior": "answer",
+    "reference_answer": "FDA weighs the public health consequences of postponing significant scientific updates and how hard it may be for manufacturers to adopt the new version's changes. Standards with only minor technical or editorial changes may get a shorter transition period, and an emergent public health issue may lead to a shortened or no transition period.",
+    "key_facts": [
+      "public health impact of delaying significant scientific updates",
+      "difficulty manufacturers face implementing changes",
+      "minor technical or editorial changes may have shorter transition",
+      "emergent public health issue may shorten or eliminate transition period"
+    ],
+    "gold": [
+      {
+        "doc_id": "recognition-and-withdrawal-voluntary-consensus-standards",
+        "chunk_id": "recognition-and-withdrawal-voluntary-consensus-standards_c017",
+        "page_start": 11,
+        "page_end": 12
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-010",
+    "category": "single_guidance",
+    "question": "Under FDA's 510(k) substantial equivalence guidance, when a new 510(k) is submitted to address deficiencies raised in an NSE (Not Substantially Equivalent) letter, what must the submission do to avoid a Refuse to Accept decision?",
+    "expected_behavior": "answer",
+    "reference_answer": "The new 510(k) must clearly identify how the outstanding issues have been addressed and cross-reference where the new information is provided within the newly submitted 510(k); failure to cite the prior 510(k) number may result in a Refuse to Accept decision.",
+    "key_facts": [
+      "clearly identify how outstanding issues were addressed",
+      "cross-reference new information within the new 510(k)",
+      "failure to cite prior 510(k) number may cause Refuse to Accept"
+    ],
+    "gold": [
+      {
+        "doc_id": "510k-program-evaluating-substantial-equivalence-premarket-notification",
+        "chunk_id": "510k-program-evaluating-substantial-equivalence-premarket-notification_c024",
+        "page_start": 21,
+        "page_end": 22
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-011",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on biocompatibility testing standards, what acceptance criteria must be met by the positive control material replicates in cytotoxicity testing performed according to ISO 10993-5?",
+    "expected_behavior": "answer",
+    "reference_answer": "Each positive control material replicate must be at least Grade 3. This criterion is used to confirm the validity of the cytotoxicity test method.",
+    "key_facts": [
+      "positive control material replicate",
+      "≥ Grade 3",
+      "cytotoxicity testing per ISO 10993-5"
+    ],
+    "gold": [
+      {
+        "doc_id": "biocompatibility-testing-medical-devices-standards-specific-informatio",
+        "chunk_id": "biocompatibility-testing-medical-devices-standards-specific-informatio_c022",
+        "page_start": 17,
+        "page_end": 17
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-012",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on refuse-to-accept policy for 510(k) submissions, when a 510(k) includes a completed animal study, what must the submission state regarding compliance with the Good Laboratory Practice regulation in 21 CFR Part 58?",
+    "expected_behavior": "answer",
+    "reference_answer": "The submission must contain a statement that the study was conducted in compliance with the applicable GLP requirements in 21 CFR Part 58, or, if it was not conducted in compliance, explain why the noncompliance would not affect the validity of the study data used to support a substantial equivalence determination.",
+    "key_facts": [
+      "Statement of compliance with 21 CFR Part 58 GLP requirements",
+      "If noncompliant, explanation of why noncompliance would not impact study data validity",
+      "Applies to each completed animal study in the 510(k)"
+    ],
+    "gold": [
+      {
+        "doc_id": "refuse-accept-policy-510ks",
+        "chunk_id": "refuse-accept-policy-510ks_c063",
+        "page_start": 51,
+        "page_end": 52
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-014",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on labeling requirements for over-the-counter (non-prescription) devices, how is the area of the principal display panel calculated for a cylindrical or nearly cylindrical package?",
+    "expected_behavior": "answer",
+    "reference_answer": "For a cylindrical or nearly cylindrical package, the principal display panel area is calculated as 40% of the height multiplied by the circumference.",
+    "key_facts": [
+      "40% of height x circumference",
+      "cylindrical or nearly cylindrical package",
+      "principal display panel area"
+    ],
+    "gold": [
+      {
+        "doc_id": "labeling-regulatory-requirements-medical-devices-fda-89-4203",
+        "chunk_id": "labeling-regulatory-requirements-medical-devices-fda-89-4203_c017",
+        "page_start": 15,
+        "page_end": 15
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-016",
+    "category": "single_guidance",
+    "question": "Under the FDA's Special 510(k) Program, what action does FDA intend to take when the submitter of a Special 510(k) is not the manufacturer legally authorized to market the predicate device?",
+    "expected_behavior": "answer",
+    "reference_answer": "FDA intends to convert the Special 510(k) into a Traditional 510(k) in that situation. The program requires the submission to concern a change to the submitter's own legally marketed predicate device.",
+    "key_facts": [
+      "FDA converts Special 510(k) to Traditional 510(k)",
+      "submitter is not the manufacturer legally authorized to market the predicate device",
+      "change must be to submitter's own legally marketed predicate device"
+    ],
+    "gold": [
+      {
+        "doc_id": "special-510k-program",
+        "chunk_id": "special-510k-program_c013",
+        "page_start": 8,
+        "page_end": 8
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-018",
+    "category": "single_guidance",
+    "question": "According to the FDA guidance on medical device patient labeling, what four elements are generally recognized by courts and research as necessary for an effective warning or precaution?",
+    "expected_behavior": "answer",
+    "reference_answer": "The four elements are a signal word (such as WARNING or CAUTION), a hazard avoidance directive (e.g., Do Not, Never, Avoid), a clear statement of the nature of the hazard, and the consequences of not following the instructions.",
+    "key_facts": [
+      "signal word (WARNING, CAUTION)",
+      "hazard avoidance directive (Do Not, Never, Avoid)",
+      "clear statement of the nature of the hazard",
+      "consequences of not following instructions"
+    ],
+    "gold": [
+      {
+        "doc_id": "guidance_medical_device_patient_labeling",
+        "chunk_id": "guidance_medical_device_patient_labeling_c039",
+        "page_start": 40,
+        "page_end": 40
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-020",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on the Appropriate Use of Voluntary Consensus Standards in Premarket Submissions, when a 510(k) submission includes a submitter's declaration of conformity to one or more consensus standards, what does FDA review the submission to confirm?",
+    "expected_behavior": "answer",
+    "reference_answer": "FDA reviews the premarket submission to ensure that the declaration of conformity is appropriate and that the submission contains all other necessary information for FDA to evaluate the substantial equivalence of the device (or safety and effectiveness for other submission types).",
+    "key_facts": [
+      "declaration of conformity (DOC) is appropriate",
+      "submission contains all other necessary information",
+      "evaluate substantial equivalence for a 510(k)"
+    ],
+    "gold": [
+      {
+        "doc_id": "appropriate_use_voluntary_consensus_standards_premarket",
+        "chunk_id": "appropriate_use_voluntary_consensus_standards_premarket_c029",
+        "page_start": 16,
+        "page_end": 16
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-021",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on deciding when to submit a new 510(k) for a software change to an existing device, which section of the FD&C Act states that FDA shall request only the minimum information necessary to support a substantial equivalence determination?",
+    "expected_behavior": "answer",
+    "reference_answer": "The least burdensome provision is found in section 513(i)(1)(D) of the FD&C Act, with the minimum required information language appearing in sections 513(i)(1)(D)(ii)-(iii).",
+    "key_facts": [
+      "section 513(i)(1)(D)",
+      "minimum required information",
+      "substantial equivalence"
+    ],
+    "gold": [
+      {
+        "doc_id": "deciding-when-submit-510k-software-change-existing-device",
+        "chunk_id": "deciding-when-submit-510k-software-change-existing-device_c004",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-022",
+    "category": "single_guidance",
+    "question": "Under the FDA's Abbreviated 510(k) Program, what statutory definition is given for special controls for class II devices, and which law introduced this concept?",
+    "expected_behavior": "answer",
+    "reference_answer": "Special controls are defined in section 513(a)(1)(B) of the FD&C Act as controls such as performance standards, postmarket surveillance, patient registries, and development and dissemination of guidelines, recommendations, and other appropriate actions that provide reasonable assurance of the device's safety and effectiveness. The Safe Medical Devices Act of 1990 (Public Law 101-629) introduced the concept of special controls.",
+    "key_facts": [
+      "section 513(a)(1)(B) of the FD&C Act",
+      "performance standards, postmarket surveillance, patient registries, guidelines, recommendations",
+      "Safe Medical Devices Act of 1990 (Public Law 101-629)"
+    ],
+    "gold": [
+      {
+        "doc_id": "abbreviated-510k-program",
+        "chunk_id": "abbreviated-510k-program_c004",
+        "page_start": 4,
+        "page_end": 4
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-single_guidance-023",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on Q-Submissions for medical device submissions, which types of FDA letters are explicitly listed as not suitable topics for a Submission Issue Request (SIR)?",
+    "expected_behavior": "answer",
+    "reference_answer": "A SIR is not appropriate for discussing Not Substantially Equivalent, Withdrawal, and Deletion letters. It is also not appropriate to discuss issues while a file is under active review.",
+    "key_facts": [
+      "Not Substantially Equivalent",
+      "Withdrawal",
+      "Deletion",
+      "not appropriate while file under active review"
+    ],
+    "gold": [
+      {
+        "doc_id": "requests-feedback-and-meetings-medical-device-submissions-q-submission",
+        "chunk_id": "requests-feedback-and-meetings-medical-device-submissions-q-submission_c010",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "gen-cross_doc-009",
+    "category": "cross_doc",
+    "question": "For the NovaTape/NovaPlug devices described in K142712, what predicate device is named in the 510(k) summary, and does the FDA 510(k) review checklist require the submitter to provide that predicate's identifier and to keep the predicate consistent throughout the submission?",
+    "expected_behavior": "answer",
+    "reference_answer": "The K142712 summary names predicate K040403. The FDA review checklist requires submitters to provide a predicate device identifier (such as a 510(k) number) and to keep that predicate identified consistently throughout the submission, including in the substantial equivalence section and the 510(k) summary.",
+    "key_facts": [
+      "K142712's 510(k) summary identifies K040403 as the predicate device for NovaTape/NovaPlug.",
+      "The FDA checklist requires a predicate device identifier and consistency of the identified predicate throughout the submission."
+    ],
+    "gold": [
+      {
+        "doc_id": "K142712",
+        "chunk_id": "K142712_c007",
+        "page_start": 7,
+        "page_end": 8
+      },
+      {
+        "doc_id": "refuse-accept-policy-510ks",
+        "chunk_id": "refuse-accept-policy-510ks_c085",
+        "page_start": 98,
+        "page_end": 99
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "hw-01",
+    "category": "unanswerable",
+    "question": "Is wool a good wound dressing material?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "absent topic: wool appears nowhere in the corpus"
+  },
+  {
+    "id": "hw-02",
+    "category": "unanswerable",
+    "question": "What is the retail price of the Algidex Ag silver alginate wound dressing?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "absent field: device is in the corpus, prices never are"
+  },
+  {
+    "id": "hw-03",
+    "category": "unanswerable",
+    "question": "What does the EU Medical Device Regulation require for silver-containing wound dressings?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "wrong jurisdiction: corpus is FDA only"
+  },
+  {
+    "id": "hw-04",
+    "category": "unanswerable",
+    "question": "What materials is the Medtronic Micra leadless pacemaker made of?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "absent device: not a wound dressing"
+  },
+  {
+    "id": "hw-05",
+    "category": "unanswerable",
+    "question": "Why did FDA reject the 510(k) submission for the Algidex Ag wound dressing?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "false premise: K173072 was cleared, not rejected"
+  },
+  {
+    "id": "hw-06",
+    "category": "unanswerable",
+    "question": "Which wound dressing in the FDA database heals diabetic foot ulcers the fastest?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "summaries don't rank clinical efficacy; verify with search.py"
+  },
+  {
+    "id": "hw-07",
+    "category": "unanswerable",
+    "question": "What did FDA's 2027 revision of the ISO 10993-1 biocompatibility guidance change?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "future event: no such document in the corpus"
+  },
+  {
+    "id": "hw-08",
+    "category": "unanswerable",
+    "question": "What was the 510(k) number of the first silver wound dressing ever cleared by FDA?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "corpus starts in 1995 and excludes scanned filings"
+  },
+  {
+    "id": "hw-09",
+    "category": "known_gap",
+    "question": "According to the ISO 10993-1 guidance, which biological endpoints should be evaluated for a device with breached-surface contact?",
+    "expected_behavior": "refuse",
+    "reference_answer": "",
+    "key_facts": [],
+    "gold": [],
+    "notes": "in the PDF, but the endpoint matrix is a table that extraction flattened into bare X/O marks. Scored separately from true unanswerables."
+  }
+]

@@ -1,0 +1,1610 @@
+{
+  "gen-single_510k-001": {
+    "id": "gen-single_510k-001",
+    "category": "single_510k",
+    "question": "For what types of minor wounds is the MANUKA FILL wound dressing (K131796) cleared for over-the-counter management?",
+    "answer": "MANUKA FILL is indicated for over-the-counter management of minor abrasions, minor lacerations, minor cuts, and minor scalds and minor burns. It also provides a moist wound environment that supports autolytic debridement of necrotic tissue.",
+    "key_facts": [
+      "minor abrasions",
+      "minor lacerations",
+      "minor cuts",
+      "minor scalds and minor burns",
+      "moist wound environment",
+      "autolytic debridement"
+    ],
+    "gold": [
+      {
+        "doc_id": "K131796",
+        "chunk_id": "K131796_c008",
+        "page_start": 9,
+        "page_end": 10
+      }
+    ],
+    "source_text": [
+      "Indications for Use: MANUKA FILL wound dressing may be used Over-The-Counter for the management of: > Minor Abrasions > Minor Lacerations > Minor Cuts > Minor Scalds and Minor Bums MANUKA FILL wound dressing provides a moist wound environment. A moist wound environment allows autolytic debridement of necrotic tissue. Prescription Use Over-The-Counter Use: X.. (Part 21 CER 801 Subpart D) AND/OR (21 CER 807 Subpart C) (PLEASE DO NOT WRITE BELOW THIS LINE) Concurrence of CDRH, Office of Device Evaluation (ODE) Jiyo0t?§ Dang -S\n\nINDICATIONS FOR USE 5 10(k) Number (if known): K1 31196"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-002": {
+    "id": "gen-single_510k-002",
+    "category": "single_510k",
+    "question": "What primary material is used in the Maxiocel Chitosan Wound Dressing described in 510(k) K212766?",
+    "answer": "The primary material for the Maxiocel Chitosan Wound Dressing is chitosan.",
+    "key_facts": [
+      "Maxiocel Chitosan Wound Dressing",
+      "primary material is chitosan"
+    ],
+    "gold": [
+      {
+        "doc_id": "K212766",
+        "chunk_id": "K212766_c007",
+        "page_start": 8,
+        "page_end": 9
+      }
+    ],
+    "source_text": [
+      "Classification Unclassified Unclassified Unclassified Same Advamedica Inc. 5.5 TRADITIONAL 510(k) Maxiocel Chitosan Wound Dressing Primary Material Chitosan Chitosan Chitosan Same Indications for Use Prescription use: The Maxiocel Chitosan Wound Dressing is indicated for the management of moderately to heavily exuding chronic and acute wounds and to provide a barrier against bacterial penetration. The Maxiocel Chitosan Wound Dressing can be used in the control of minor bleeding. Under medical supervision, the Maxiocel Chitosan Wound Dressing may be used for the management of the following wounds: ● Pressure sores ● Diabetic ulcers ● Leg ulcers ● Donor sites and graft sites ● Surgical wounds ● Skin abrasions and lacerations ● 1st and 2nd degree partial thickness burns ● Trauma Prescription use: The KA01 Chitosan Wound Dressing is indicated for the management of moderately to heavily exuding chronic wounds and acute wounds. Under medical supervision, the KA01 Chitosan Wound Dressing may be used for the management of: ●Pressure sores ●Diabetic ulcers ●Leg ulcers ●Donor sites and graft sites ●Surgical wounds ●Skin abrasions and Lacerations ●1st and 2nd-degree burns ●Trauma wounds Prescription use: Under the supervision of a healthcare professional AQUANOVA may be used for wounds such as leg ulcers (Stages I - IV), diabetic ulcers, surgical wounds (post - operative, donor sites, dermatological burns (first and second degree), and the management of surgical or traumatic wounds which have been left to heal by secondary intention. AQUANOVA may also be used for the local management of wounds that are prone to bleeding such as wounds that have been surgically or mechanically debrided, donor sites, and traumatic wounds. AQUANOVA can be used in the control of minor Same. See Note 1 Advamedica Inc. 5.6"
+    ],
+    "decision": "drop",
+    "drop_reason": "answer is in the device name, doesn't test retrieval"
+  },
+  "gen-single_510k-003": {
+    "id": "gen-single_510k-003",
+    "category": "single_510k",
+    "question": "What material is the CoMatryx Collagen Wound Dressing (K171645) made from, and what is its physical form?",
+    "answer": "The CoMatryx Collagen Wound Dressing is composed of Type 1 bovine collagen and is ground into a powder form.",
+    "key_facts": [
+      "Type 1 bovine collagen",
+      "ground to powder"
+    ],
+    "gold": [
+      {
+        "doc_id": "K171645",
+        "chunk_id": "K171645_c004",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "source_text": [
+      "INTENDED USE CoMatryx Collagen Wound Dressing may be used in the management of partial and full thickness wounds, pressure (stage I-IV) and venous ulcers, ulcers caused by mixed vascular etiologies, venous stasis and diabetic ulcers, 1st and 2nd degree burns, cuts, abrasions, and surgical wounds. VI. COMPARISON TO PREDICATE DEVICE CoMatryx Collagen Wound Dressing is Type 1 bovine collagen which absorbs wound fluid, maintains a moist wound environment and is equivalent to predicate products currently in commercial distribution. Both Predicate and Strukmyer CoMatryx Collagen Wound dressings are derived from Type 1 bovine collagen. Infrared Spectroscopy (IR) Scan provided as attachment of predicate and Strukmyer Collagen Wound dressings match identically proving that material composition of both products are same. Both predicate and Strukmyer collagen dressings are ground to powder. This formulation does not affect the intended use or alter the fundamental scientific technology of the device. By comparing product characteristics such as physical shape, IR Spectrum, pH, color, absorbency and moisture content of both predicate and Strukmyer Collagen Wound dressings, it can be concluded that Strukmyer Collagen Wound dressings is substantially equivalent to the predicate device. The CoMatryx Collagen Wound Dressing is as safe and effective as the predicate devices referenced herein. CoMatryx Collagen Wound Dressing has similar intended uses, technological characteristics, and basic principles of operation as the aforementioned predicate device and raises no new issues of safety or effectiveness. CoMatryx Collagen Wound Dressing is substantially equivalent to the predicate device. See below for a comparison table. 510(k) Premarket Notification: CoMatryx Collagen Wound Dressing, K171645 Strukmyer Medical Page 5-3\n\nParameters CoMatryx Collagen Wound Dressing\n\nCollaTek* Powder (aka Medifil II Particles) BioCore K012990 Test Methods (standards) Indications for use May be used in the management of: • Partial and full thickness wounds • Pressure (stage I-IV) and venous ulcers • Ulcers caused by mixed vascular etiologies • Venous stasis and diabetic ulcers • 1st and 2nd degree burns • Cuts, abrasions, and surgical wounds May be used in the management of: • Partial and full thickness wounds • Pressure (stage I-IV) and venous ulcers • Ulcers caused by mixed vascular etiologies • Venous stasis and diabetic ulcers • 1st and 2nd degree burns • Cuts, abrasions, and surgical wounds 510k Comparison"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-004": {
+    "id": "gen-single_510k-004",
+    "category": "single_510k",
+    "question": "What sterilization method is used for the exsaltTM Wound Dressing (K100580) and its predicate devices?",
+    "answer": "The exsaltTM Wound Dressing and its predicate devices are sterilized by gamma irradiation.",
+    "key_facts": [
+      "gamma irradiation",
+      "exsaltTM Wound Dressing",
+      "predicate devices"
+    ],
+    "gold": [
+      {
+        "doc_id": "K100580",
+        "chunk_id": "K100580_c001",
+        "page_start": 2,
+        "page_end": 2
+      }
+    ],
+    "source_text": [
+      "7. Intended Use The exsalt'M Wound Dressing is indicated for first aid to help minor cuts, scrapes, abrasion, * ~~lacerations and scalds. The device is intended to be used over-the-counter. The exsaltT' Wound Dressing provides a barrier with silver as a preservative to inhibit microbial growth in the dressing. I ~ ~The exsaltt'M Wound Dressing has shown to be effective in vitro against Staphylococcus aureus, Escherichia coli4 Pseudamonas aeruginosa, and Enterococcusfoecalis. &Summary of Substantial Equivalence The labeled indications and directions for use of the exsalItTM Wound Dressing are equivalent to those of the predicate devices, CURADO Silver Bandage and Silverlon Silver Strips'T mAdhesive Strips. The device design, materials, and manufacturing methods are the same as exsaltm SD7 Wound Dressing submission (K083870) and therefore does not raise any new issues concerning safety or effectiveness. a) Summary of Technological Characteristics The exsalt'\" Wound Dressing consists of 2 outer layers of HDPE with an inner layer of absorbent polyester which are all silver-coated. The skin-contacting materials in both the exsaltm' Wound Dressing and the predicate are the same. exsalttM Wound Dressing was found to be safe in Biocompatibility Tests, including tests for irritation, sensitization, and cytotoxicity. Silver is deposited on the exsalt\"' Wound Dressing using an aqueous chemistry approach. The process produces oxidized silver species that are applied to the substrate. The application of silver to the dressing does not affect the efficacy or safety of the device as demonstrated by the results of the bactericidal and antimicrobial efficacy testing, and biocompatibility testing. The exsalt\"' Wound I ~ ~~Dressing and the predicate are sterilized by gamma irradiation. There were no changes in the exsalt' m Wound Dressing in terms of technological characteristics as compared to the predicate device exsalJtTM SD7 Wound Dressing (K083870). Confidential 30 Sep 2010 1.3"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-005": {
+    "id": "gen-single_510k-005",
+    "category": "single_510k",
+    "question": "Under which FDA regulation part must a manufacturer register and list a device such as the CollaFirma Collagen Wound Dressing?",
+    "answer": "Registration and listing requirements are found in 21 CFR Part 807.",
+    "key_facts": [
+      "21 CFR Part 807",
+      "registration and listing"
+    ],
+    "gold": [
+      {
+        "doc_id": "K120250",
+        "chunk_id": "K120250_c005",
+        "page_start": 4,
+        "page_end": 5
+      }
+    ],
+    "source_text": [
+      "regulations administered by other Federal agencies. You must comply with all the Act's requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 80 1); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set Page 2 - Surendra Batra, Ph.D forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product radiation control provisions (Sections 53 1-542 of the Act); 21 CFR 1000-1050. If you desire specific advice for your device on our labeling regulation (21 CER Part 801), please go to htttw//www.fda.uov/AbouitFDA/CentersOffices/CDRH/CDR-IOfficeS/LICM II 5809.hitm for the Center for Devices and Radiological Health's (CDRH's) Office of Compliance. Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (2 ICER Part 807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CER Part 803), please go to http://www.fda.gov/Medical Devices/Safetv/RetoortaProblem/default.htin for the CDRI-'s Office of Surveillance and Biometrics/Division of Postmarket Surveillance. You may obtain other general information on your responsibilities under the Act from the Division of Small Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 796-7100 or at its Internet address htty):HIw-w. fda.2ov/MedicalDevices/ReSOuircesforYoui/lndustrv/default.htni. Sincerely yours, FOR Pete Eft~j, 3 m -S Mark N. Melkerson Acting Director Division of Surgical Devices Office of Device Evaluation Center for Devices and Radiological Health Enclosure"
+    ],
+    "decision": "drop",
+    "drop_reason": "boilerplate cover letter, device name fabricated"
+  },
+  "gen-single_510k-006": {
+    "id": "gen-single_510k-006",
+    "category": "single_510k",
+    "question": "What concentration of PHMB is present in the absorbent pad of the PHMB Wound Dressing described in 510(k) K221532, and what sterilization method is used for it?",
+    "answer": "The absorbent pad contains 0.2% PHMB, and the dressing is sterilized using ethylene oxide under conditions validated per ISO 11135:2014.",
+    "key_facts": [
+      "0.2% PHMB",
+      "Ethylene Oxide sterilization",
+      "ISO 11135:2014"
+    ],
+    "gold": [
+      {
+        "doc_id": "K221532",
+        "chunk_id": "K221532_c004",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "source_text": [
+      "5. Device Description The proposed device PHMB Wound Dressing is a sterile wound dressing. It is used as a primary or secondary dressing to absorb wound exudates. Based on in vitro testing, the antibacterial agent PHMB in dressing helps to resist bacterial colonization within the dressing for up to 7 days. The proposed device is available in two configurations, The first one, PHMB Island Wound Dressing with acrylic adhesive, consists of a polyester viscose non-woven backing layer coated with acrylic adhesive as the top layer, a center soft absorbent pad which is made of non-woven fabric containing 0.2 % PHMB and it is laminated with the PET film, and a release liner covers on the top adhesive layer border part. The second one, PHMB Pad Wound Dressing, only consists of a soft absorbent pad containing 0.2 % PHMB and the non-woven absorbent pad is laminated with the PET film. The PHMB Island Wound Dressings with acrylic adhesive are supplied in a range of sizes within the range from 25 cm2 to 400 cm2, while for PHMB Pad Wound Dressings are supplied in a range of sizes within the range from 25 cm2 to 225 cm2. For each configuration, it has exactly the same materials, chemicals, and physical properties and are different only in size. All variants of proposed device, PHMB Wound Dressing, are sterilized by Ethylene Oxide using conditions validated following ISO 11135:2014. 6. Intended Use Statement Prescription Use: PHMB Wound Dressings are indicated for use in the management of post-surgical incisions, pressure sores, venous stasis ulcers, diabetic ulcers, donor sites, abrasions, lacerations, first and superficial second degree burns, dermatologic disorders, other wounds inflicted by trauma and, as a secondary dressing or cover dressing for packed wounds. 510(K) Summary 3/7"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-007": {
+    "id": "gen-single_510k-007",
+    "category": "single_510k",
+    "question": "Under which 510(k) number was the OxyBand Wound Dressing previously cleared for marketing before the 02S filing?",
+    "answer": "The OxyBand Wound Dressing was previously cleared under 510(k) number K04063.",
+    "key_facts": [
+      "K04063 (OCR-garbled predicate K-number",
+      "verify if used for scoring)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K121407",
+        "chunk_id": "K121407_c001",
+        "page_start": 1,
+        "page_end": 1
+      }
+    ],
+    "source_text": [
+      "3. Predicate Devices This device is the exact same device previously approved for our partner OxyBand Technologies, Inc. This device has previously been cleared for marketing under the Oxy~and Technologies, Inc. 510O(k), number K04063. 02S is filing its own 510(k) application, because 02S plans to produce and sell the same wound dressing to Governmental customers, and will assume the responsibilities of \"product owner\" under a new 02S 510(k). OxyBand Technologies, Inc. has retained the eiclusive right to produce and sell these wound dressing products to non-Governmental customers, and will need to retain the OxyBand Technologies, Inc. original 510(k) for that purpose. See Appendix 2. The 023 - OxyBand\"' Wound Dressing is substantially equivalent to the predicate device and introduces no new indications for use. In addition, the requested indications meet the requirements listed in the \"FDA Draft Guidance for the Preparation of a Premarket Notification for a Non-Interactive Wound and Bum Dressing\" dated March 31, 1995."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-008": {
+    "id": "gen-single_510k-008",
+    "category": "single_510k",
+    "question": "What concentration range of polyhexamethylene biguanide (PHMB) is incorporated into the absorbent polyurethane foam pad of the Silicone PHMB Foam Wound Dressing described in 510(k) K190819?",
+    "answer": "The absorbent polyurethane foam pad contains PHMB at 0.8-1.1 %w/w.",
+    "key_facts": [
+      "0.8-1.1 %w/w PHMB",
+      "absorbent polyurethane foam pad",
+      "Silicone PHMB Foam Wound Dressing / K190819"
+    ],
+    "gold": [
+      {
+        "doc_id": "K190819",
+        "chunk_id": "K190819_c009",
+        "page_start": 7,
+        "page_end": 8
+      }
+    ],
+    "source_text": [
+      "predicate device shows no new questions of safety or effectiveness, and no change to intended use compared to predicate or reference device\n\nTechnological characteristics Silicone PHMB Foam Wound Dressing is a multi-layer one piece dressing design incorporating an absorbent polyurethane foam pad containing 0.8-1.1 %w/w PHMB which is efficacious against bacteria and yeast microorganisms within the dressing. The dressing is semi-occlusive allowing the exchange of gases such as oxygen and moisture, and has a film that provides a barrier to bacterial penetration through the dressing. The silicone wound contact layer contains a gentle silicone adhesive that provides secure, non-irritating adhesion and supports non-traumatic removal during dressing changes. Silicone PHMB Foam Wound Dressing is equivalent to the predicate device listed when compared to the technological characteristics such as design, materials, chemical composition, and manufacture and are supplied sterile for single use.\n\nK190819 Page 5 of 5\n\nAdvanced Medical Solutions Limited Premier Park, 33 Road One Winsford Industrial Estate Cheshire. CW7 3RT. UK Tel : +44 (0)1606 863500 Fax : +44 (0)1606 863600 Web : www.admedsol.com Registered in England 2666957 VAT No. GB636 5551 27\n\nCertificate No. MD78010"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-009": {
+    "id": "gen-single_510k-009",
+    "category": "single_510k",
+    "question": "Which preservative does the SONAFINE Wound Dressing predicate device (K110172) share with the PluroGel Burn and Wound Dressing (OTC) formulation?",
+    "answer": "Both the SONAFINE Wound Dressing predicate device (K110172) and the PluroGel Burn and Wound Dressing (OTC) contain potassium sorbate as a preservative.",
+    "key_facts": [
+      "Potassium sorbate",
+      "K110172",
+      "PluroGel Burn and Wound Dressing (OTC)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K233151",
+        "chunk_id": "K233151_c009",
+        "page_start": 6,
+        "page_end": 6
+      }
+    ],
+    "source_text": [
+      "Predicate Device Sonafine Comparison Analysis supports autolytic debridement of necrotic tissue. SONAFINE® Wound Dressing maintains a moist wound and skin environment. The subject device and reference device 2 contain Poloxamer P-188 and are used for maintaining a moist wound healing environment that supports autolytic debridement of necrotic tissue. OTC Indications for Use PluroGel® Burn and Wound Dressing (OTC) is indicated for the management of minor cuts, minor burns, and minor lacerations. PluroGel® Burn and Wound Dressing (OTC) maintains a moist wound and skin environment. SONAFINE® Wound Dressing is indicated for the management of minor cuts, minor burns, and minor lacerations. SONAFINE® Wound Dressing maintains a moist wound and skin environment. Contraindicated for individuals with a known sensitivity to the components contained in the formulation. Same as Predicate Device Ingredients Poloxamer, Purified Water, Phenoxyethanol (antimicrobial preservative), Sodium Phosphate Dibasic, Potassium Sorbate (antimicrobial preservative), Citric Acid. Avocado oil, cetyl palmitate, ethylene glycol monostearate, fragrance, liquid paraffin, methyl paraben, paraffin wax, propylene glycol, propyl paraben, purified water, sodium alginate, sodium hydroxide, sorbic acid (potassium salt), squalene, stearic acid and trolamine. Similar to Predicate Device Note: The subject device and the predicate device comprise ingredients that act as surfactants, diluents, buffers, humectants and preservatives (to inhibit the growth of microorganisms within the product). The predicate device (K110172) contains one of the same preservatives as the subject device (Potassium Sorbate), and reference device 1 (K052643) contains the other preservative (Phenoxyethanol). The subject device, the predicate device and reference devices all meet biocompatibility safety requirements in accordance with to ISO 10993-1. Configurations 50g jars 28g, 45g and 90g tubes."
+    ],
+    "decision": "drop",
+    "drop_reason": "comparison table, question conflates subject/predicate identity"
+  },
+  "gen-single_510k-010": {
+    "id": "gen-single_510k-010",
+    "category": "single_510k",
+    "question": "For the Urgoclean Ag wound dressing cleared under K143017, what type of wound exudate is the device specifically intended to manage, and which category of chronic wounds does the indication list?",
+    "answer": "Urgoclean Ag is indicated to manage exuding wounds, particularly during debridement of slough, and the chronic exuding wounds listed include venous stasis ulcers, arterial ulcers, pressure ulcers (stage II-IV), and diabetic ulcers.",
+    "key_facts": [
+      "exuding wounds",
+      "debridement of slough",
+      "venous stasis ulcers, arterial ulcers, pressure ulcers (stage II-IV), diabetic ulcers"
+    ],
+    "gold": [
+      {
+        "doc_id": "K143017",
+        "chunk_id": "K143017_c002",
+        "page_start": 3,
+        "page_end": 4
+      }
+    ],
+    "source_text": [
+      "Indications for Use\n\n510(k) Number: K143017 Device Name: Urgoclean Ag, Antibacterial Absorbent Wound Dressing with Silver Indications For Use: Urgoclean Ag, Antibacterial Absorbent Wound Dressing with Silver is indicated to manage exuding wounds, especially during the debridement of slough. This includes chronic exuding wounds such as venous stasis ulcers, arterial ulcers, pressure ulcers (stage II-IV), diabetic ulcers; surgical wounds (post-operative, dermatological); partial thickness burns; traumatic wounds; local management of wounds that are prone to bleeding, such as wounds that have been mechanically or surgically debrided. The dressing also provides an antibiotic barrier for bacterial penetration of the dressing, which may help reduce infection. Prescription Use X\n\n AND/OR Over-The-Counter Use _____ (Part 21 CFR 801 Subpart D)\n\n(21 CFR 801 Subpart C)\n\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED) __________________________________________________________________\n\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n\n5-1\n\nPart 5 - 510(k) Summary\n\nPremarket Notification Summary –July 28, 2015\n\n1. Sponsor Information:\n\nLaboratoires URGO\n\n42 Rue de Longvic\n\n21300 Chenove\n\nFrance\n\nContact Person: Sophie Fortin\n\nRegulatory Affairs Manager\n\nPhone: +33.3.80.44.28.78\n\nFax: +33.3.80.44.71.40"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-011": {
+    "id": "gen-single_510k-011",
+    "category": "single_510k",
+    "question": "For how many days does the exsalt 5D7 Wound Dressing maintain its antibacterial activity against Pseudomonas aeruginosa and Staphylococcus aureus, according to the K103067 premarket notification?",
+    "answer": "The exsalt 5D7 Wound Dressing maintains its antibacterial activity for up to 7 days against Pseudomonas aeruginosa and Staphylococcus aureus.",
+    "key_facts": [
+      "7 days",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus"
+    ],
+    "gold": [
+      {
+        "doc_id": "K103067",
+        "chunk_id": "K103067_c003",
+        "page_start": 2,
+        "page_end": 2
+      }
+    ],
+    "source_text": [
+      "by gamma irradiation. In summary, the change in the exsat TM 507 Wound Dressing manufacturing process does not raise any concerns related to safety or effectiveness as compared to the predicate device (K(083870). b) Summary of Performance Data The following performance tests were conducted on the exsalt'Ml 507 Wound Dressing: October 14, 2010 Exciton Technologies Inc. exsat M SD7 Wound Dressing (7-Day Claim) Premarket Notification * Absorptive Capacity * Moisture Content \" Drop Penetration * Adhesion * Abrasion \" Silver Content * Anti-microbial (Bacterial) Effectiveness * Bactericidal Effectiveness * Biocompatibility * Biological Reactivity Absorptive capacity, moisture content, adhesion, and abrasion characteristics are the same as the predicate. The exsalt M 507 Wound Dressing showed no new safety concerns relative to biocompatibility. The predicate was shown to be non-toxic, non-irritant, and did not elicit a sensitization response. The exsat TM 507 Wound Dressing (K083870) has been shown to be effective in vitro against Staphylococcus aureus, Escherichia coll, Pseudomoas aeruginosa and Enterococcusfaecalis. In addition, in vitro data have demonstrated that exsalt'M SD7 Wound Dressing maintains its antibacterial activity for up to 7 days against Pseudomonas aeruginosa and Staphylococcus aureus. October 14, 2010"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-012": {
+    "id": "gen-single_510k-012",
+    "category": "single_510k",
+    "question": "What sterilization method is specified for the RENASYS-F NPWT Wound Dressing Kit with Softport (K110647)?",
+    "answer": "The RENASYS-F NPWT Wound Dressing Kit with Softport is sterilized using ethylene oxide.",
+    "key_facts": [
+      "Ethylene Oxide",
+      "RENASYS-F NPWT Wound Dressing Kit with Softport",
+      "K110647"
+    ],
+    "gold": [
+      {
+        "doc_id": "K110647",
+        "chunk_id": "K110647_c004",
+        "page_start": 3,
+        "page_end": 4
+      }
+    ],
+    "source_text": [
+      "Predicate Device: Predicate Device: New Device: Name: RENASYS h - Foam and Gauze Wound RENASYS-F NPWT Versatile 1 Wound Dressing Kits with Foam Dressing kit Vacuum System Softport (including gauze wound dressing kits) 510(k): K1 10647 K082211 K042134 Manufacturer: Smith & Nephew, Inc. Smith & Nephew, Inc. Blue Sky Medical (Smith & Nephew, Inc.) InteFoam and: Gh E auze Foam dressing kits are Indicated for Foamand auze intended to be used in patients who wound NPWT Wound cojnto ihSihbenefit from a Dressing Kits with coNjunciowithgSith suction device Softport are Intended Pressure Wound particularly as the to be used in Therapy systems to device may promote conjunction with deliver negative wound healing. Smith & Nephew pressure to the NPWT systems. wound. Smith & Smith & Nephew Nephew NPWT NPWT systems are systems are indicated indicated for patients for patients who would who would benefit, benefit from a suction from a suction device device particularly as (negative pressure the device may wound therapy) as it promote wound may promote wound heln. PTi healing via the appropriate for use on removal of fluids, the following wounds: including irrigation and body fluids, -Pressure ulcers wound exudates and - Diabetic / infectious materials. neuropathic ulcers Examples of appropriate wound -Venous insufficiency types include: ulcers chronic, acute, -Traumatic wounds traumatic, sub-acute and dehisced * Post-operative and wounds, ulcers (such dehisced surgical as pressure or wounds diabetic), partial- - Explored fistulas thickness burns, flaps .Skin flaps and grafts and grafts. Materials: Wound Filler:\n\nHydrophobic, Hydrophobic. Antimicrobial Gauze Polyurethane foam Polyurethane foam Silicone drain or Silicone drain PVC Tube Antimicrobial Gauze PVC Tube Polyurethane drape Polyurethane drape Softport assembly: Polyurethane film, 3-D knit polyester fabric, Polyurethane foam, Non-woven polyester, Polyurethane drape with adhesive coating, Polyurethane drape _________ Single-use or Single-use Single-use Single-use Reusable: Method of Ethylene Oxide Ethylene Oxide Individual kit"
+    ],
+    "decision": "drop",
+    "drop_reason": "3-column comparison table badly mangled, column alignment unrecoverable"
+  },
+  "gen-single_510k-013": {
+    "id": "gen-single_510k-013",
+    "category": "single_510k",
+    "question": "What predicate device did NovaBone Products, LLC identify as substantially equivalent to its NovaTape and NovaPlug Dental Collagen Wound Dressings in 510(k) K142712, and what was that predicate's FDA clearance date?",
+    "answer": "The predicate was the Collagen Topical Wound Dressing – Oral, cleared as K040403 on May 10, 2004 and marketed as ACE Resorbable Collagen Tape (RCT) and Plug (RCP).",
+    "key_facts": [
+      "K040403",
+      "Collagen Topical Wound Dressing – Oral",
+      "May 10, 2004",
+      "ACE Resorbable Collagen Tape (RCT) and Plug (RCP)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K142712",
+        "chunk_id": "K142712_c008",
+        "page_start": 8,
+        "page_end": 8
+      }
+    ],
+    "source_text": [
+      "Conclusion: NovaTape and NovaPlug Dental Collagen Wound Dressings are similar to the predicate device (K040403), Collagen Topical Wound Dressing – Oral that was cleared for marketing by FDA on May 10, 2004 and marketed under as ACE Resorbable Collagen Tape (RCT) and Plug (RCP). In vivo performance testing (porcine oral model) and biocompatibility testing were conducted on the 510(k) subject device. In the porcine oral model, the proposed device performed in an equivalent manner to the K040403 ACE predicate. Therefore, the NovaPlug / NovaTape devices are substantially equivalent to the K040403, Collagen Topical Wound Dressing – Oral when used for the specified indications for use.\n\nNovaBone Products, LLC NOT CONFIDENTIAL"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-014": {
+    "id": "gen-single_510k-014",
+    "category": "single_510k",
+    "question": "What sterilization assurance level (SAL) is achieved by the electron beam and gamma irradiation methods used for the MEBO Wound Dressing (K222657), and under which standard was the device's sterilization validated?",
+    "answer": "Both sterilization methods achieve a SAL of 10^-6, and the sterilization is validated according to ANSI AAMI ISO 11137-1: 2006/(R)2015.",
+    "key_facts": [
+      "SAL 10^-6",
+      "ANSI AAMI ISO 111371: 2006/(R)2015 (OCR-garbled standard number",
+      "likely \"ISO 11137-1\")"
+    ],
+    "gold": [
+      {
+        "doc_id": "K222657",
+        "chunk_id": "K222657_c005",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "source_text": [
+      "Sterilization Electron beam irradiation Gamma irradiation Different\n\nMEBO Wound Dressing K222657\n\nRTA 3-4\n\nBoth are sterilized to SAL 10-6 level. The sterilization of subject device is validated per ANSI AAMI ISO 111371: 2006/ (R)2015. SAL: 10-6 SAL: 10-6 Same The MEBO Wound Dressing has same mechanism, material, product design, applied duration as the predicate device. The differences above between the subject device and predicate devices do not affect the basic design principle, usage, effectiveness and safety of the subject device. And no question is raised regarding to effectiveness and safety. 8 Performance Testing Summary The bench testing performed verifies that the performance of the subject device is substantially equivalent in terms of critical performance characteristics to the predicate device. These tests include:\n\nAppearance\n\nSize deviation\n\nLiquid absorbency\n\nAcid Value\n\nPaste content (The mass of sesame oil and beeswax mix in the nonwoven fabrics)\n\n-Sitosterol content\n\nEndotoxin level"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-015": {
+    "id": "gen-single_510k-015",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for Urgotul Ag (K100430), what is the silver concentration of the antimicrobial hydrocolloid wound contact dressing?",
+    "answer": "The dressing contains silver at 2.25 mg per square inch.",
+    "key_facts": [
+      "2.25 mg/sq inch",
+      "silver concentration",
+      "Urgotul Ag"
+    ],
+    "gold": [
+      {
+        "doc_id": "K100430",
+        "chunk_id": "K100430_c002",
+        "page_start": 2,
+        "page_end": 2
+      }
+    ],
+    "source_text": [
+      "6. Technological Characteristics U U K6259UrgotuI .kg --FUNCTION -. 'ig\n\nI0~5) . Indications for The barrier functions of Urgotul® Ag, The barrier functions of Urgotul® Ag, Use antimicrobial wound dressing with antimicrobial wound dressing with silver, may help reduce infection in silver, may help reduce infection in light to moderate exudative partial and light to moderate exudative partial full thickness wounds, including and full thickness wounds, including diabetic ulcers, first and second diabetic ulcers, first and second degree burns, decubitus ulcers, degree burns, decubitus ulcers, venous stasis ulcers, and graft and venous stasis ulcers, and graft and donor sites. donor sites. Structure Composed of a non-adhesive, Composed of a non-adhesive, non-occlusive, antimicrobial non-occlusive, antimicrobial hydrocolloid wound contact dressing, hydrocolloid wound contact dressing, composed of a polyester mesh composed of a polyester mesh impregnated with a matrix comprising impregnated with a matrix comprising of hydrocolloid particles of hydrocolloid particles (carboxymethylcellulose), cohesion (carboxymethylcellulose), cohesion polymers, petroleum jelly and silver polymers, petroleum jelly and silver 1(2.25 mg/sg.inch). (2.25 mg/sg.inch). Antimicrobial Studies of antimicrobial activity against Studies of antimicrobial activity activity MRSA, Pseudomonus aeruginosa, against MRSA, Pseudomonus and Streptococcus pyogenes aeruginosa, Streptococcus pyogenes, Enterococcus faecalis, Escherichia coli, and Candida albicans 7. Description of Safety and Substantial Equivalence: Safety Studies The standard battery of safety and biocompatibility studies that were previously conducted showed the Urgocell Ag to be comparable to predicate devices and other silver containing wound dressings. These studies included: Cytotoxicity, Irritation study in rabbit, and Sensitization study in guinea pigs. Studies of the antimicrobial activity of Urgotul Ag wound dressing (K061 220) were previously conducted against MRSA, Pseudomonas aeruginosa, and Streptococcus pyogenes. With this submission, data was submitted concerning the antimicrobial activity of Urgocell® Ag on three new strains: Enterococcus faecais, Escherichia coi and Candida albicans."
+    ],
+    "decision": "drop",
+    "drop_reason": "2-column comparison table, unclear which device the silver figure belongs to"
+  },
+  "gen-single_510k-016": {
+    "id": "gen-single_510k-016",
+    "category": "single_510k",
+    "question": "Under the prescription indications for the Silverlon Island Wound Dressing (K143001), what is the maximum duration of use when applied under the supervision of a healthcare professional?",
+    "answer": "The Silverlon Island Wound Dressing is intended for up to 7 days of use under the supervision of a healthcare professional.",
+    "key_facts": [
+      "up to 7 day use",
+      "under the supervision of a healthcare professional",
+      "Silverlon Island Wound Dressing (K143001)"
+    ],
+    "gold": [
+      {
+        "doc_id": "K143001",
+        "chunk_id": "K143001_c005",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "source_text": [
+      "Indications for Use Silverlon® Island Wound Dressing and Silverlon® Wound Pad Dressing are multi-layer, sterile, non-adherent, antimicrobial barrier wound dressings. 5.10.1. The Over-The-Counter Indications: Local management of superficial wounds, minor burns, abrasions and lacerations. 5.10.2. Prescription Indications: Under the supervision of a healthcare professional Silverlon® Island Wound Dressings and Silverlon® Wound Pad Dressings are intended for up to 7 day use for wounds such as vascular access or peripheral IV sites, orthopedic external pin sites, wound drain sites, surgical wounds (donor and graft sites, incisions), and partial to full thickness dermal ulcers (stage I-IV pressure sores, venous stasis ulcers, arterial ulcers, diabetic ulcers). K143001 Silverlon Island Wound Dressing – Wound Pad Dressing 2014-10-29"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-017": {
+    "id": "gen-single_510k-017",
+    "category": "single_510k",
+    "question": "Which ISO standard was used to guide the biocompatibility evaluation of the Medeor Matrix Wound Dressing (K141738)?",
+    "answer": "The biocompatibility testing for Medeor Matrix Wound Dressing was performed according to ISO 10993-1:2009, Biological Evaluation of Medical Devices—Part 1.",
+    "key_facts": [
+      "ISO 10993-1:2009",
+      "Biological Evaluation of Medical Devices",
+      "Part 1"
+    ],
+    "gold": [
+      {
+        "doc_id": "K141738",
+        "chunk_id": "K141738_c008",
+        "page_start": 7,
+        "page_end": 8
+      }
+    ],
+    "source_text": [
+      "Packaging Double peel packages Double peel packages Double peel packages\n\n5-4A RTA Response 08/12/14 K141738 page 4 of 5\n\nBiocompatibility and Performance Data: Biocompatibility testing, bench testing and characterization testing have been conducted to evaluate the biological safety and biomechanical performance characteristics of Medeor Matrix Wound Dressing.\n\nBiocompatibility testing was completed on the finished sterile device in accordance with the requirements of ISO 10993-1: 2009, Biological Evaluation of Medical Devices—Part 1: Evaluation and Testing within a Risk Management Process. Testing included Cytotoxicity, Sensitization, Irritation, Acute Systemic Toxicity, Genotoxicity, Hemocompatibility, Subacute Systemic Toxicity, and Chronic Systemic Toxicity. Other safety testing included a viral inactivation study and residual chemical assessment. Results indicate that the device’s biocompatibility profile is acceptable.\n\nBench testing included hydration and suture testing. Testing results indicate that the device is equivalent to the predicate device and meets the requirements for its intended use."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-018": {
+    "id": "gen-single_510k-018",
+    "category": "single_510k",
+    "question": "What ingredient in Medline Burn and Wound Dressing (K173911) serves as a preservative to prevent microbial growth in the product?",
+    "answer": "Polyhexanide (PHMB) is the preservative included in Medline Burn and Wound Dressing to inhibit microorganism growth.",
+    "key_facts": [
+      "Polyhexanide",
+      "PHMB",
+      "preservative"
+    ],
+    "gold": [
+      {
+        "doc_id": "K173911",
+        "chunk_id": "K173911_c005",
+        "page_start": 5,
+        "page_end": 5
+      }
+    ],
+    "source_text": [
+      "Device Description Medline Burn and Wound Dressing is a translucent, biocompatible, odorless, semisolid gel intended to cleanse and moisten the wound bed. The dressing maintains moisture in the wound and protects the wound from dessication to provide an optimal moist wound environment conducive to wound healing. Medline Burn and Wound Dressing contains a gentle surfactant and is water soluble to aid in the removal of wound debris in between dressing changes.\n\nMedline Burn and Wound Dressing is provided non-sterile for single patient use. Polyhexanide (PHMB) acts as a preservative to inhibit the growth of microorganisms within the product."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-019": {
+    "id": "gen-single_510k-019",
+    "category": "single_510k",
+    "question": "Under which part of Title 21 of the Code of Federal Regulations must a medical device be registered and listed, according to the FDA letter to Jon Speer regarding 510(k) number K132004?",
+    "answer": "Registration and listing requirements are found in 21 CFR Part 807.",
+    "key_facts": [
+      "21 CFR Part 807",
+      "registration and listing"
+    ],
+    "gold": [
+      {
+        "doc_id": "K132004",
+        "chunk_id": "K132004_c006",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "source_text": [
+      "Federal agencies. You must comply with all the Act's requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (2 1 JFR Part 801 ); medical device reporting (reporting of medical device-related adverse events) (2 1. C FR 80)3); gpood manufacturing practice requ iremnits as set Page 2 - Mr. Jon Speer forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. If you desire specific advice for your device on our labeling regulation (21 CFR Part 80 1), please contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) 796-7100 or at its Internet address htt://www.fda.govfMedicalDevices/ResourcesforYou/lndustry/default.htm. Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (2ICFR Part 807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CER Part 803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htmn for the CDRH's Office of Surveillance and Biometrics/Division of Postmarket Surveillance. You may obtain other general information on your responsibilities under the Act from the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) 796-7 100 or at its Internet address http://www.fda.gov/MedicalDevices/ResourcesforYou/lndustrv/default.htnl. Sincerely yours, Binita S. Ashar,-$,-' 201 4.05.O1 1161;4'W -04'00' Binita S. Ashar, M.D., M.B.A., F.A.C.S. Acting Director Division of Surgical Devices Office of Device Evaluation Center for Devices and Radiological Health Enclosure 510(1,) -Nmber (If known) K 13 2004"
+    ],
+    "decision": "drop",
+    "drop_reason": "boilerplate cover letter, same generic paragraph as #5"
+  },
+  "gen-single_510k-020": {
+    "id": "gen-single_510k-020",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for the Enluxtra Humifiber Wound Dressing (K122297), what result was reported for the bacterial mutagenicity testing?",
+    "answer": "The bacterial mutagenicity test result was reported as not mutagenic.",
+    "key_facts": [
+      "Bacterial Mutagenicity",
+      "not mutagenic",
+      "Enluxtra Humifiber Wound Dressing"
+    ],
+    "gold": [
+      {
+        "doc_id": "K122297",
+        "chunk_id": "K122297_c001",
+        "page_start": 2,
+        "page_end": 3
+      }
+    ],
+    "source_text": [
+      "predicate devices: - Absorbency, - Microbial barrier/strike through, - Biocompatibility, including the following tests: #Test Results Cytotoxiclity - ISO Agar Diffusion Non-Toxic/ Passed Intracutaneous (Intradermal) Reactivity Non-irritant/ Passed Maximization Test for Delayed-Type Negative for evidence Hypersensitivity of sensitization Acute Systemic Toxicity Non-Toxic/ Passed 5 Hemolysis Tes - o-emolytic Extraction and Direct contact Methods - Bacterial Mutagenicity (not mutagenic) _BASF,Inc. Premarket Notification Enluxtra Humnifiber Wound Dressing. Section 5 510(k) Summary of Safety and Effectiveness Basis for Determination of Substantial Equivalence: Upon reviewing the safety and efficacy information provided in this submission and comparing intended use, principle of operation and overall technological characteristics, the Enluxtra M Humnifiber'\" Wound Dressings are determined to be substantially equivalent to existing legally marketed devices. All performance characteristics of the Enluxtra' M HumifiberM Wound Dressings are the same or similar as the predicates. Th e Enluxtra' M Humifiber Wound Dressings raised no new safety concerns relative to biocompatibility. Testing performed on the Enluxtra' M Humifiber' M Wound Dressing showed that it was non-toxic, non-irritant, negative for eyidence of sensitization, nonhemolytic and non-mutagenic. BASF,Inc. Premarket Notification Enluxtra Humriffiber Wound Dressing"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-021": {
+    "id": "gen-single_510k-021",
+    "category": "single_510k",
+    "question": "What natural-based biopolymer is used to manufacture the Sentrex Bioponge Wound Dressing (K112191)?",
+    "answer": "The Sentrex Bioponge Wound Dressing is manufactured from chitosan, a non-toxic, biodegradable, biocompatible, natural-based biopolymer.",
+    "key_facts": [
+      "chitosan",
+      "natural-based biopolymer",
+      "biodegradable and biocompatible"
+    ],
+    "gold": [
+      {
+        "doc_id": "K112191",
+        "chunk_id": "K112191_c002",
+        "page_start": 2,
+        "page_end": 4
+      }
+    ],
+    "source_text": [
+      "Intended Use: The Sentrex Bioponge Wound Dressing is indicated in the dressing and management of: *Full thickness and partial thickness wounds *.Pressure ulcers *Venous ulcers *Ulcers caused by mixed vascular etiologies *Diabetic ulcers *First and second degree burns *Donor sites and other bleeding surface wounds *Abrasions * Trauma wounds healing by secondary intention * Dehisced wounds * Surgical wounds * Dehisced surgical wounds Summary of Technological Characteristics The Sentrex Bioponge Wound Dressing is a sterile, porous, soft sponge dressing manufactured by a proprietary process from chitosan, a non-toxic, biodegradable, biocompatible, natural-based biopolymer. Chitosan has extensive safety data associated with its use in biomedical applications. Like collagen, chitosan induces a minimal foreign body reaction and retains more moisture than standard gauze, providing a moist environment to support wound healing. Summary of Nonclinical Testing Numerous studies including, biocompatibility testing, local tissue response testing, and bacterial inhibition (AATCC Test Method 100, Microbial Strike-Through Test, and Kirby-Bauer Antimicrobial Susceptibility Test performed with the naive Sentrex Bioponge and the Sentrex Bioponge with antibiotics) testing demonstrate the performance of the Sentrex Bioponge Wound Dressing. Bionova Medical, Inc. June 4, 2012 Sentrex Bionponge Wound DressineZ 510k Premr ke AooIcat4 Determination of Substantial Equivalence The claim of substantial equivalence of the Sentrex Wound Dressing to the predicate devices is based on the comparison of the intended use, product technical/material characteristics, and performance characteristics. Bionova Medical, Inc. considers the Sentrex Bioponge Wound Dressing to be as safe and as effective, with substantially equivalent performance to the predicate devices. Bionova Medical, Inc.5 June 4, 2012 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service Food and Drug Administration 10903 Newv Hampshire Avenue Document Control Room -W066-G609 Silver Spring. MD 20993-0002 J UN"
+    ],
+    "decision": "drop",
+    "drop_reason": "answer near-copies passage wording + question too easy (not in device name but leaked in first read)"
+  },
+  "gen-single_510k-022": {
+    "id": "gen-single_510k-022",
+    "category": "single_510k",
+    "question": "In the performance testing for the Field Shield Wound Dressing (K212521), what reduction percentage and time-to-kill were demonstrated in the modified USP<51> time-to-kill test against organisms such as MRSA, VRE, and Candida auris?",
+    "answer": "The modified USP<51> time-to-kill test showed a 99.99% reduction of microorganisms, including MRSA, VRE, Candida albicans, and Candida auris, within 10 minutes of exposure.",
+    "key_facts": [
+      "99.99% reduction",
+      "within 10 minutes",
+      "MRSA, VRE, Candida albicans, Candida auris"
+    ],
+    "gold": [
+      {
+        "doc_id": "K212521",
+        "chunk_id": "K212521_c008",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "source_text": [
+      "antibiotic resistant strains of MRSA and VRE, as well as fungi such as Candida albicans and Candida auris within the dressing. K212521, Field Shield® Wound Dressing Any technological differences between the subject device and predicates do not raise different questions of safety or effectiveness in comparison to the predicate devices. Summary of Performance Testing Performance testing has been completed on the device, including Clinical evaluation, Antimicrobial activity testing, Performance testing, Biocompatibility evaluation, Endotoxin testing and Preservative Effectiveness testing, to demonstrate substantial equivalence to the predicate devices. Below is a list of some of the testing completed. Testing Results Clinical Study Pain Relief provided within 30 minutes of application Guinea Pig Maximization Sensitization Test Passed (Score 0) Irritation Test Passed (Score 0) Acute systemic toxicity Passed (Non-toxic) Material Mediated Pyrogenicity Test Passed Subacute/Subchronic Toxicity Passed Implantation Passed USP<51> Antimicrobial Preservative Effectiveness Test Passed (met USP 51 and PCPC requirements) USP<51> Modified “Time to Kill” Test Passed, 99.99% Reduction within 10 minutes of microorganisms including Staphylococcus aureus, Pseudomonas aeruginosa, Escherichia coli, antibiotic resistant strains of MRSA and VRE, as well as fungi such as Candida albicans and Candida auris Endotoxin Analysis Passed, <0.5 EU/mL or <20.0 EU/device Additionally, a nonclinical study was conducted comparing use of the subject device and standard of care in a wound healing model. There were no device-related adverse events during the study. The results of this study demonstrated that the subject device does not raise different questions of safety and effectiveness and does not significantly increase any concerns of safety or effectiveness in comparison to standard of care and predicate devices."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-023": {
+    "id": "gen-single_510k-023",
+    "category": "single_510k",
+    "question": "Which FDA guidance document and ISO standard does the LUOFUCON® Collagen Particles (K232796) submission cite as the basis for its animal-derived materials safety requirements?",
+    "answer": "The submission states that safety for animal-derived materials complies with the FDA guidance on Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices) and with ISO 22442 standards.",
+    "key_facts": [
+      "FDA guidance: Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices)",
+      "ISO 22442",
+      "LUOFUCON® Collagen Particles / K232796"
+    ],
+    "gold": [
+      {
+        "doc_id": "K232796",
+        "chunk_id": "K232796_c010",
+        "page_start": 9,
+        "page_end": 10
+      }
+    ],
+    "source_text": [
+      "Sterility K232796\n\nTraditional 510(K) Submission 510(K) Summary\n\nK232796  In-Vitro degradation\n\n7.4 Animal-Derived Materials Safety Based on utilization of animal derived materials in LUOFUCON® Collagen Particles, the requirements of safety is compliant with FDA guidance document-Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices) and ISO 22442 standards. The subject device has the same collagen raw materials and animal source as the reference device (K213598), and the information related to the safety of animal-derived materials had been submitted and approved by the FDA in the previous K213598 submission."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-024": {
+    "id": "gen-single_510k-024",
+    "category": "single_510k",
+    "question": "What storage condition is specified for the SurgiAid® Collagen Wound Dressing described in the 510(k) summary K223126?",
+    "answer": "The SurgiAid® Collagen Wound Dressing must be stored in a dry place below 25°C.",
+    "key_facts": [
+      "SurgiAid® Collagen Wound Dressing",
+      "store in a dry place below 25°C"
+    ],
+    "gold": [
+      {
+        "doc_id": "K223126",
+        "chunk_id": "K223126_c009",
+        "page_start": 6,
+        "page_end": 9
+      }
+    ],
+    "source_text": [
+      "Predicate Device\n\npacked in secondary packing for additional protection Storage condition Store in a dry place below 25°C Store in a dry place below 25°C Store in a cool and dry place Identical to Predicate Device Performance ⚫ Water absorption (>25 fold) ⚫ Porosity (>80%) ⚫ Density (About 37 mg/cm3) ⚫ Water absorption (>25 fold) ⚫ Porosity (>80%) ⚫ Density (About 37 mg/cm3) NA Identical to Predicate Devic\n\n7. NON-CLINICAL PERFORMANCE DATA： The subject device is technically identical to the predicate device regarding materials, indications for use, form, sterilization, packaging and storage conditions. The only difference is the addition of new dimension. Any potential new risks raised with the new dimension have been identified and addressed with verification and validation activities to ensure that substantial equivalence is still established in technological characteristics.\n\nThe following non-clinical performance test evaluation associated with physicochemical and microbial properties, biocompatibility, sterilization, packaging and stability were conducted on SurgiAid Collagen Wound Dressing (subject device). The subject device is comprised of the same materials and undergo the same manufacturing process as the predicate device but different in dimensions simply caused by physical cutting.\n\nThe Biocompatibility evaluations including cytotoxicity, genotoxicity, acute systemic toxicity, sub chronic systemic toxicity, irritation reactivity, sensitization and pyrogen for the subject device were in accordance with ISO10993-1:2018. All results were acceptable. Moreover, the evaluation of sterilization, product/packaging stability (packaging- burst test, creep test, seal strength, dye penetration and sterility) and product characteristics testing (dimension, bioburden, endotoxin, thermal characteristics, collagenase resistance heavy metal value, lipid, carbohydrate, pepsin resistance and pH) has been completed and these results were leveraged to demonstrate the substantial equivalence between the subject device and predicated device. All tests were met acceptance criteria in according with related standards.\n\n8."
+    ],
+    "decision": "drop",
+    "drop_reason": "3-column table, \"store below 25°C\" duplicated identically in first two columns, can't confirm which is subject device"
+  },
+  "gen-single_510k-025": {
+    "id": "gen-single_510k-025",
+    "category": "single_510k",
+    "question": "What material is the Collagen Wound Dressing in 510(k) K231152 made from, and what form does it take?",
+    "answer": "The device is made entirely of bovine collagen and is supplied as a single-layer, porous sheet.",
+    "key_facts": [
+      "100% collagen",
+      "bovine source",
+      "single-layer sheet form",
+      "porous microstructure"
+    ],
+    "gold": [
+      {
+        "doc_id": "K231152",
+        "chunk_id": "K231152_c010",
+        "page_start": 10,
+        "page_end": 11
+      }
+    ],
+    "source_text": [
+      "Biocompatibility Comply with ISO 10993-1 Comply with ISO 10993-1 Animal experiments Performed, similar in the wound healing rate, no effect the normal healing of the wound. Complied Inactivation study of Viruses Performed, more than 6 logs reduction of viruses Complied Chemical Characterization Study and Toxicological Risk Assessment Performed, the toxicological risk of extractable is acceptable. Complied The Collagen Wound Dressing has the same intended use, similar indications for use, and very similar technological characteristics to the predicate device. All devices are 100% collagen from bovine and are designed as single-layer, sheet form, porous microstructure, Tyvek packaging, single-use, sterile product. They are manufactured by way of freeze-drying, cross-linking, and irradiation sterilization processes. The proposed device and predicate device employ the similar mode of action in that all devices contain an absorbent nature that maintains a moist wound environment to support natural wound healing. The premarket submission of Collagen Wound Dressing is compliant with FDA guidance document-Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices).\n\nTraditional 510(K) Submission: K231152 510(K) Summary 7 / 7\n\n9. Substantial Equivalence (SE) Conclusion The Collagen Wound Dressing has the same intended use, very similar indications for use and technological characteristics as the predicate device. The differences between the devices raise no new issues of safety or effectiveness. Based on the comparison and analysis above, the proposed device is determined to be Substantially Equivalent (SE) to the legally marketed predicate device with regard to intended use, indications for use, technological characteristics, performance tests, animal-derived materials evaluation, and biocompatibility."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-026": {
+    "id": "gen-single_510k-026",
+    "category": "single_510k",
+    "question": "What is the concentration of silver and oxidized silver species on the exsalt M T7 Wound Dressing, expressed both in mg/cm2 and as a weight percentage?",
+    "answer": "The silver and oxidized silver species concentration on the exsalt M T7 Wound Dressing is 0.4 mg/cm2, which corresponds to 4.5% w/w.",
+    "key_facts": [
+      "0.4 mg/cm2",
+      "4.5% w/w",
+      "silver and oxidized silver species"
+    ],
+    "gold": [
+      {
+        "doc_id": "K113564",
+        "chunk_id": "K113564_c001",
+        "page_start": 1,
+        "page_end": 2
+      }
+    ],
+    "source_text": [
+      "6. Device Description Exciton Technologies Inc. has developed the exsalt' technology, a proprietary chemical process, which deposits oxidized silver species onto a non-woven polyester with gray Delneto HOPE mesh layers thermally bonded on both sides. Silver in the exsat m T7 Wound Dressing inhibits bacterial growth in the dressing. The concentration of the silver and oxidized silver\n\nDecember, 2011\n\nExciton Technologies Inc. exsalt M T7 Wound Dressing Special 510(k) species on the dressing is 0.4 mg/cm 2 (4.5% w/w). The exsalt M T7 Wound Dressing is known to be effective in vitro against Staphylococcus aureus, Enterococcusfaecalis, Staphylococcus epiderrnidis, Pseudomonos aerugi nosa, and Acinetobocter baumannilfor up to 7 days."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-027": {
+    "id": "gen-single_510k-027",
+    "category": "single_510k",
+    "question": "What toll-free telephone number does the FDA's Division of Small Manufacturers, International and Consumer Assistance provide for general information on responsibilities under the Act, as cited in the 510(k) summary for the exsalt SD7 Wound Dressing with Adhesive Backing?",
+    "answer": "The toll-free number is (800) 638-2041.",
+    "key_facts": [
+      "(800) 638-2041",
+      "Division of Small Manufacturers, International and Consumer Assistance",
+      "toll-free number"
+    ],
+    "gold": [
+      {
+        "doc_id": "K133775",
+        "chunk_id": "K133775_c006",
+        "page_start": 3,
+        "page_end": 5
+      }
+    ],
+    "source_text": [
+      "and regulations administered by other Federal agencies. You must comply with all the Act's requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CER Part 801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set Page 2 - Ms. Melanie Ussyk forth in the quality systems (QS) regulation (21 CER Part 820); and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please contact the Division of Small Manufacturers, International and Consumer Assistance at its tollfree number (800) 638-2041 or (301) 796-7100 or at its Internet address httn)://www.fda.gov/MedicalDevices/ResourcesforYou/Inldustry/default.html. Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (2ICFR Part 807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part 803), please go to http://www.fda.aov/MdicaDevices/SafevR'eortaProblen1/default.htm for the CDRH's Office of Surveillance and Biometrics/Division of Postmarket Surveillance. You may obtain other general information on your responsibilities under the Act from the Division of Small Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 796-7100 or at its Internet address http://www.fda.pov/MedicalDevices/ResourcsforYou/lfndustrl/default.htm. Sincerely yours, David Krause -S for Binita S. Ashar, M.D., M.B.A., F.A.C.S. Acting Director Division of Surgical Devices Office of Device Evaluation Center for Devices and Radiological Health Enclosure Exciton Technologies Inc. exualt® SW Wound Dressing with Adhesive Backing Special 5 10(k) exsait SD7 Wound Dressing with Adhesive Backing"
+    ],
+    "decision": "drop",
+    "drop_reason": "boilerplate cover letter, generic FDA phone number, not device-specific"
+  },
+  "gen-single_510k-028": {
+    "id": "gen-single_510k-028",
+    "category": "single_510k",
+    "question": "For the RENASYS EZ MAX Negative Pressure Wound Therapy Device (K142979), what wound types are listed as appropriate for treatment?",
+    "answer": "The appropriate wound types include chronic, acute, traumatic, sub-acute and dehisced wounds, ulcers (such as pressure or diabetic), partial-thickness burns, and flaps and grafts.",
+    "key_facts": [
+      "chronic, acute, traumatic",
+      "sub-acute and dehisced wounds",
+      "ulcers (pressure or diabetic)",
+      "partial-thickness burns",
+      "flaps and grafts"
+    ],
+    "gold": [
+      {
+        "doc_id": "K142979",
+        "chunk_id": "K142979_c008",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "source_text": [
+      "Indications for Use\n\nRENASYS EZ MAX Negative Pressure Wound Therapy Device The RENASYS EZ MAX NPWT is indicated for patients who would benefit from a suction device (negative pressure wound therapy) as it may promote wound healing via removal of fluids, including irrigation and body fluids, wound exudates and infectious materials Appropriate wound types include: • Chronic • Acute • Traumatic\n\nK142979 Page 3 of 8\n\nPage 7-3\n\n• Sub-acute and dehisced wounds • Ulcers (such as pressure or diabetic) • Partial-thickness burns • Flaps and grafts\n\nRENASYS EZ MAX professional healthcare facility model (REF 66801309) is intended for use in acute care settings and other professional healthcare environments where product use is conducted by or under the supervision of a qualified healthcare professional.\n\nRENASYS Foam and Gauze NPWT Wound Dressing Kits with Soft Port The RENASYS Foam and Gauze Wound Dressing Kits with Soft Port are intended to be used in conjunction with Smith & Nephew NPWT (Negative Pressure Wound Therapy) systems. Smith & Nephew RENASYS systems are indicated for patients who would benefit from a suction device (negative pressure wound therapy) as it may promote wound healing via the removal of fluids, including irrigation and body fluids, wound exudates and infectious materials. Appropriate wound types include: chronic, acute, traumatic, sub-acute and dehisced wounds, ulcers (such as pressure or diabetic), partial-thickness burns, flaps and grafts. Both Indications for Use are identical to the predicates except the term “examples” has been removed from the appropriate wound types. Summary Comparison between New and Predicate Devices RENASYS EZ MAX NPWT\n\nNew Device:"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-029": {
+    "id": "gen-single_510k-029",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for HealiAid® Dental Collagen Wound Dressing (K230529), what animal model was used for the comparative degradation testing between HealiAid® Dental and the predicate devices neoTape®/neoPlug®/neoCote®?",
+    "answer": "The comparative degradation testing was performed in a porcine gingiva model, where HealiAid® Dental showed a similar degradation timecourse to the predicate devices.",
+    "key_facts": [
+      "porcine gingiva model",
+      "comparative degradation testing",
+      "similar timecourse of degradation"
+    ],
+    "gold": [
+      {
+        "doc_id": "K230529",
+        "chunk_id": "K230529_c007",
+        "page_start": 9,
+        "page_end": 10
+      }
+    ],
+    "source_text": [
+      "Conclusion HealiAid Dental is identical with the reference device in composition and manufacturing process, and is substantially equivalent to the predicate devices with respect to technical characteristics, biocompatibility and intended use. The pre-clinical evaluations have demonstrated the substantial equivalence with the predicate device, including collagen content, carbohydrate analysis, in vitro/in vivo degradation test, pH value analysis, thermal stability analysis, microstructure analysis, moisture content analysis and water absorption measurement etc. In comparative testing in the porcine gingiva model, the subject device, HealiAid® Dental, exhibited a similar timecourse of degradation compared to the predicate device, neoTape® /neoPlug® / neoCote® .\n\nTherefore, HealiAid Dental is substantially equivalent to the predicate devices and reference device."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-030": {
+    "id": "gen-single_510k-030",
+    "category": "single_510k",
+    "question": "For the LUOFUCON® PHMB Alginate Dressing (K201016), what are the weight-percent concentrations of alginate and PHMB in the dressing material?",
+    "answer": "The dressing material consists of 99.2% w/w alginate and 0.80% w/w PHMB.",
+    "key_facts": [
+      "Alginate 99.2% w/w",
+      "PHMB 0.80% w/w"
+    ],
+    "gold": [
+      {
+        "doc_id": "K201016",
+        "chunk_id": "K201016_c008",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "source_text": [
+      "Indications for use Prescription: LUOFUCON® PHMB Alginate Dressing is indicated for the management of moderate to heavily exuding partial to full thickness wounds, including postoperative wounds, trauma wounds, leg ulcers, pressure ulcers, diabetic ulcers, graft and donor sites. OTC: LUOFUCON® PHMB Antibacterial Alginate Wound Dressing is indicated for first aid to help in minor abrasions, minor cuts, minor lacerations, minor scrapes, minor scalds and minor burns. Prescription: COPA AMD Dressing are indicated for use in the management of post-surgical incisions, pressure sores, venous stasis ulcers, diabetic ulcers, donor sites, abrasions, lacerations, first and second-degree burns, dermatologic disorders, other wounds inflicted by trauma, and as a secondary dressing or cover dressing for packed wounds. Prescription: LUOFUCON® Extra Silver Alginate Dressing is indicated for the management of moderate to heavily exuding partial to full thickness wounds, including postoperative wounds, trauma wounds, leg ulcers, pressure ulcers, diabetic ulcers, graft and donor sites. OTC: LUOFUCON® Antibacterial Alginate Wound Dressing is first aid to help in minor abrasions, minor cuts, lacerations, scrapes, minor scalds and burns.\n\nK201016\n\nMechanism Alginate for absorbing liquid, PHMB in the alginate for reducing bacteria colonization in the dressing. Polyurethane foam for absorbing liquid, PHMB present in the Polyurethane foam for reducing bacteria colonization in the dressing. Alginate for absorbing liquid, silver present in the alginate for reducing bacteria colonization in the dressing. Material Alginate 99.2% w/w, PHMB 0.80% w/w Polyurethane foam 99.5% w/w, PHMB 0.50% w/w Alginate 99.2%, Silver 0.80% w/w Antibacterial agent PHMB PHMB Silver Dressing Use-life Up to Seven days Up to Seven days Up to Seven days Shelf-life Two years / Two years Package information Aluminum foil or paper aluminum plastic pouch, box and Carton Paper-plastic bag, box and Carton Aluminum foil pouch, box and Carton Single Use Yes Yes Yes"
+    ],
+    "decision": "drop",
+    "drop_reason": "multi-column comparison table, ambiguous which column belongs to LUOFUCON PHMB Alginate Dressing"
+  },
+  "gen-single_510k-031": {
+    "id": "gen-single_510k-031",
+    "category": "single_510k",
+    "question": "In the 510(k) summary for the ALGS2 Ag Alginate Wound Dressing (K233111), which ISO standard is cited for the implantation effects/wound healing study?",
+    "answer": "The implantation effects (wound healing study) is cited to ISO 10993-6, which addresses local effects after implantation.",
+    "key_facts": [
+      "ISO 10993-6",
+      "implantation effects",
+      "wound healing study"
+    ],
+    "gold": [
+      {
+        "doc_id": "K233111",
+        "chunk_id": "K233111_c011",
+        "page_start": 8,
+        "page_end": 10
+      }
+    ],
+    "source_text": [
+      "VII. PERFORMANCE DATA The following performance data were provided in support of the substantial equivalence determination.\n\nK233111\n\nBiocompatibility Testing SUMMARY OF BIOCOMPATIBILITY TESTS AND RESULTS TEST METHOD Cytotoxicity Test ANSI/AAMI/ISO 10993-5 Tests for Cytotoxicity, In Vitro Method ISO Guinea Pig Maximization Sensation Test (Sensitization Test) ISO 10993-10 Test for Irritation and Sensitization ISO Intracutaneous Reactivity (Irritation Test) ISO 10993-10 Test for Irritation and Sensitization Material Mediated Pyrogenicity (Pyrogen Test) ISO 10993-11, per USP <151> Test for Pyrogenicity Potential Acute Systemic Toxicity (Toxicity Test) ISO 10993-11 Tests for Acute Exposure Systemic Toxicity Potential Subchronic [Subacute Toxicity] (Repeat Exposure Test) ISO 10993-11 Test to Discover The Effects a Material With Repeat Exposure Would Have On a Patient Implantation Effects (Wound Healing Study) ISO 10993-6 Test for local effects after implantation (2016) Bacterial Endotoxins Test USP 43 <85> Bacterial Endotoxins Test\n\nK233111\n\nPerformance Testing - Bench COMPONENT (NAME AND PART NUMBER/DRAWING NUMBER) MATERIAL"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_510k-032": {
+    "id": "gen-single_510k-032",
+    "category": "single_510k",
+    "question": "What predicate device is the XLR8 Abdominal Wound Dressing Kit (K182722) declared substantially equivalent to, and what is that predicate's K-number?",
+    "answer": "The XLR8 Abdominal Wound Dressing Kit is substantially equivalent to the Avance Foam Abdominal Dressing Kit, cleared under K161939.",
+    "key_facts": [
+      "Avance Foam Abdominal Dressing Kit",
+      "K161939",
+      "substantially equivalent"
+    ],
+    "gold": [
+      {
+        "doc_id": "K182722",
+        "chunk_id": "K182722_c007",
+        "page_start": 8,
+        "page_end": 8
+      }
+    ],
+    "source_text": [
+      "Substantial Equivalence\n\nBiocompatibility tests were performed to support limited contact exposure on breached or compromised surface. The dressing is intended to be used for maximum 24 hours.\n\nBench tests were conducted on the subject device to determine its performance. Performance tests include pressure precision, absorbance, alert and dimension test. The results were within the acceptable limit of the criteria that were set prior the experiment.\n\nBased on the information presented above, it is concluded that the XLR8 Abdominal Wound Dressing Kit is substantially equivalent to its predicate device Avance Foam Abdominal Dressing Kit (K161939) with respect to intended use, material and technological characteristics."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-001": {
+    "id": "gen-single_guidance-001",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on general considerations for animal studies intended to evaluate medical devices, what does FDA recommend be provided alongside the study report to support the choice of animal model?",
+    "answer": "FDA recommends providing a detailed justification of the animal model with the study report, including the rationale for selecting that model and a brief review of the scientific evidence supporting its use.",
+    "key_facts": [
+      "detailed justification of the animal model",
+      "rationale for animal model selection",
+      "brief review of supporting scientific evidence"
+    ],
+    "gold": [
+      {
+        "doc_id": "general_considerations_animal_studies_intended_evaluate",
+        "chunk_id": "general_considerations_animal_studies_intended_evaluate_c028",
+        "page_start": 18,
+        "page_end": 19
+      }
+    ],
+    "source_text": [
+      "· copies of all images (e.g., gross, microphotographs, angiograms, radiographs, CT, magnetic resonance imaging (MRI)). FDA recommends that a detailed justification of the animal model be provided with the study report. This justification should include a rationale for selection of the animal model and a brief review of the scientific evidence supporting this model. In cases where an animal model has not been established or where the animal model has limited use, selection of an animal model should include consideration of anatomical and physiological differences and a detailed description of the animal model limitations. The final report must include the locations where all specimens, raw data, and the final report are to be stored.69 FDA also recommends dating all study observations. This helps to capture events accurately, which aids in the assessment of the inter-observational differences between study subjects. Further, all raw data, documentation, protocols, final reports, and specimens (with certain exceptions) generated as a result of the animal study must be retained.70 FDA may request copies of additional raw data71 during the premarket review process depending on study results reported in the final report. X. Preparation of Animal Study Reports for Medical Device Premarket Submissions When preparing premarket submissions, FDA recommends that the sponsor include a high-level summary of the animal testing that was conducted to demonstrate device safety, which includes performance and handling. When a series of studies has been conducted, the sponsor should explain the effect of the animal studies on device development and the final device design. The sponsor should also describe all device design changes that were implemented during animal testing. Lastly, the sponsor should describe and justify any modifications to the device design that were made to accommodate the animal model. Bookmarked and linked PDF files are recommended for FDA premarket submissions whenever possible."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-002": {
+    "id": "gen-single_guidance-002",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on reprocessing medical devices in health care settings, which sterilization method is described as the most commonly used in health care facilities?",
+    "answer": "Steam sterilization is identified as the most common sterilization method used in health care settings.",
+    "key_facts": [
+      "steam sterilization",
+      "most common method",
+      "health care settings"
+    ],
+    "gold": [
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c026",
+        "page_start": 16,
+        "page_end": 17
+      }
+    ],
+    "source_text": [
+      "aware that in some clinical situations (e.g., patients with Norovirus or Clostridium difficile infections, drug-resistant organisms, etc.), isolation precautions 3 EO sterilization may not be ideal for certain device types, such as duodenoscopes. 4 Center for Disease Control and Prevention (CDC), “Guideline for Disinfection and Sterilization in Healthcare Facilities, 2008. recommended for use by CDC may include the use of specific disinfectants and should be followed. You should instruct the user to follow the specific EPA label disinfectant contact times when using the disinfectant as well as the instructions specified in the medical device labeling. Devices that will likely not become contaminated with pathogens during use (e.g., room vital signs monitor) may not require disinfection, and therefore may be suitable for use after cleaning only. Criterion 4. Reprocessing instructions should be technically feasible and include only devices and accessories that are legally marketed. Reprocessing instructions should be technically feasible in the intended location (e.g., health care setting or home use). The equipment and accessories needed to implement the instructions should be clearly defined (including detailed descriptions and part numbers, if applicable) and readily available for the users to obtain. The type of sterilizer, and the manufacturer-validated sterilization cycle parameters and accessories should be available to the users. For example, radiation sterilization is generally only used in manufacturing facilities. Steam sterilization is the most common method of sterilization used in health care settings. EO, H2O2, O3 and liquid chemical sterilization processes are also available in some health care settings. Dry heat and chemical vapor sterilization are less common. FDA recommends that the instructions specify sterilization methods and parameters that are technically feasible for the user. That is, sterilization cycle parameters specified in the labeling for reprocessing a device should be consistent with validated sterilization cycle parameters for commonly available, legally marketed sterilizers. Examples of cycle parameters commonly found on health care steam and EO sterilizers at the time of this guidance are provided in Appendix C. Designing your reprocessing instructions in accordance with the conventional parameters represented in Appendix C provides assurance that your reprocessing instructions are compatible with existing essential FDAcleared reprocessing equipment. Information on other methods may be found in AAMI TIR12. FDA’s recommendation that sterilization methods and parameters be technically feasible for the user has direct application to sterilization accessories. Many sterilization accessories used in reprocessing reusable devices in health care settings are class II medical devices subject to FDA premarket notification requirements. These accessories include sterilization wraps, pouches, cassettes, and containers; biological indicators and chemical indicators; and liquid chemical sterilants and disinfectants. These products typically receive FDA-clearance for specific process parameters or sets of parameters, which appear in the “Intended Use” sections of FDA-cleared sterilization accessories. Your reprocessing instructions should match these specific process parameters. FDA maintains a list of FDA-cleared liquid chemical sterilants and high level disinfectants, which is available at"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-003": {
+    "id": "gen-single_guidance-003",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on ISO 10993-1 biological evaluation of medical devices, what time interval has FDA historically accepted for positive control data relative to the device sensitization test, rather than waiting for the six-month interval described in ISO 10993-10?",
+    "answer": "FDA has historically accepted positive control data conducted within three months of the device test, rather than waiting up to six months for subsequent positive control data.",
+    "key_facts": [
+      "positive control data within three months of the device test",
+      "rather than waiting up to six months",
+      "ISO 10993-10 six-month interval"
+    ],
+    "gold": [
+      {
+        "doc_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d",
+        "chunk_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d_c054",
+        "page_start": 31,
+        "page_end": 31
+      }
+    ],
+    "source_text": [
+      "a failed positive control test would not be sufficient. If root cause analysis confirms the loss of sensitivity of the animal herd to the positive control, repeating device testing using a new animal herd is recommended for any GPMT data collected between the successful and failed periodic positive control testing. If a preliminary irritation study is not included in the sensitization protocol, adverse findings at the end of the study may be due to irritation or sensitization, and additional irritation studies to determine the causality may be needed. Local Lymph Node Assay (LLNA) FDA intends to evaluate use of LLNA tests for medical devices on a case-by-case basis for medical device extract/residuals that are composed of chemical mixtures. LLNA tests may be appropriate in the following circumstances: · The LLNA can be used for testing metal compounds (with the exception of nickel and nickel-containing metals) unless there are unique physicochemical properties associated with these materials (e.g., nanomaterials) that may interfere with the ability of the LLNA to detect sensitizing materials. 41 ISO 10993-10:2021 Biological evaluation of medical devices – Part 10: Tests for skin sensitization states that for sensitization testing “a positive control does not need to be included in every assay, but may be run at regular intervals which shall not exceed six months.” The standard further states that “Using a positive control only once every six months can have consequences for the results obtained in the previous six months period when this positive control shows a negative outcome.” FDA has not historically recommended that sponsors wait up to six months for the subsequent positive control data to support submissions to the FDA. Instead, FDA has historically accepted studies with positive control data conducted within three months of the device test."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-004": {
+    "id": "gen-single_guidance-004",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on radiation-emitting device labeling, which statutory provision authorizes the creation of federal standards for radiation-producing products, and where are those standards codified?",
+    "answer": "Section 358 of the Radiation Control for Health and Safety Act of 1968 authorizes the development of Federal standards for radiation-producing products, and these standards are contained in the regulations listed under 21 CFR Part 1000.",
+    "key_facts": [
+      "Section 358 of the Radiation Control for Health and Safety Act of 1968",
+      "21 CFR Part 1000",
+      "authorizes development of Federal standards"
+    ],
+    "gold": [
+      {
+        "doc_id": "labeling-regulatory-requirements-medical-devices-fda-89-4203",
+        "chunk_id": "labeling-regulatory-requirements-medical-devices-fda-89-4203_c045",
+        "page_start": 33,
+        "page_end": 33
+      }
+    ],
+    "source_text": [
+      "RADIATION-EMITTING DEVICE LABELING INTRODUCTION Labeling of radiation-emitting products applies to medical devices; all products which emit ionizing, or nonionizing electromagnetic or particulate radiation; and products which emit sonic, infrasonic, or ultrasonic radiation as the result of operation of an electronic circuit. Radiation-emitting devices include products that emit radiation either by desi n (e.g., X-ray equipment) or as a consequence of operation (e.g., television set), but exc f ude products that emit radiation as a result of the decay of a radioactive element or isotope (e. ., an ionization type smoke detector). Section 358 of the Radiation Control for Health an d Safety Act (RCHSA) of 1968 authorizes the development of Federal standards for these ty es of radiation producing products. These standards are contained within the P regulations isted under 2 1 CFR Part 1000. The corresponding regulations are listed by product ty e in subse uent headings of this section. This booklet will cover only those P portions o these stan 3 ards related to product labelin and will not attempt to address R technical specifications contained in the standards. T us, the nature and placement of labeling may vary from those previously discussed under General Device Labeling; however, the concepts of \"label\" and \"labeling\" remain the same, e.g., the \"label\" of a device might consist of a warning label on the console of an X-ray system, as well as a red indicator light on the panel: the \"label\" of a television receiver might consist not only of the name of the manufacturer. date of manufacture, and user caution statements, but also of labels inside the receiver related to high voltages and X-ray shielding. At the present time, as a matter of choice and practicality, FDA does not choose to actively regulate some common household products such as radios and incandescent light bulbs; however, if such products were found to pose a consumer hazard, the FDA could choose to regulate them. A good example of a hazard to consumers is the cordless telephone. As a result of consumer complaints, and confirmed injuries due to the placement, volume, and frequencies of ringers in certain brands of telephones, FDA set and enforced guidelines to prevent hearing injuries. This section will cover labeling of radiation-emitting medical and other electronic devices. Due to the amount of technical data contained in the corresponding sections of the CFR, reprints of the CFR sections pertaining to laser labeling will be used where appropriate to demonstrate format requirements. Numbers appearing in parentheses next to subject headings are the corresponding sections of 21 CFR."
+    ],
+    "decision": "drop",
+    "drop_reason": "off-topic — radiation-emitting device labeling, unrelated to wound dressings"
+  },
+  "gen-single_guidance-005": {
+    "id": "gen-single_guidance-005",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on general considerations for animal studies intended to evaluate medical devices, what process can a sponsor use to obtain FDA feedback on the animal model selected for a study?",
+    "answer": "A sponsor can obtain FDA feedback on the selected animal model through the Q-Submission process.",
+    "key_facts": [
+      "Q-Submission process",
+      "FDA feedback on animal model"
+    ],
+    "gold": [
+      {
+        "doc_id": "general_considerations_animal_studies_intended_evaluate",
+        "chunk_id": "general_considerations_animal_studies_intended_evaluate_c014",
+        "page_start": 11,
+        "page_end": 11
+      }
+    ],
+    "source_text": [
+      "and/or delivery system. For example, perturbation of the vagus nerve in the cervical region can produce adverse effects, such as gastrointestinal distension and bradycardia. The study should include objectives to evaluate potential adverse effects on the structure and function of tissues locally and systemically, as identified in the risk assessment. (2) Selecting an Animal Model The animal and its related environmental and physiologic attributes should provide a testing condition that offers a best attempt at simulating the clinical setting.39 There should be scientific information to support the appropriateness of the chosen animal model. In some cases, there may not be an established or accepted animal model for a specific device type. The selected animal model should be able to address the identified objectives of the study. The sponsor should consider scientifically accepted animal models of disease when they exist. FDA feedback on the animal model selected can be obtained through the Q-Submission process.40 (3) Sample Size and Groupings The number of animals and experimental groupings should be designed after exploratory testing to provide some information on reliability and outcome if other data are not available to justify the design of the GLP study (e.g., sample size and grouping).41 The study should use the least number of animals that could provide a predictive outcome and meaningful interpretation; this includes such measures as choosing the appropriate experimental control and consideration of potential experimental confounders and best observation intervals. 39 Michel, K. D., Sorenmo, K., Shofer, F. S. (2004). Evaluation of body condition and weight loss in dogs presented to a veterinary oncology service. Journal of Veterinary Internal Medicine, 13(5), 692-5. 40 For more information, see Q-Submission Guidance, available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-qsubmission-program."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-006": {
+    "id": "gen-single_guidance-006",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance \"Refuse Accept Policy 510(k)s,\" what should a submitter explicitly state if the subject device and the predicate device have no differences in indications and intended use?",
+    "answer": "The submitter should explicitly state that there are no differences between the subject device and the predicate(s) with respect to indications and intended use.",
+    "key_facts": [
+      "no differences between subject and predicate must be explicitly stated (answer restates passage wording closely",
+      "but fact is real and clearly attributable)"
+    ],
+    "gold": [
+      {
+        "doc_id": "refuse-accept-policy-510ks",
+        "chunk_id": "refuse-accept-policy-510ks_c046",
+        "page_start": 34,
+        "page_end": 35
+      }
+    ],
+    "source_text": [
+      "between the subject and predicate(s) do not impact safety and effectiveness [see section 513(i)(1)(A) of the FD&C Act and 21 CFR 807.87(f)]. See the FDA guidance document “The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)],” available at https://www.fda.gov/regulatoryinformation/search-fda-guidance-documents/510k-programevaluating-substantial-equivalence-premarket-notifications-510k for more information on comparing intended use and technological characteristics. Check “Yes” if item is present, “N/A” if it is not needed and “No” if it is not included but needed. *Submitters including the checklist with their submission should identify the page numbers where requested information is located. Use the comments section for an element if additional space is needed to identify the location of supporting information. Yes No N/A *Page # a. Indications for use If there are no differences between the subject device and the predicate(s) with respect to indications and intended use, this should be explicitly stated. b. Technology, including technical specifications, features, materials, and principles of operation Examples of technological characteristics include, but are not limited to design, features, materials, energy source, and principle of operation. FDA recommends a tabular format for comparing technological characteristics. Any characteristic that is the same as the predicate(s) should be explicitly stated. Differences in technological characteristics should be identified and a rationale provided why they do not raise different questions of safety and effectiveness. Comments: D. Proposed Labeling (see also 21 CFR parts 801 and 809 as applicable) 18. Submission includes proposed package labels and labeling (e.g., instructions for use, package insert, operator’s manual). a. Indications for use are stated in labeling and are identical to Indications for Use form and 510(k) Summary (if 510(k) Summary provided). b. Labeling includes: - Statements of conditions, purposes or uses for which the device is intended (e.g., hazards, warnings, precautions, contraindications) (21 CFR 801.5) AND - Includes adequate directions for use (see 21 CFR 801.5) OR - Submission states that device qualifies for exemption per 21 CFR 801 Subpart D"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-007": {
+    "id": "gen-single_guidance-007",
+    "category": "single_guidance",
+    "question": "In the FDA guidance on reprocessing medical devices in health care settings, what is the purpose of the negative sample control in the soil extraction testing protocol?",
+    "answer": "The negative sample control is an extraction performed without any device, and it serves as a blank sample.",
+    "key_facts": [
+      "negative sample control",
+      "extraction with no device",
+      "blank"
+    ],
+    "gold": [
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c054",
+        "page_start": 31,
+        "page_end": 32
+      }
+    ],
+    "source_text": [
+      "device control – The device should be soiled with a known amount of soil, but not cleaned, and residual soil extracted. The amount of residual soil should be equivalent to or slightly lower than the amount of soil placed. Soil recovery efficiencies should be calculated and used during the calculations. § Negative sample control – “Extraction” is conducted with no device. This sample is used as a blank. § Positive sample control – A known amount of soil (at or slightly above the limit of quantitation) is added to an “extraction” with no device. This control addresses interference of the extraction fluid and extraction method with soil detection. c. Extraction Method"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-008": {
+    "id": "gen-single_guidance-008",
+    "category": "single_guidance",
+    "question": "In the Brand X 510(k) performance data comparing the device to its predicate, what percentage of the 72 patients in the current study experienced chest pain, and how does that rate compare with the predicate's reported rate?",
+    "answer": "Chest pain occurred in 23 of 72 patients (32%) in the Brand X study, compared with 17% reported for the predicate device.",
+    "key_facts": [
+      "23 cases of chest pain",
+      "23/72 = 32%",
+      "predicate rate was 17%"
+    ],
+    "gold": [
+      {
+        "doc_id": "510k-program-evaluating-substantial-equivalence-premarket-notification",
+        "chunk_id": "510k-program-evaluating-substantial-equivalence-premarket-notification_c087",
+        "page_start": 40,
+        "page_end": 40
+      }
+    ],
+    "source_text": [
+      "in the literature revealed that the change in the median values of the Brand X device showed a decrease of 19%, while the predicate showed a decrease of 18%. Hence, the Brand X results in reducing the exposure to gastric acids are similar to those reported for the predicate system. Safety The study reported nine patients with a total of nine serious adverse events (SAEs). Four events were considered mild in intensity, involving pain and fever. Three events were classified as moderate in intensity, involving pneumothorax, pneumomediastinum, and pneumoperitoneum (all resolved spontaneously). Two events were considered severe in intensity: one involved esophageal perforation (required drainage) and another had suicidal thoughts (non-device/procedure related). Six of the SAEs were considered related to the device: one definitely (esophageal perforation) and the others possibly. Three events were considered not related to the device. The median time from procedure to SAE was 1.5 days for events related to the device. None of the patients with SAEs required any operation or re-operation. Adverse events reported that occurred in greater than the 5% level were postoperative pain or discomfort in 33% of patients, postoperative nausea in approximately 10%, and sore throat in 21%. The adverse events were mild or insignificant in most cases. The SAEs and overall safety profile were similar to the predicate device for which two perforations and one bleeding event were reported. The number of AEs was similar to those reported for the predicate device. Three cases of fever were reported in the current study (for 72 patients), similar to the 3 cases of fever reported for the predicate. There were 23 cases of chest pain (23/72 = 32%) vs. 17% reported for the predicate; abdominal pain was recorded for 5% of the patients in the current"
+    ],
+    "decision": "drop",
+    "drop_reason": "off-topic — this is an illustrative case example inside guidance text, not real wound dressing content; also references a device (esophageal perforation, gastric acids) unrelated to wound dressings"
+  },
+  "gen-single_guidance-009": {
+    "id": "gen-single_guidance-009",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on recognition and withdrawal of voluntary consensus standards, what factors does FDA consider when deciding how long a transition period should be for a standard whose recognition is being withdrawn?",
+    "answer": "FDA weighs the public health consequences of postponing significant scientific updates and how hard it may be for manufacturers to adopt the new version's changes. Standards with only minor technical or editorial changes may get a shorter transition period, and an emergent public health issue may lead to a shortened or no transition period.",
+    "key_facts": [
+      "public health impact of delaying significant scientific updates",
+      "difficulty manufacturers face implementing changes",
+      "minor technical or editorial changes may have shorter transition",
+      "emergent public health issue may shorten or eliminate transition period"
+    ],
+    "gold": [
+      {
+        "doc_id": "recognition-and-withdrawal-voluntary-consensus-standards",
+        "chunk_id": "recognition-and-withdrawal-voluntary-consensus-standards_c017",
+        "page_start": 11,
+        "page_end": 12
+      }
+    ],
+    "source_text": [
+      "ordinarily assign a separate recognition number or separately announce recognition in the Federal Register. 18 See section 514(c)(1)(C)(ii) of the FD&C Act. 19 For further information regarding transition periods of recognized standards, please refer to the FDA guidance, “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices.” is recognized, we will announce the change, i.e., recognition of the new version and (usually) withdrawal of the older version, in a notice published in the Federal Register. We will add the new version to the Recognized Consensus Standards database, and we will remove the older version from the database. FDA may provide a transition period during which both the old and new versions of a standard are recognized. This means that, per 514(c)(1)(A), a DOC may be submitted for either FDArecognized consensus standard (i.e., the new or the older version). Once we withdraw recognition of the old version, a DOC to the old version of the standard will no longer be acceptable for future submissions. The transition period, if any, will be included in the SIS. Note that a transition period is only applicable to standards whose recognition is being withdrawn. When determining the timing of a transition period, FDA considers the public health impact of delaying implementation of significant scientific updates and the difficulty manufacturers may face while implementing the specific changes in the new version compared to the older version. For example, a standard with only minor technical or editorial changes may have a shorter transition period than a standard with changes that may take longer to implement. When a change to the standard impacts an emergent public health issue, FDA may assign a shortened or no transition period to respond to the issue with appropriate timeliness. For additional discussion regarding transition periods, please see the FDA guidance document “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices.20” Standards may be revised after marketing authorization is granted. As discussed in section VIII. of the FDA guidance document “Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices,” changes in a recognized consensus standard do not retroactively affect a product’s clearance or approval status."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-010": {
+    "id": "gen-single_guidance-010",
+    "category": "single_guidance",
+    "question": "Under FDA's 510(k) substantial equivalence guidance, when a new 510(k) is submitted to address deficiencies raised in an NSE (Not Substantially Equivalent) letter, what must the submission do to avoid a Refuse to Accept decision?",
+    "answer": "The new 510(k) must clearly identify how the outstanding issues have been addressed and cross-reference where the new information is provided within the newly submitted 510(k); failure to cite the prior 510(k) number may result in a Refuse to Accept decision.",
+    "key_facts": [
+      "clearly identify how outstanding issues were addressed",
+      "cross-reference new information within the new 510(k)",
+      "failure to cite prior 510(k) number may cause Refuse to Accept"
+    ],
+    "gold": [
+      {
+        "doc_id": "510k-program-evaluating-substantial-equivalence-premarket-notification",
+        "chunk_id": "510k-program-evaluating-substantial-equivalence-premarket-notification_c024",
+        "page_start": 21,
+        "page_end": 22
+      }
+    ],
+    "source_text": [
+      "following the timeframes and interactions instituted with the passage of the Medical Device User Fee Amendments of 2012 (MDUFA III).12 For more information on communications during the review of a 510(k) submission, see FDA’s Guidance for Industry and FDA Staff, “Types of Communication During the Review of Medical Device Submissions” (http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm3419 18.htm). If the manufacturer does not respond at all to FDA’s requests for additional information, the submission will be subsequently withdrawn by FDA within the timeframe specified by FDA’s Guidance for Industry and FDA Staff, “FDA and Industry Actions on Premarket Notification (510(k)) Submissions: Effect on FDA Review Clock and Goals” (http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocument s/UCM089738.pdf). If a 510(k) is withdrawn due to a lack of response, the manufacturer may submit a new 510(k) with additional information that addresses the outstanding deficiencies communicated by FDA based on the review of the prior 510(k). If the manufacturer provides the requested information after the withdrawal date, it will be considered and processed as a new 510(k) (21 CFR 807.87(l)); therefore, all information previously submitted would have to be resubmitted so that the new 510(k) is complete. If a new 510(k) is submitted to address deficiencies raised in this type of NSE letter, as explained in FDA’s Guidance for Industry and FDA Staff, “Refuse to Accept Policy for 510(k)s” (http://www.fda.gov/ucm/groups/fdagov-public/@fdagov-meddevgen/documents/document/ucm315014.pdf), the new 510(k) should clearly identify how the outstanding issues have been addressed and cross-reference where the new information is provided within the newly submitted 510(k). Failure to cite the prior 510(k) number may result in a Refuse to Accept decision. B. The Flowchart The 510(k) Substantial Equivalence Decision-Making Process Flowchart (K86-3 Flowchart) was originally presented in the K86-3 Guidance and has served as the overarching “framework” for 510(k) decision-making for decades. The K86-3 Flowchart has provided a concise summary of the 510(k) decision-making process and serves as a common frame of reference for scientific and regulatory discussions related to the 510(k) process. However, the K86-3 Flowchart has not been updated since 1986 and, consequently, does not incorporate certain terminology set out in subsequent amendments to the FD&C Act. Furthermore, the K86-3 Flowchart’s visual structure may be more complex than necessary. To specifically address these issues, a modified Flowchart is provided that both more closely tracks the language of section 513(i) of the FD&C Act and relevant regulations, and visually simplifies our presentation of the decision-making algorithm. It should be noted that the 510(k) Decision-Making Flowchart (the Flowchart) (see Appendix A) is meant to be used in conjunction with this guidance document and not as a “stand-alone” document without appropriate references to the context of each critical decision point."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-011": {
+    "id": "gen-single_guidance-011",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on biocompatibility testing standards, what acceptance criteria must be met by the positive control material replicates in cytotoxicity testing performed according to ISO 10993-5?",
+    "answer": "Each positive control material replicate must be at least Grade 3. This criterion is used to confirm the validity of the cytotoxicity test method.",
+    "key_facts": [
+      "positive control material replicate",
+      "≥ Grade 3",
+      "cytotoxicity testing per ISO 10993-5"
+    ],
+    "gold": [
+      {
+        "doc_id": "biocompatibility-testing-medical-devices-standards-specific-informatio",
+        "chunk_id": "biocompatibility-testing-medical-devices-standards-specific-informatio_c022",
+        "page_start": 17,
+        "page_end": 17
+      }
+    ],
+    "source_text": [
+      "7.7 Ensuring the validity of results To confirm the validity of the testing methods, any test-specified positive, negative, and/or reference controls allow for distinguishing between positive and negative responses. The testing laboratory agrees that pre-defined criteria for positive/negative/reference control values will be as follows: • For cytotoxicity testing (per ISO 10993-5): - each positive control material replicate is ≥ Grade 3 - each negative control material replicate is Grade 0 - each vehicle control replicate is Grade 0 • For intracutaneous reactivity irritation testing: - each of five sodium chloride control sites in each animal at all timepoints is Grade 0 - each of five oil control sites in each animal at all timepoints is ≤ Grade 1 • For primary skin (dermal) irritation testing, each sodium chloride and oil control site is Grade 0 • For guinea pig maximization sensitization testing (per ASTM F720):11 11 ASTM F720-17: Standard Practice for Testing Guinea Pigs for Contact Allergens: Guinea Pig Maximization Test"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-012": {
+    "id": "gen-single_guidance-012",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on refuse-to-accept policy for 510(k) submissions, when a 510(k) includes a completed animal study, what must the submission state regarding compliance with the Good Laboratory Practice regulation in 21 CFR Part 58?",
+    "answer": "The submission must contain a statement that the study was conducted in compliance with the applicable GLP requirements in 21 CFR Part 58, or, if it was not conducted in compliance, explain why the noncompliance would not affect the validity of the study data used to support a substantial equivalence determination.",
+    "key_facts": [
+      "Statement of compliance with 21 CFR Part 58 GLP requirements",
+      "If noncompliant, explanation of why noncompliance would not impact study data validity",
+      "Applies to each completed animal study in the 510(k)"
+    ],
+    "gold": [
+      {
+        "doc_id": "refuse-accept-policy-510ks",
+        "chunk_id": "refuse-accept-policy-510ks_c063",
+        "page_start": 51,
+        "page_end": 52
+      }
+    ],
+    "source_text": [
+      "there are no applicable special controls or device-specific regulation. Select “No” if the submission does not include a rationale for any omitted information or any alternative approach as outlined above. Note that the adequacy of how such mitigation measures have been addressed should be assessed during the substantive review. Comments: Check “Yes” if item is present, “N/A” if it is not needed and “No” if it is not included but needed. *Submitters including the checklist with their submission should identify the page numbers where requested information is located. Use the comments section for an element if additional space is needed to identify the location of supporting information. Yes No N/A *Page # 40. If literature is referenced in the submission, submission includes: Select “N/A” if the submission does not reference literature. If “N/A” is selected, parts a and b below are omitted from the checklist. Note that the applicability of the referenced article to support a substantial equivalence finding should be assessed during the substantive review; only the presence of a discussion is required to support acceptance. a. Legible reprints or a summary of each article. b. Discussion of how each article is applicable to support the substantial equivalence of the subject device to the predicate. Comments: 41. For each completed animal study, the submission provides the following: Select “N/A” if no animal study was conducted. If “N/A” is selected, parts a-c below are omitted from the checklist. Note that this section does not address biocompatibility evaluations, which are assessed in Section G of the checklist. a. Submission includes a study protocol which includes all elements as outlined in 21 CFR 58.120 b. Submission includes final study report which includes all elements outlined in 21 CFR 58.185 c. Submission contains a statement that the study was conducted in compliance with applicable requirements in the GLP regulation (21 CFR Part 58), OR, if the study was not conducted in compliance with the GLP regulation, the submission explains why the noncompliance would not impact the validity of the study data provided to support a substantial equivalence determination. Comments:"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-013": {
+    "id": "gen-single_guidance-013",
+    "category": "single_guidance",
+    "question": "In the FDA guidance on ASCA accreditation status for biocompatibility testing of medical devices, what extraction ratio is specified for elastomeric materials thicker than 1.0 mm?",
+    "answer": "The extraction ratio for elastomers greater than 1.0 mm thick is 1.25 cm²/mL.",
+    "key_facts": [
+      "1.25 cm2/ml",
+      "elastomers > 1.0 mm thick"
+    ],
+    "gold": [
+      {
+        "doc_id": "biocompatibility-testing-medical-devices-standards-specific-informatio",
+        "chunk_id": "biocompatibility-testing-medical-devices-standards-specific-informatio_c064",
+        "page_start": 48,
+        "page_end": 49
+      }
+    ],
+    "source_text": [
+      "5. ASCA Accreditation Status on the Date(s) of Testing:  Standard (and particular test method) was *NOT* in testing laboratory’s scope of ASCA Accreditation74  Standard (and particular test method) was in testing laboratory’s scope of ASCA Accreditation  ASCA Accreditation was not suspended  ASCA Accreditation was suspended Description of reasons for suspension and their impact on testing results. ASCA Test Article Prep SOP#: [ASCATAPrep(date/version)]  Test Article was prepared per the above protocol (no deviations/amendments); or  Test Article was prepared per the above protocol, with the following deviations/amendments75 (e.g., filtering, extract manipulation, pH adjustment): Description of deviations/amendments Extraction Solvent:  0.9% Sodium Chloride (SC)  Cotton Seed Oil (CSO)/Sesame Oil (SO)  Other: 76 [DESCRIBE] 74 See FDA’s guidance Appropriate Use of Voluntary Consensus Standards in Premarket Submissions for Medical Devices for information regarding supplemental documentation necessary to support FDA-recognized consensus standards that are not in a testing laboratory’s scope of ASCA Accreditation. 75 Since deviations/amendments were noted, the complete test report should be included with ASCA Summary Test Report during the ASCA Pilot (depending on the information provided, FDA may or may not request to review the complete test report). Test Laboratory/Manufacturer may also be requested to provide a rationale to support a regulatory decision. Extraction Ratio:  6cm2/ml (<0.5mm thick)  3cm2/ml (0.5-1.0mm thick or molded items > 1.0mm)  1.25cm2/ml (elastomers > 1.0mm thick)  Other:77 [DESCRIBE] Extraction Conditions:  37°C, 72 h  50°C, 72 h  70°C, 24 h  121°C, 1 h  Other:78 [DESCRIBE]"
+    ],
+    "decision": "drop",
+    "drop_reason": "Press d, reason: template/fill-in-the-blank checklist form, not a stated fact — these are selectable options for a submitter to fill in, not FDA-mandated values"
+  },
+  "gen-single_guidance-014": {
+    "id": "gen-single_guidance-014",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on labeling requirements for over-the-counter (non-prescription) devices, how is the area of the principal display panel calculated for a cylindrical or nearly cylindrical package?",
+    "answer": "For a cylindrical or nearly cylindrical package, the principal display panel area is calculated as 40% of the height multiplied by the circumference.",
+    "key_facts": [
+      "40% of height x circumference",
+      "cylindrical or nearly cylindrical package",
+      "principal display panel area"
+    ],
+    "gold": [
+      {
+        "doc_id": "labeling-regulatory-requirements-medical-devices-fda-89-4203",
+        "chunk_id": "labeling-regulatory-requirements-medical-devices-fda-89-4203_c017",
+        "page_start": 15,
+        "page_end": 15
+      }
+    ],
+    "source_text": [
+      "LABELING REQUIREMENTS FOR OVER-THE-COUNTER (NON-PRESCRIPTION) DEVICES Principal Display Pane1 (80 1.60) o The principal display panel is that portion of the label which is intended to be displayed, presented, shown, or examined under customary conditions for retail sales. The area of the principal display panel is considered to be: - In the case of a rectangular package, the height x width of one side; - In the case of a cylindrical or nearly cylindrical package, 40% of height x circumference; or - In the case of any other shapes, 40% of the total surface area of the container, unless a more prominent site exists. Statement of Identity (80 1.61) o The statement of identity of the device must be listed on the principal display panel. - It must list the common name of the device followed by a statement of its principal intended action(s); - Indications for use must be listed in the directions for use: and - The statement must be in bold t pe, reasonably related in size to the most prominent printed matter on the isplay anel, and must be in lines generally parallel to the base of the package on whic ! it rests. Net Quantity of Contents Statement (80 1.62) o The label of an over-the-counter (OTC) device in ackage form must contain a statement of net quantity of contents in terms of weig i' t, measure, numerical count; or a combination of numerical count and weight, measure, or size, which are described below: - Count - If the declaration by count does not give accurate information as to the quantity, it shall be augmented by statements of weight, measure, or size; - Measure - In cases of established customer usage and trade custom where units of linear measure or measure of area are used, they shall be augmented when necessary with statements of weight measure or size. Liquid measure is to be expressed in terms of the U.S. gallon of 23 1 cu. in. and quart, pint, and fluid ounce subdivisions, and shall express the volume at 68 degrees Farenheit; and - Weight - Terms of weight are to be expressed in avoirdupois ound and ounce. P a!. Units of metric weight or measure are considered su plement The declaration may contain common or decimal fractions. Common ractions shall be reduced to the~r lowest terms."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-015": {
+    "id": "gen-single_guidance-015",
+    "category": "single_guidance",
+    "question": "According to FDA's guidance on Q-Submissions for medical device submissions, what does Table 1 summarize regarding the different Q-Sub types?",
+    "answer": "Table 1 summarizes the Q-Sub types along with their corresponding feedback mechanisms and the timelines FDA strives to meet. It also notes that Q-Sub types outside the guidance's scope are addressed in their own guidance documents.",
+    "key_facts": [
+      "Q-Sub types",
+      "corresponding feedback mechanisms",
+      "timelines FDA strives to meet"
+    ],
+    "gold": [
+      {
+        "doc_id": "requests-feedback-and-meetings-medical-device-submissions-q-submission",
+        "chunk_id": "requests-feedback-and-meetings-medical-device-submissions-q-submission_c045",
+        "page_start": 22,
+        "page_end": 23
+      }
+    ],
+    "source_text": [
+      "additional Q-Sub supplement if both the submitter and FDA believe that further discourse on such an issue would be productive. (4) Processes by Q-Submission Types Each Q-Sub type has a different review process including timeline and recommended content, which are detailed below. The Q-Sub types, corresponding feedback mechanisms, and timelines that FDA strives to meet are summarized in Table 1. For Q-Sub types outside the scope of this guidance, please find this information in their corresponding guidance documents. Table 1 – Q-Sub types and corresponding feedback mechanisms and timelines"
+    ],
+    "decision": "drop",
+    "drop_reason": "vague/meta question — asks what a table summarizes, but the actual table content (the data itself) isn't in this passage, only the sentence introducing it"
+  },
+  "gen-single_guidance-016": {
+    "id": "gen-single_guidance-016",
+    "category": "single_guidance",
+    "question": "Under the FDA's Special 510(k) Program, what action does FDA intend to take when the submitter of a Special 510(k) is not the manufacturer legally authorized to market the predicate device?",
+    "answer": "FDA intends to convert the Special 510(k) into a Traditional 510(k) in that situation. The program requires the submission to concern a change to the submitter's own legally marketed predicate device.",
+    "key_facts": [
+      "FDA converts Special 510(k) to Traditional 510(k)",
+      "submitter is not the manufacturer legally authorized to market the predicate device",
+      "change must be to submitter's own legally marketed predicate device"
+    ],
+    "gold": [
+      {
+        "doc_id": "special-510k-program",
+        "chunk_id": "special-510k-program_c013",
+        "page_start": 8,
+        "page_end": 8
+      }
+    ],
+    "source_text": [
+      "A. Is it a change to the manufacturer’s own device? To be within the scope of the Special 510(k) Program, the 510(k) should be for a change to the submitter’s own legally marketed predicate device. This is because the Special 510(k) Program relies on the Agency’s previous review of detailed information and a manufacturer who modifies its own legally marketed device is able to conduct the risk analysis and the necessary verification and validation activities to demonstrate that the design outputs of the modified device meet the design input requirements in a Special 510(k) submission. FDA intends to convert Special 510(k)s to Traditional 510(k)s when the submitter is not the manufacturer legally authorized to market the predicate device. In cases where the referenced 510(k) was submitted under a different name than the submitter, FDA recommends that the submitter include a statement affirming that they are the manufacturer legally authorized to market the predicate device. B. Are performance data needed to evaluate the change? Manufacturers should use their design control procedures and consider the information necessary to support SE to determine whether performance data are needed to evaluate the change. As part of design controls, manufacturers must establish and maintain procedures for the validation, or where appropriate, verification, of design changes before their implementation (21 CFR 820.30(i)). Verification and validation testing, however, may not be necessary to support SE. For example, FDA may receive a 510(k) from a manufacturer requesting clearance to label their device as Magnetic Resonance (MR) Unsafe after previously labeling their device as ‘Safety in MR Imaging Not Evaluated.’ As discussed in the FDA guidance document Establishing Safety and Compatibility of Passive Implants in the Magnetic Resonance (MR) Environment,12 MR Unsafe labeling is based on a scientific rationale and does not involve any performance data."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-017": {
+    "id": "gen-single_guidance-017",
+    "category": "single_guidance",
+    "question": "Under the FDA's Special 510(k) Program guidance, which FDA-recognized consensus standards are identified for evaluating magnetic resonance compatibility of passive implants?",
+    "answer": "The guidance identifies ASTM F2503, ASTM F2052, ASTM F2213, ASTM F2182, and ASTM F2119 as FDA-recognized voluntary consensus standards for MR compatibility testing of passive implants.",
+    "key_facts": [
+      "ASTM F2503",
+      "ASTM F2052",
+      "ASTM F2213",
+      "ASTM F2182",
+      "ASTM F2119",
+      "MR compatibility testing of passive implants"
+    ],
+    "gold": [
+      {
+        "doc_id": "special-510k-program",
+        "chunk_id": "special-510k-program_c042",
+        "page_start": 26,
+        "page_end": 27
+      }
+    ],
+    "source_text": [
+      "Magnetically Induced Torque on Medical Devices in the Magnetic Resonance Environment. 61 ASTM F2182 Standard Test Method for Measurement of Radio Frequency Induced Heating On or Near Passive Implants During Magnetic Resonance Imaging. 62 ASTM F2119 Standard Test Method for Evaluation of MR Image Artifacts from Passive Implants. 63 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/establishing-safety-andcompatibility-passive-implants-magnetic-resonance-mr-environment. C - Is there a well-established method to evaluate the change? There are FDA-recognized voluntary consensus standards such as ASTM F2503,64 ASTM F2052,65 ASTM F2213,66 ASTM F2182,67 and ASTM F211968 for MR compatibility testing of passive implants. There are also FDA-recognized voluntary consensus standards for fatigue testing of endosseous dental implants, such as ANSI/American Dental Association (ANSI/ADA) Standard No. 12769 and ISO 1480170 to address the performance of the device. In addition, ISO 14801 and ANSI/ADA Standard No. 127 are applicable to all dental implants. D - Can the data be reviewed in a summary or risk analysis format? Yes. There are consensus standards for test methods, and guidance documents for reference. The fatigue testing can be placed into a summary format because the size change does not necessitate protocol or acceptance criteria deviations. In addition, the size change (4mm to 5mm) does not necessitate clinical or animal data. Because there has been no material change, and the 1 mm size change is not expected to alter the safety of the device with respect to MR compatibility, and the protocol and acceptance criteria has not changed, the MR testing results can be placed into a summary format because the SE determination does not depend on the Agency’s interpretation of the underlying data, such as images, raw graphs, or line item data. Decision: Change can be reviewed in a Special 510(k). Example B.11 Change: The submitter proposes to change the shape of the test cassette for a lateral flow immunoassay for fecal occult blood. The new test cassette has a longer and slimmer housing design in comparison to the predicate device. Relevant Questions: A - Is it a change to the manufacturer’s own device? Yes, the submitter is the manufacturer of the predicate device. B - Are performance data needed to evaluate the change? Yes. A method comparison study should be conducted using the predicate device and candidate device to measure patient samples from the intended use population."
+    ],
+    "decision": "drop",
+    "drop_reason": "off-topic — MR-compatible passive implants (dental implants, worked examples), unrelated to wound dressings"
+  },
+  "gen-single_guidance-018": {
+    "id": "gen-single_guidance-018",
+    "category": "single_guidance",
+    "question": "According to the FDA guidance on medical device patient labeling, what four elements are generally recognized by courts and research as necessary for an effective warning or precaution?",
+    "answer": "The four elements are a signal word (such as WARNING or CAUTION), a hazard avoidance directive (e.g., Do Not, Never, Avoid), a clear statement of the nature of the hazard, and the consequences of not following the instructions.",
+    "key_facts": [
+      "signal word (WARNING, CAUTION)",
+      "hazard avoidance directive (Do Not, Never, Avoid)",
+      "clear statement of the nature of the hazard",
+      "consequences of not following instructions"
+    ],
+    "gold": [
+      {
+        "doc_id": "guidance_medical_device_patient_labeling",
+        "chunk_id": "guidance_medical_device_patient_labeling_c039",
+        "page_start": 40,
+        "page_end": 40
+      }
+    ],
+    "source_text": [
+      "behavior to avoid injury or device damage. For a warning or precaution to be effective, readers must: • perceive the threat to be both severe and relevant to them, • believe that they can perform the recommended response, and • believe that response will be effective in avoiding the hazard. Effective warnings and precautions capture the reader’s attention, are understood, are consistent enough with the reader’s beliefs and attitudes to be accepted, and are persuasive enough to motivate the reader to comply. They invoke an appropriate level of fear arousal, conveying the nature and extent of the hazard, without being so strong that they backfire, causing the reader to select an alternative action or no action. What is appropriate content of an effective warning or precaution? There are four elements generally recognized by the courts and research (See References – Warnings and Precautions) as necessary for an effective warning or precaution: • a signal word (WARNING, CAUTION) to alert the reader that what follows is important hazard information. A symbol or icon may emphasize the effect of the signal word. Additional enhancement, such as bolding, larger type, underlining, italics, or color may help the information stand out from the rest of the text. However, studies have demonstrated that a large difference in font size between the signal word and the text may de-emphasize the importance of the text and therefore reduce the likelihood that the text will be read. • a hazard avoidance directive in the form: Do Not, Never, Avoid...” (or Do, if more appropriate) followed by the action to avoid (or perform). The objective of this directive is to give clear instructions to the user on how to avoid the hazard. • a clear statement of the nature of the hazard associated with the warning (e.g., allergic reaction to material, strong magnetic field) or precaution (e.g., environmental effect, damage from resterilization) that characterizes the severity and the likelihood. • the consequences, specifying the serious adverse events, potential safety hazards and limitations in device use that result if users do not follow instructions. The purpose is to"
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-019": {
+    "id": "gen-single_guidance-019",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on ISO 10993-1 biological evaluation, what material standard is cited as potentially suitable for supporting the biocompatibility assessment of 316L stainless steel surgical vascular clamps, provided manufacturing-related risks are addressed?",
+    "answer": "The guidance cites material standards for 316L stainless steel as potentially appropriate to support the biocompatibility evaluation of 316L stainless steel surgical vascular clamps, as long as manufacturing risks are appropriately considered and mitigated.",
+    "key_facts": [
+      "316L stainless steel",
+      "surgical vascular clamps",
+      "material standards",
+      "manufacturing risks considered and mitigated"
+    ],
+    "gold": [
+      {
+        "doc_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d",
+        "chunk_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d_c025",
+        "page_start": 17,
+        "page_end": 17
+      }
+    ],
+    "source_text": [
+      "4. Consensus standards: Consensus standards specific to a particular device type or material may be helpful to inform a risk assessment; however, the extent to which the standard could be utilized may be dependent on the specificity of the standard and/or the specific material. Ideally, a standard would have sufficient specificity to provide useful information regarding material risks. For example, standards that outline both mechanical and chemical properties of a device type with pass/fail criteria may be particularly informative to FDA’s review because of the specificity of such a standard. Standards that address bulk material composition can also be informative as a starting point for incorporating material characterization into a risk assessment. For example, it may be appropriate to use material standards to support the biocompatibility evaluation of 316L stainless steel surgical vascular clamps, as long as any risks associated with manufacturing are appropriately considered and mitigated (see Section IV.A). Given the effects that manufacturing and processing may have on a polymer as incorporated into the final finished medical device, use of material standards may not be sufficient to identify biocompatibility risks for devices made from polymers."
+    ],
+    "decision": "drop",
+    "drop_reason": "off-topic — surgical vascular clamps example, and answer is circular (doesn't name an actual standard)"
+  },
+  "gen-single_guidance-020": {
+    "id": "gen-single_guidance-020",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on the Appropriate Use of Voluntary Consensus Standards in Premarket Submissions, when a 510(k) submission includes a submitter's declaration of conformity to one or more consensus standards, what does FDA review the submission to confirm?",
+    "answer": "FDA reviews the premarket submission to ensure that the declaration of conformity is appropriate and that the submission contains all other necessary information for FDA to evaluate the substantial equivalence of the device (or safety and effectiveness for other submission types).",
+    "key_facts": [
+      "declaration of conformity (DOC) is appropriate",
+      "submission contains all other necessary information",
+      "evaluate substantial equivalence for a 510(k)"
+    ],
+    "gold": [
+      {
+        "doc_id": "appropriate_use_voluntary_consensus_standards_premarket",
+        "chunk_id": "appropriate_use_voluntary_consensus_standards_premarket_c029",
+        "page_start": 16,
+        "page_end": 16
+      }
+    ],
+    "source_text": [
+      "VII. Limitations of Consensus Standards A specific device may raise issues not addressed by consensus standards. For example, submissions for some devices may rely on data from animal testing or clinical studies not addressed in consensus standards that FDA has recognized or decided to recognize. In other instances, additional performance specifications may be applicable to the device that is the subject of the submission. Additional information to support approval or clearance of a device may also be recommended in guidance documents. When a submission contains a submitter’s DOC with one or more consensus standards, FDA reviews the premarket submission to ensure that the DOC is appropriate and that the premarket submission contains all of the other necessary information for FDA to evaluate the safety and effectiveness or, in the case of a 510(k), the substantial equivalence of the device.\n\nIt is important to note that consensus standards with requirements and/or references to other normative requirements do not have precedence over existing FDA laws and regulations."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-021": {
+    "id": "gen-single_guidance-021",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on deciding when to submit a new 510(k) for a software change to an existing device, which section of the FD&C Act states that FDA shall request only the minimum information necessary to support a substantial equivalence determination?",
+    "answer": "The least burdensome provision is found in section 513(i)(1)(D) of the FD&C Act, with the minimum required information language appearing in sections 513(i)(1)(D)(ii)-(iii).",
+    "key_facts": [
+      "section 513(i)(1)(D)",
+      "minimum required information",
+      "substantial equivalence"
+    ],
+    "gold": [
+      {
+        "doc_id": "deciding-when-submit-510k-software-change-existing-device",
+        "chunk_id": "deciding-when-submit-510k-software-change-existing-device_c004",
+        "page_start": 6,
+        "page_end": 7
+      }
+    ],
+    "source_text": [
+      "and document changes and approvals in the device master record (21 CFR 820.181). Any process whose results cannot be fully verified by subsequent inspection and testing must be validated (21 CFR 820.75), and changes to the process require review, evaluation, and revalidation of the process where appropriate (21 CFR 820.75(c)). The net effect of the QS regulation is to require that, when manufacturers of a finished medical device make a change in the design of a device, there is a process in place to demonstrate that the manufactured device meets the change in design specifications (or the original specifications, if no change was intended). They must keep records, and these records must be made available to an FDA investigator upon request (see Section 704(e) of the FD&C Act). For many changes to a device, submission of a new 510(k) may not be required. In these cases, including many software design changes, compliance with the QS regulation can reasonably assure the safety and effectiveness of the changed device. Least Burdensome Principles The least burdensome provision concerning 510(k)s states that FDA “shall only request information that is necessary…” and “shall consider the least burdensome means of demonstrating substantial equivalence…” (see section 513(i)(1)(D)(i) of the FD&C Act). While not changing the standard for substantial equivalence, this provision states that FDA shall only request the “minimum required information” necessary to support a determination of substantial equivalence (see sections 513(i)(1)(D)(ii)-(iii) of the FD&C Act). The recommendations discussed in this guidance for evaluating when a change in a medical device would trigger the requirement that a manufacturer submit a new 510(k) to the Agency are consistent with least burdensome principles, and applies them in discussing the considerations that may affect the decision-making about when to submit a new 510(k) for a device change or modification."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-022": {
+    "id": "gen-single_guidance-022",
+    "category": "single_guidance",
+    "question": "Under the FDA's Abbreviated 510(k) Program, what statutory definition is given for special controls for class II devices, and which law introduced this concept?",
+    "answer": "Special controls are defined in section 513(a)(1)(B) of the FD&C Act as controls such as performance standards, postmarket surveillance, patient registries, and development and dissemination of guidelines, recommendations, and other appropriate actions that provide reasonable assurance of the device's safety and effectiveness. The Safe Medical Devices Act of 1990 (Public Law 101-629) introduced the concept of special controls.",
+    "key_facts": [
+      "section 513(a)(1)(B) of the FD&C Act",
+      "performance standards, postmarket surveillance, patient registries, guidelines, recommendations",
+      "Safe Medical Devices Act of 1990 (Public Law 101-629)"
+    ],
+    "gold": [
+      {
+        "doc_id": "abbreviated-510k-program",
+        "chunk_id": "abbreviated-510k-program_c004",
+        "page_start": 4,
+        "page_end": 4
+      }
+    ],
+    "source_text": [
+      "III. The Abbreviated 510(k) Program FDA issues guidance documents to communicate the Agency’s recommendations to industry. FDA believes that, within the Abbreviated 510(k) Program, the use of guidance documents may facilitate the review of 510(k)s through a reliance on a “summary reports” that briefly describe and summarize the testing performed to support the submission as recommended in relevant guidance document(s). These reports summarize the device description, the manufacturer’s device design requirements, risk management information, and a description of test methods used to address performance characteristics. A 510(k) submission that addresses the recommendations of an FDA guidance document should be easier to prepare by manufacturers and for FDA to review. The Safe Medical Devices Act of 1990 (Public Law 101-629) introduced the concept of special controls to provide a reasonable assurance of safety and effectiveness for class II devices. Special controls are defined in section 513(a)(1)(B) of the FD&C Act as those controls, such as performance standards, postmarket surveillance, patient registries, development and dissemination of guidelines, recommendations and other appropriate actions that provide reasonable assurance of the device's safety and effectiveness. As in the case of guidance documents, summary information that describes how a special control(s) has been used to address a specific risk or issue should reduce the time and effort to prepare and review 510(k)s. 4 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/refuse-accept-policy-510ks. 5 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/format-traditional-andabbreviated-510ks."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-023": {
+    "id": "gen-single_guidance-023",
+    "category": "single_guidance",
+    "question": "According to FDA guidance on Q-Submissions for medical device submissions, which types of FDA letters are explicitly listed as not suitable topics for a Submission Issue Request (SIR)?",
+    "answer": "A SIR is not appropriate for discussing Not Substantially Equivalent, Withdrawal, and Deletion letters. It is also not appropriate to discuss issues while a file is under active review.",
+    "key_facts": [
+      "Not Substantially Equivalent",
+      "Withdrawal",
+      "Deletion",
+      "not appropriate while file under active review"
+    ],
+    "gold": [
+      {
+        "doc_id": "requests-feedback-and-meetings-medical-device-submissions-q-submission",
+        "chunk_id": "requests-feedback-and-meetings-medical-device-submissions-q-submission_c010",
+        "page_start": 5,
+        "page_end": 6
+      }
+    ],
+    "source_text": [
+      "are considered appropriate marketing submission hold letters for a SIR: • Additional Information Needed for 510(k)s, De Novo requests, and Duals; • Major Deficiencies, Not Approvable, Approvable with Deficiencies, Approvable Pending GMP, and Approval with PAS conditions for PMAs and HDEs; • Complete Response Letter for Biologics License Applications (BLAs). A SIR is intended to facilitate interaction between FDA and the submitter to quickly address questions about issues identified in these letters so that projects can move forward, and so that submitters are able to fully address outstanding questions and issues in their formal responses. A SIR may be used to discuss a planned approach or strategy for addressing issues identified in an FDA letter. However, a SIR should not be used to request that FDA pre-review an intended formal response to assess adequacy. Submitters are expected to provide a formal response to any letters received from FDA within the requested timeline regardless of whether a SIR is submitted. Please note, a SIR is not appropriate for discussing certain letters, such as Not Substantially Equivalent, Withdrawal, and Deletion letters. A SIR is not necessary for simple requests for clarification of issues in a letter where the involvement of management is not needed (e.g., minor clarification questions or administrative issues that can be addressed by the lead reviewer interactively). A SIR is also not appropriate to discuss issues while a file is under active review."
+    ],
+    "decision": "keep"
+  },
+  "gen-single_guidance-024": {
+    "id": "gen-single_guidance-024",
+    "category": "single_guidance",
+    "question": "Under the FDA guidance on Recognition and Withdrawal of Voluntary Consensus Standards, what is the estimated time burden per request for the information collection associated with the Paperwork Reduction Act, and what OMB control number is assigned to that collection?",
+    "answer": "The estimated time burden is 1 hour per request, and the OMB control number is 0910-0120.",
+    "key_facts": [
+      "1 hour per request",
+      "OMB control number 0910-0120"
+    ],
+    "gold": [
+      {
+        "doc_id": "recognition-and-withdrawal-voluntary-consensus-standards",
+        "chunk_id": "recognition-and-withdrawal-voluntary-consensus-standards_c019",
+        "page_start": 12,
+        "page_end": 13
+      }
+    ],
+    "source_text": [
+      "VII. Paperwork Reduction Act of 1995\n\nThis guidance contains information collection provisions that are subject to review by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3521).\n\n20 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/appropriate-use-voluntary-consensusstandards-premarket-submissions-medical-devices\n\nThe time required to complete this information collection is estimated to be 1 hour per request. Send comments regarding this burden estimate or suggestions for reducing this burden to:\n\nFDA PRA Staff, Office of Operations, Food and Drug Administration, PRAStaff@fda.hhs.gov\n\nAn agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The OMB control number for this information collection is 09100120 (To find the current expiration date, search for this OMB control number available at https://www.reginfo.gov)."
+    ],
+    "decision": "drop",
+    "drop_reason": "Paperwork Reduction Act boilerplate — same class as the FDA cover letters, not real regulatory content"
+  },
+  "gen-cross_doc-001": {
+    "id": "gen-cross_doc-001",
+    "category": "cross_doc",
+    "question": "For the OTC Elasto-Gel Manuka Honey dressing (K102478), which is intended to be applied directly onto surface wounds such as cuts, scrapes, and abrasions, what type of contact with body tissue does this represent according to the FDA guidance's glossary, and what precautionary statement does that guidance recommend for caretakers monitoring patients using such a device?",
+    "answer": "Because the OTC Elasto-Gel Manuka Honey dressing is placed directly on surface wounds, it involves direct contact, defined in the guidance as a device or component that physically touches body tissue. The guidance's example precautionary statement advises caretakers to check patients for adverse skin reactions at the contact site, including redness, swelling, irritation, sensitization (delayed Type IV hypersensitivity), allergy, immune response, or other reactions.",
+    "key_facts": [
+      "The OTC Elasto-Gel Manuka Honey dressing (K102478) is applied to surface wounds such as cuts, scrapes, and abrasions.",
+      "The FDA guidance defines direct contact as physical contact between a device or component and body tissue, and recommends that caretakers assess patients for adverse skin reactions such as erythema, edema, irritation, sensitization, allergy, or immune response."
+    ],
+    "gold": [
+      {
+        "doc_id": "K102478",
+        "chunk_id": "K102478_c001",
+        "page_start": 1,
+        "page_end": 2
+      },
+      {
+        "doc_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d",
+        "chunk_id": "use-international-standard-iso-10993-1-biological-evaluation-medical-d_c104",
+        "page_start": 68,
+        "page_end": 69
+      }
+    ],
+    "source_text": [
+      "4. Device Description OTC Elasto-Gel Manuka dressings are supplied as~a gel (amorphous) a thickened viscosity honey or a gel sheet. OTC Elasto-Gel Manuka Honey sheet dressing isi the same composition and identical to the Parent Product The dressings will be supplicd ininany sizes, for example: 2x3, 4x4, 6x8, and possibly other additional sizes and shapes. The amorphous gel is a mixture of a super absorbent crosslinked sodium polyacrylic acid, glycerine, honey and water. Trhe crosslinked polyacrylamide polymer is insoluble in the wound fluid but has a relatively high capacity for absorption of the wound fluid, while releasing the glycerine, honey, anti water into the wound fluid to establish a chemical equilibrium. T he OTC Elasto-Gel Manuka Honey Amorphous gel dressing, is formulated to produce a high viscosity fluid mixture Suitable for surface woundcs cuts, scrapes arid abrasions. The gel sheet is a moderately adhesive soft gel sheet that will protect the wound firomshear, friction and pressure, suitable as a protective padding and cushioning device as well as functioning asa dressing. The OTC Elasto-Gel with Manuka Honey are limited to a slight change in indications land over thd counter use. The products will not dry out or become stuck to the wound. In most cases soon after application to the~wound the pain level will be diminished The products will help provide a moist healing environment and will aid~inthe healing process. .siE/astc~Ge/TM T5! 1,r( m COiflt -0 Finger Bobs~Cuc~V~tT1/ocDsT ASiue~ 1746 Levee Road, North Kansas City, MO. 64116 (Sph(800) 247-9951 ph:(816) 221-2442 fax:(816) 221-3995(sxvw~elastogel.comn\n\n5.",
+      "by patients and/or their caretakers. An example of a precautionary statement that follows FDA’s recommendations is below: “Caretakers should assess patients for adverse reactions on the skin where the device has contact, such as redness (erythema), swelling (edema), irritation, sensitization (delayed Type IV hypersensitivity), allergy, immune response, or other reactions.” Attachment H: Glossary For the purposes of this guidance, the following definitions apply: Agglomerate/agglomeration – collection of weakly or medium strongly bound particles where the resulting external surface area is similar to the sum of the surface areas of the individual components88 Aggregate/aggregation – particle comprising strongly bonded or fused particles where the resulting external surface area is significantly smaller than the sum of surface areas of the individual components89 Biocompatibility – the ability of a device material to perform with an appropriate host response in a specific situation90 Contact: · Direct contact – term used for a device or device component that comes into physical contact with body tissue · Indirect contact – term used for a device or device component through which a fluid or gas passes, prior to the fluid or gas coming into physical contact with body tissue (in this case the device or device component itself does not physically contact body tissue) · Non-contact – term used for a device or device component that has no direct or indirect contact with the body (e.g., stand-alone software or database), and for which no biocompatibility information would be needed other than confirmation that there is no contact with the human body · Transient contact – term used for a device or device component that comes into very brief/transient contact with body tissue (e.g., hypodermic needles that are used for less than one minute) Degradation – decomposition of the device, possibly through the generation of new chemicals or absorption of the material, leading to loss of mechanical and/or physical properties of the device (device function) over time 88 ISO/TS 80004-6:2021(E) Nanotechnologies - Vocabulary - Part 6: Nano-object characterization. 89 ISO/TS 80004-6:2021(E) Nanotechnologies - Vocabulary - Part 6: Nano-object characterization. 90 Black, J., \"Biological Performance of Materials: Fundamentals of Biocompatibility.\" Boca Raton: CRC Press, 2006."
+    ],
+    "decision": "drop",
+    "drop_reason": "forced connection — \"direct contact\" classification for K102478 is the model's own inference, never stated in either passage"
+  },
+  "gen-cross_doc-002": {
+    "id": "gen-cross_doc-002",
+    "category": "cross_doc",
+    "question": "For the absorbent wound dressing cleared under K123219, what did the FDA letter permit the manufacturer to do, and according to the 510(k) guidance, what must a manufacturer do before a device like this can be commercially distributed?",
+    "answer": "The FDA letter for K123219 allowed the manufacturer to begin marketing the absorbent wound dressing after FDA found it substantially equivalent to a legally marketed predicate device. The guidance states that a manufacturer must submit a 510(k) to FDA at least 90 days before introducing or delivering the device into interstate commerce for commercial distribution, and the device cannot be commercialized until FDA issues an order determining it substantially equivalent.",
+    "key_facts": [
+      "K123219 is an absorbent wound dressing whose FDA letter permits marketing based on a substantial equivalence finding to a predicate device.",
+      "The 510(k) guidance requires submission at least 90 days before commercial distribution and prohibits commercialization until FDA issues a substantial equivalence clearance order."
+    ],
+    "gold": [
+      {
+        "doc_id": "K123219",
+        "chunk_id": "K123219_c006",
+        "page_start": 4,
+        "page_end": 6
+      },
+      {
+        "doc_id": "510k-program-evaluating-substantial-equivalence-premarket-notification",
+        "chunk_id": "510k-program-evaluating-substantial-equivalence-premarket-notification_c008",
+        "page_start": 6,
+        "page_end": 6
+      }
+    ],
+    "source_text": [
+      "Part 820); and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. This letter will allow you to begin marketing your device as described in your Section 5 10(k) premarket notification. The FDA finding of substantial equivalence of your device to a legally Page 2 -Ms. Sophie Fortin marketed predicate device results in a classification for your device and thus, permits your device to proceed to the market. If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please contact the Center fot Devices and Radiological Health's (CDRH's) Office of Compliance at (240) 276-011I5. Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21ICFR Part 807.97). For questions regarding postmarket surveillance, please contact CDRI-'s Office of Surveillance and Biometric's (OSB's) Division of Postmarket Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events (Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems at (240) 276-3464. You may obtain other general information on your responsibilities under the Act from the Division of Small Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address http://wA-vxv.fda.rov/cdri/industry,/support/inidex.htinli. Sincerely yours, FOR Pe t er D f-TR1 J m m -S Mark N. Melkerson Acting Director Division of Surgical Devices Office of Device Evaluation Center for Devices and Radiological Health Enclosure , -\\ .",
+      "States a Class I, II, or III device intended for human use, for which a Premarket Approval application (PMA) is not required, must submit to FDA a premarket notification submission (often referred to as a 510(k)), unless the device is exempt from the 510(k) requirements of the FD&C Act and does not exceed the limitations of exemptions for each of the device classification regulations (Section .9 of 21 CFR Parts 862 through 892, e.g., 21 CFR 862.9, 21 CFR 864.9, etc.). Under section 510(k) of the FD&C Act, a manufacturer must submit a 510(k) to FDA at least 90 days before introducing, or delivering for introduction, a device into interstate commerce for commercial distribution so the Agency can determine whether or not the device meets the criteria for market clearance (Sections 510(k) and (n) of the FD&C Act (21 U.S.C. §§ 360(k) & (n))). The Agency bases its decision on whether the device is substantially equivalent (SE) to a legally marketed (predicate) device (Section 513(i) of the FD&C Act (21 U.S.C. § 360c(i))). The device cannot be commercialized until FDA issues an order (510(k) clearance) stating that the device has been determined to be SE (Section 513(f)(1) of the FD&C Act (21 U.S.C. § 360c(f)(1))). B. The 510(k) Classification Process According to section 513(f) of the FD&C Act, a new (i.e., post-amendments) device is automatically in Class III and must undergo premarket approval or reclassification before it can be marketed, unless it is a type of device that was in commercial distribution prior to May 28, 1976, and is SE to another such device; or it is within a type of device introduced after May 28, 1976, that has been reclassified into Class I or II and is SE to another device within such classification."
+    ],
+    "decision": "drop",
+    "drop_reason": "Passage 1 is boilerplate cover letter (same as #5/#19/#27); \"absorbent wound dressing\" device identity never stated in either passage"
+  },
+  "gen-cross_doc-003": {
+    "id": "gen-cross_doc-003",
+    "category": "cross_doc",
+    "question": "For the collagen wound dressing cleared under K231152, what did the submitter rely on instead of a clinical study to establish safety, and which FDA guidance document does that approach align with?",
+    "answer": "The K231152 submission included no clinical study; instead it relied on animal testing, biocompatibility testing, chemical characterization, and a viral inactivation study to confirm the device's safety. This approach aligns with the FDA guidance 'Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices),' issued March 15, 2019, which addresses controls and testing for devices using animal-derived materials.",
+    "key_facts": [
+      "K231152's 510(k) summary states no clinical study was included and safety was confirmed through animal testing, biocompatibility testing, chemical characterization, and a virus inactivation study.",
+      "The FDA guidance 'Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices)' was issued on March 15, 2019 and covers considerations for animal-derived materials."
+    ],
+    "gold": [
+      {
+        "doc_id": "K231152",
+        "chunk_id": "K231152_c008",
+        "page_start": 7,
+        "page_end": 8
+      },
+      {
+        "doc_id": "medical-devices-containing-materials-derived-animal-sources-except-in-",
+        "chunk_id": "medical-devices-containing-materials-derived-animal-sources-except-in-_c000",
+        "page_start": 4,
+        "page_end": 5
+      }
+    ],
+    "source_text": [
+      "FDA guidance document-Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices) and ISO 22442 standards. Animal testing, biocompatibility testing, chemical characterization studies and inactivation study of viruses confirmed the safety of proposed device. 7. Clinical Test Conclusion No clinical study is included in this submission. 8. Substantially Equivalent (SE) Comparison The proposed device is compared with the following predicate device in terms of intended use, indications for use, technological characteristics (e.g. design, material, physical structure, technology method, main process, mode of action), sterilization, and animal-derived materials safety. These data of predicate devices came from commercially product labeling and 510(k) summary. Traditional 510(K) Submission: K231152 510(K) Summary 5 / 7 Item Subject device",
+      "Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices) Guidance for Industry and Food and Drug Administration Staff Document issued on March 15, 2019. The draft of this document was issued on January 23, 2014. This document supersedes “Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices)” issued November 6, 1998. For questions about this document contact Division of Surgical Devices at (301) 796-6970. U.S. Department of Health and Human Services Food and Drug Administration Center for Devices and Radiological Health Preface Public Comment You may submit electronic comments and suggestions at any time for Agency consideration to https://www.regulations.gov. Submit written comments to the Dockets Management Staff, Food and Drug Administration, 5630 Fishers Lane, Room 1061, (HFA-305), Rockville, MD 20852. Identify all comments with the docket number FDA-2013-D-1574. Comments may not be acted upon by the Agency until the document is next revised or updated. Additional Copies Additional copies are available from the Internet. You may also send an e-mail request to CDRH-Guidance@fda.hhs.gov to receive a copy of the guidance. Please use the document number 2206 to identify the guidance you are requesting. Table of Contents I. Introduction........................................................................................................................................1 II. Background........................................................................................................................................2 III. Scope ..................................................................................................................................................3 IV. Considerations When Using Animal-Derived Materials ...................................................................4 A. Control of Animal Tissue Collection ..............................................................................................4 B. Manufacturing Controls for Animal Tissue Components ..............................................................5 C. Sterilization....................................................................................................................................6 D. Transmissible Spongiform Encephalopathy-Specific Issues .........................................................8 Medical Devices Containing Materials Derived from Animal Sources (Except for In Vitro Diagnostic Devices)"
+    ],
+    "decision": "drop",
+    "drop_reason": "Passage 2 is just the guidance's cover page/TOC (issue date, contact info, table of contents) — no actual substantive content to connect to Passage 1"
+  },
+  "gen-cross_doc-004": {
+    "id": "gen-cross_doc-004",
+    "category": "cross_doc",
+    "question": "For the ASAP OTCTM Wound Dressing Gel (K140483), which is supplied in a multi-dose gel pump and a tube, what does the FDA guidance say about the theoretical limit of microbial inactivation during sterilization, and how does that limitation relate to the device's intended antimicrobial function?",
+    "answer": "The ASAP OTCTM Wound Dressing Gel (K140483) is a water-based gel containing silver hydrosol that may inhibit microbial growth within the dressing. According to the FDA guidance, sterilization inactivation is exponential and probabilistic: microbial survival on an individual item can be expressed as a probability that can be made very low but can never be reduced to zero. Therefore, while the device's silver hydrosol may inhibit microorganisms within the dressing, any sterilization process applied to it or its components cannot guarantee absolute sterility, only a very low probability of surviving microorganisms.",
+    "key_facts": [
+      "ASAP OTCTM Wound Dressing Gel (K140483) contains silver hydrosol that may inhibit the growth of microorganisms within the dressing.",
+      "FDA guidance states that in sterilization, microbial inactivation is exponential and survival probability can be reduced to a very low number but never to zero."
+    ],
+    "gold": [
+      {
+        "doc_id": "K140483",
+        "chunk_id": "K140483_c001",
+        "page_start": 1,
+        "page_end": 1
+      },
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c066",
+        "page_start": 38,
+        "page_end": 39
+      }
+    ],
+    "source_text": [
+      "Device Description: ASAP OTCTM Wound Dressing Gel is a water based gel wound dressing that contains silver hydrosol that may inhibit the growth of microorganisms within the dressing. The high moisture content gel contains a base matrix composed of hydrophilic and buffering compounds and contains silver from American Biotech Labs' proprietary silver hydrosol suspension.. ASAP OTCTM Wound Dressing Gel is supplied in a multi-dose gel pump and a tube (collapsible, low-density polyethylene lined metal tube, sealed on one end and fitted with a popopen screw cap on the other end).",
+      "NOTE: In a sterilization process, the nature of microbial inactivation is described as exponential and, thus, the survival of a microorganism on an individual item can be expressed in terms of probability. While this probability can be reduced to a very low number, it can never be reduced to zero. 14 Food and Drug Administration (FDA), Reprocessing of Single Use Devices, Definitions, http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/ReprocessingofSingleUseDevices/ucm121090.htm (June 18, 2009). Sterilization Wrap: A sterilization wrap (pack, sterilization wrapper, bag, or accessories) is a device intended to be used to enclose another medical device that is to be sterilized by a health care provider. It is intended to allow sterilization of the enclosed medical device and also to maintain sterility of the enclosed device until used. (21 CFR 880.6850)"
+    ],
+    "decision": "drop",
+    "drop_reason": "forced connection — general sterilization theory reprocessing note has no stated link to this specific antimicrobial gel product; answer's \"therefore\" is the model's own reasoning, not the source's"
+  },
+  "gen-cross_doc-005": {
+    "id": "gen-cross_doc-005",
+    "category": "cross_doc",
+    "question": "For the PHMB Wound Dressing cleared under K221532, which is terminally sterilized with ethylene oxide, how does the FDA's reprocessing guidance characterize the likelihood that any individual unit remains non-sterile after that process?",
+    "answer": "The PHMB Wound Dressing (K221532) is sterilized using ethylene oxide under conditions validated to ISO 11135:2014. According to the FDA reprocessing guidance, microbial inactivation during sterilization follows an exponential pattern, so the survival of organisms on any single item is a matter of probability; that probability can be driven extremely low but can never reach zero. Therefore, even though the K221532 dressing undergoes validated EO sterilization, the guidance indicates that no individual unit can be guaranteed to be absolutely free of surviving microorganisms.",
+    "key_facts": [
+      "K221532's PHMB Wound Dressing is sterilized by ethylene oxide using conditions validated per ISO 11135:2014.",
+      "FDA guidance states sterilization inactivation is exponential, so microbial survival on an individual item is probabilistic and can never be reduced to zero."
+    ],
+    "gold": [
+      {
+        "doc_id": "K221532",
+        "chunk_id": "K221532_c004",
+        "page_start": 5,
+        "page_end": 6
+      },
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c066",
+        "page_start": 38,
+        "page_end": 39
+      }
+    ],
+    "source_text": [
+      "5. Device Description The proposed device PHMB Wound Dressing is a sterile wound dressing. It is used as a primary or secondary dressing to absorb wound exudates. Based on in vitro testing, the antibacterial agent PHMB in dressing helps to resist bacterial colonization within the dressing for up to 7 days. The proposed device is available in two configurations, The first one, PHMB Island Wound Dressing with acrylic adhesive, consists of a polyester viscose non-woven backing layer coated with acrylic adhesive as the top layer, a center soft absorbent pad which is made of non-woven fabric containing 0.2 % PHMB and it is laminated with the PET film, and a release liner covers on the top adhesive layer border part. The second one, PHMB Pad Wound Dressing, only consists of a soft absorbent pad containing 0.2 % PHMB and the non-woven absorbent pad is laminated with the PET film. The PHMB Island Wound Dressings with acrylic adhesive are supplied in a range of sizes within the range from 25 cm2 to 400 cm2, while for PHMB Pad Wound Dressings are supplied in a range of sizes within the range from 25 cm2 to 225 cm2. For each configuration, it has exactly the same materials, chemicals, and physical properties and are different only in size. All variants of proposed device, PHMB Wound Dressing, are sterilized by Ethylene Oxide using conditions validated following ISO 11135:2014. 6. Intended Use Statement Prescription Use: PHMB Wound Dressings are indicated for use in the management of post-surgical incisions, pressure sores, venous stasis ulcers, diabetic ulcers, donor sites, abrasions, lacerations, first and superficial second degree burns, dermatologic disorders, other wounds inflicted by trauma and, as a secondary dressing or cover dressing for packed wounds. 510(K) Summary 3/7",
+      "NOTE: In a sterilization process, the nature of microbial inactivation is described as exponential and, thus, the survival of a microorganism on an individual item can be expressed in terms of probability. While this probability can be reduced to a very low number, it can never be reduced to zero. 14 Food and Drug Administration (FDA), Reprocessing of Single Use Devices, Definitions, http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/ReprocessingofSingleUseDevices/ucm121090.htm (June 18, 2009). Sterilization Wrap: A sterilization wrap (pack, sterilization wrapper, bag, or accessories) is a device intended to be used to enclose another medical device that is to be sterilized by a health care provider. It is intended to allow sterilization of the enclosed medical device and also to maintain sterility of the enclosed device until used. (21 CFR 880.6850)"
+    ],
+    "decision": "drop",
+    "drop_reason": "same forced connection as #60 — reused Passage 2, same reprocessing note, no stated link to this device either; also wrong-context guidance (reprocessing applies to reusable devices, K221532 is not described as reusable)"
+  },
+  "gen-cross_doc-006": {
+    "id": "gen-cross_doc-006",
+    "category": "cross_doc",
+    "question": "For the Cork Medical Products NPWT Wound Dressing Kit described under K132004, what sterilization method is used for the kit, and according to the FDA shelf life guidance, what must a 510(k) applicant provide if a shelf life is to appear on the finished device's label?",
+    "answer": "The K132004 kit is sterilized with ethylene oxide and is packaged in a single-use Tyvek peel pouch. The FDA shelf life guidance, citing the 1989 surgeon's gloves 510(k) guidance, states that if a shelf life is to be included on the label of the finished device, the applicant must provide data supporting the proposed shelf life.",
+    "key_facts": [
+      "K132004 kit is sterilized using ethylene oxide and is single-use in a Tyvek peel pouch",
+      "FDA guidance states that if a shelf life is to be on the finished device label, the applicant must provide data supporting the proposed shelf life"
+    ],
+    "gold": [
+      {
+        "doc_id": "K132004",
+        "chunk_id": "K132004_c000",
+        "page_start": 1,
+        "page_end": 2
+      },
+      {
+        "doc_id": "shelf_life_medical_devices",
+        "chunk_id": "shelf_life_medical_devices_c053",
+        "page_start": 25,
+        "page_end": 26
+      }
+    ],
+    "source_text": [
+      "DEVICE DESCRIPTION 807.92(a)(4) Cork Medical Products NPWT Wound Dressing Kit is comprised of components necessary to dress a wound for negative pressure wound therapy. The kit includes reticulated, 30 pores per inch (PPI), polyether, polyurethane foam; transparent polyurethane film drape with adhesive backing; and port pad assembly comprised of silicone port pad, drainage tubing, luer connector, pinch clamp, and transparent polyurethane film drape with adhesive backing.\n\nThe kits are available in two (2) sizes: medium and large based on the size of the foam. The medium foam is: 0.75\" x 5\" x 8\". The large foam is 0.75\" x 6\" x 10\". Each kit is single-use and housed in a Tyvek peel pouch, which is sterilized using ethylene oxide. DEVICE INTENDED USE 807.92(a)(5) Cork Medical Products NPWT Wound Dressing Kit is intended to be used in conjunction with the Genadyne XLRS Pump to deliver negative pressure wound therapy to the wound. When used in conjunction with a NPWT pump system, Cork Medical Products NPWT Wound Dressing Kit is indicated for patients who would benefit from a suction device particularly asthe device may promote wound heating by the removal of excess exudates, infectious material, and tissue debris. Caution: Federal (USA) law restricts this device to sale by or on the order of a physician. PREDICATE PRODUCT COMPARISON TABLE 807.92(a)(6) Table 2 - Predicate Comparisons Component Cork Medical Products NPWT Wound Genadyne Biotechnologies, Inc. A4 Wound Dressing Kit K132004 Dressing Vacuum System Kit & A4-XLR8 roam Dressing K082676 & K092992 (predicate) Wound Foam - Reticulated polyether based polyurethane Reticulated polyether based polyurethane Material foam (A30M) foam (A3OM) Wound Foam - Medium: 0.75\" x 5\" x 8\" Small: 2.5-cm x 6-cm x 6-cm (M1\" x 2.36\" x Sizes - Larger: 0.75\" x 6\" x 10\" 2.36\") Medium: 2-cm x 10-cm x 15-cm (-0.79\" x 3.94\" xS5.91\") Large: 2.5-cm x 15-cm x 25-cm (-1x 5.91\" x 9.84\") Wound Foam - Yes - data provided by UFP Technologies Yes",
+      "g u l a t i o n does r e q u i r e manufacturers t o e s t a b l i s h a q u a l i t y assurance program appropriate f o r the device b e i n g manufactured. 6.2 \"Guidance for the Content and Organization of a Premarket Notification [510(k)] for Surgeon's Glovesw; August 1989; issued by the General and Plastic Surgical Devices Branch, Division of Surgical and Rehabilitation Devices within ODE. This document details the information that should be included in a 510(k) for surgeon's gloves and states that \"If a s h e l f l i f e i s t o be included on t h e l a b e l o f t h e f i n i s h e d gloves, t h e a p p l i c a n t must provide data supporting t h e proposed s h e l f l i f e . \" Additionally, DCD within ODE, has begun drafting a guidance document for determining the shelf life of products that are the subject of applications reviewed in DCD. This guidance document has not yet been issued in final or draft form. Their current policy is to determine if a shelf life is appropriate on a caseby-case basis for PMA products (class I11 devices). DCD is also participating in the pilot program that is outlined in the 510(k) Sterility Review Guidance mentioned previously. The Division of Small Manufacturers Assistance (DSMA) was established to meet the requirements of the Medical Device Amendments that FDA establish an office to provide technical and other nonfinancial assistance to medical device manufacturers. The guidelines and other documents referenced throughout this paper are available from DSMA by calling 800-638-2041 (or 301-443-6597 in Maryland). DSMA is also ready to answer requests for other information or guidance concerning the obligations of medical device establishments."
+    ],
+    "decision": "drop",
+    "drop_reason": "forced connection + wrong-device Passage 2 — the shelf-life text explicitly applies to surgeon's gloves, not NPWT kits"
+  },
+  "gen-cross_doc-007": {
+    "id": "gen-cross_doc-007",
+    "category": "cross_doc",
+    "question": "The ALGS6 Ag Alginate Wound Dressing (K172570) is supplied as a sterile, single-use dressing. According to FDA guidance on reprocessing medical devices in health care settings, if a health care provider wanted to sterilize this dressing again before reuse, what type of device would be needed to enclose it during that sterilization process, and why can sterility after such a process never be guaranteed with absolute certainty?",
+    "answer": "A sterilization wrap would be needed — a device intended to enclose another medical device being sterilized by a health care provider, allowing sterilization of the enclosed device and maintaining its sterility until use (21 CFR 880.6850). Sterility cannot be guaranteed with absolute certainty because microbial inactivation during sterilization is exponential, so the survival of a microorganism on any individual item can only be expressed as a probability; although that probability can be made very low, it can never be reduced to zero.",
+    "key_facts": [
+      "ALGS6 Ag Alginate Wound Dressing (K172570) is a sterile, single-use dressing.",
+      "A sterilization wrap is intended to enclose a medical device to be sterilized by a health care provider, permitting sterilization and maintaining sterility until use (21 CFR 880.6850).",
+      "Microbial inactivation in sterilization is exponential, so survival on an individual item is probabilistic and can never be reduced to zero."
+    ],
+    "gold": [
+      {
+        "doc_id": "K172570",
+        "chunk_id": "K172570_c003",
+        "page_start": 6,
+        "page_end": 6
+      },
+      {
+        "doc_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a",
+        "chunk_id": "reprocessing-medical-devices-health-care-settings-validation-methods-a_c066",
+        "page_start": 38,
+        "page_end": 39
+      }
+    ],
+    "source_text": [
+      "7. Device Description\n\nALGS6 Ag Alginate Wound Dressing is a highly absorbent, sterile, single use, nonwoven (Rx version pad or ribbon, OTC version pad) dressing composed of calcium alginate fiber, Lyocell fiber and 1.7% ionic silver which allows for a maximum of 30.6 mg of silver for a 4-inch x 4-inch dressing (0.306 mg per square centimeter). Silver is present in the dressing as a preservative to prevent or inhibit growth of bacteria within the dressing. The dressing absorbs high amounts of wound fluid and the bacteria contained in the wound fluid. The absorbed wound fluid in the dressing creates a soft and cohesive gel which assists in maintaining a moist environment. The moist wound healing environment and control of dressing bacteria supports the body's healing process.\n\n8. Indication for Use Rx Only (Pad and ribbon Configurations)\n\nUnder the supervision of a healthcare professional, ALGS6 Ag Alginate Wound Dressing may be used for management of acute and chronic, partial and full thickness wounds including pressure ulcers, leg ulcers, diabetic foot ulcers, surgical wounds, traumatic wounds, first and second-degree burns.\n\nFor Over-the-Counter use (Pad Configuration), ALGS6 Ag Alginate Wound Dressing may be used for: • Minor Abrasions • Minor Lacerations • Minor cuts • Minor scalds and burns",
+      "NOTE: In a sterilization process, the nature of microbial inactivation is described as exponential and, thus, the survival of a microorganism on an individual item can be expressed in terms of probability. While this probability can be reduced to a very low number, it can never be reduced to zero. 14 Food and Drug Administration (FDA), Reprocessing of Single Use Devices, Definitions, http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/ReprocessingofSingleUseDevices/ucm121090.htm (June 18, 2009). Sterilization Wrap: A sterilization wrap (pack, sterilization wrapper, bag, or accessories) is a device intended to be used to enclose another medical device that is to be sterilized by a health care provider. It is intended to allow sterilization of the enclosed medical device and also to maintain sterility of the enclosed device until used. (21 CFR 880.6850)"
+    ],
+    "decision": "drop",
+    "drop_reason": "same reused Passage 2 chunk again (3rd time), same forced-connection problem; also this dressing is explicitly single-use — the hypothetical \"if reprocessed\" premise contradicts its own labeling"
+  },
+  "gen-cross_doc-008": {
+    "id": "gen-cross_doc-008",
+    "category": "cross_doc",
+    "question": "For Hemastyl™ (K250115), the 510(k) summary states that no adverse effects were observed with either the new dressing or the predicate silver gel dressing, and that no performance standards apply. In contrast, how does the FDA guidance on substantial equivalence describe a situation where a new device's technological differences raise the probability of harm, and what two types of evidence did the manufacturer use to support a finding of substantial equivalence despite those elevated risks?",
+    "answer": "The Hemastyl™ 510(k) summary reports no adverse effects for the new dressing or the predicate (Silvasorb AcryDerm Antimicrobial Silver Gel Wound Dressing Model #B, K083103) and notes that no performance standards are prescribed. The guidance describes a device with a deeper cutting action that increases the risk of injury to the dura, arteries, veins, and nerve roots; the manufacturer addressed this by providing animal study data showing the probability of harm was low, and by using labeling to mitigate the risk of using an incorrectly sized device. The guidance also notes that the animal study showed shorter surgery time and that surgeon surveys supported easier access to spinal anatomy, reducing patient injury risk.",
+    "key_facts": [
+      "Hemastyl™ (K250115) had no adverse effects reported and no prescribed performance standards, per its 510(k) summary.",
+      "The FDA guidance describes a new device with deeper cutting that raised injury risks, mitigated by animal study data and labeling, with benefits of shorter surgery and easier surgeon use."
+    ],
+    "gold": [
+      {
+        "doc_id": "K250115",
+        "chunk_id": "K250115_c011",
+        "page_start": 8,
+        "page_end": 8
+      },
+      {
+        "doc_id": "benefit-risk-factors-consider-when-determining-substantial-equivalence",
+        "chunk_id": "benefit-risk-factors-consider-when-determining-substantial-equivalence_c031",
+        "page_start": 20,
+        "page_end": 20
+      }
+    ],
+    "source_text": [
+      "​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ K250115 No adverse effects were noted following the use of either Hemastyl™ or the (Silvasorb) AcryDerm Antimicrobial Silver Gel Wound Dressing Model #B (K083103) \"dressings\" investigated. Manufacturing: The new gel product will be manufactured according to the product specifications and in accordance with good manufacturing practices to ensure the device is safe and effective for their intended uses. Performance Standards: No performance standards are prescribed for the new product.",
+      "because the new device can offer a deeper cutting action which was demonstrated in the animal study to shorten the duration of surgery. In addition, shorter surgery time results in less time under anesthesia and less exposure to risk of infection. Risks: The new deeper cutting action introduces higher risks of injury to the dura, arteries, veins, and nerve roots than the predicate device. The manufacturer provided data from an animal study to address the higher level of risks associated with the new deeper cutting action. The data provided demonstrate that the probability of harm is low; however, using the incorrect size of the device was found to increase risk of injury in the animal study. Additional Factors: Risk Mitigation: To address the concern of elevated risk due to using an incorrectly sized device, labeling is used to identify the proper size to be used based on anatomical measurements made before surgery. Benefit for the Health-Care Professional or Caregiver: The new design allows for easier use by the surgeons as demonstrated in the survey data provided by the manufacturer, thereby reducing risk of injury to the patient. SE Analysis: The technological differences present an increased risk of injury to the dura, arteries, veins, and nerve roots. The manufacturer provided animal study data to address these additional risks and to demonstrate that the probability of such harms is low. The manufacturer’s labeling further mitigates risk observed in the animal testing by identifying methods to help the surgeon choose the proper device size. Furthermore, the animal study demonstrated that the new device shortened the surgery time compared to the predicate device, and surveys of participating surgeons emphasized the benefit of easier access to specific anatomic regions around the spine, thereby reducing risk of injury to the patient."
+    ],
+    "decision": "drop",
+    "drop_reason": "completely unrelated devices bolted together — Passage 2 is a surgical-cutting-instrument worked example, nothing to do with Hemastyl or wound dressings at all"
+  },
+  "gen-cross_doc-009": {
+    "id": "gen-cross_doc-009",
+    "category": "cross_doc",
+    "question": "For the NovaTape/NovaPlug devices described in K142712, what predicate device is named in the 510(k) summary, and does the FDA 510(k) review checklist require the submitter to provide that predicate's identifier and to keep the predicate consistent throughout the submission?",
+    "answer": "The K142712 summary names predicate K040403. The FDA review checklist requires submitters to provide a predicate device identifier (such as a 510(k) number) and to keep that predicate identified consistently throughout the submission, including in the substantial equivalence section and the 510(k) summary.",
+    "key_facts": [
+      "K142712's 510(k) summary identifies K040403 as the predicate device for NovaTape/NovaPlug.",
+      "The FDA checklist requires a predicate device identifier and consistency of the identified predicate throughout the submission."
+    ],
+    "gold": [
+      {
+        "doc_id": "K142712",
+        "chunk_id": "K142712_c007",
+        "page_start": 7,
+        "page_end": 8
+      },
+      {
+        "doc_id": "refuse-accept-policy-510ks",
+        "chunk_id": "refuse-accept-policy-510ks_c085",
+        "page_start": 98,
+        "page_end": 99
+      }
+    ],
+    "source_text": [
+      "the NovaPlug 510(k) subject device and the predicate (K040403) device. The resorption and reaction of the NovaPlug and predicate device materials were substantially equivalent and the 510(k) subject device material completely resorbed within approximately fourteen (14) days of implantation. NovaBone Products, LLC NOT CONFIDENTIAL 510(k) SUMMARY – NovaTape & NovaPlug Based on the results of the oral minipig implantation study, the NovaTape/NovaPlug 510(k) subject device is substantially equivalent to the predicate (K040403) when used as an oral wound dressing. Mechanical NT/NP devices are not intended to be load bearing. Mechanical testing comparisons are therefore not relevant to a substantial equivalence determination. How Supplied The proposed NovaTape/NovaPlug (NT/NP) devices are supplied sterile, in a single-barrier packaging configuration similar to the predicate device (K040403). The device is provided in two forms, thin rectangular sheets of two sizes, (25mm x 75mm x 1mm and 20mm x 40mm x 3mm) and small cylindrical plugs (10mm diameter x 20mm length). The materials and processing methods are similar between the two device forms, varying only in the compression and cutting process used to fabricate the tape forms. The different device shapes are solely to aid in device placement as wound dressings. The devices are both flexible and compressible and may be cut or trimmed to meet the user’s needs. All the devices are terminally sterilized to a sterility assurance level (SAL) of 10-6. NT/NP devices are sterilized via e-beam radiation whereas the predicate is sterilized by gamma irradiation. E-beam radiation is used for the NT/NP devices to preserve handling properties that may be modified by other forms of sterilization. Because the device packaging and sterility assurance level are equivalent, no new issues of safety of effectiveness are presented by the packaging and sterilization methods used for the proposed NT/NP devices. An initial shelf life of twelve (12) months is supported by real-time stability studies.",
+      "has been previously cleared, or is exempt, and the proposed indications for use are consistent with the cleared indications. c. A 510(k) number is provided for each accessory that received a prior 510(k) clearance AND A statement is provided that identifies accessories that have not received prior 510(k) clearance. Comments: Check “Yes” if item is present, “N/A” if it is not needed and “No” if it is not included but needed. *Submitters including the checklist with their submission should identify the page numbers where requested information is located. Use the comments section for an element if additional space is needed to identify the location of supporting information. Yes No N/A *Page # C. Substantial Equivalence Discussion 15. Submitter has identified a predicate device(s), including the following information: a. Predicate device identifier provided (e.g., 510(k) number, De Novo number, reclassified PMA number, classification regulation reference, if exempt (e.g., 21 CFR 872.3710), or statement that the predicate is a preamendment device). For predicates that are preamendments devices, information is provided to document preamendments status. Information regarding documenting preamendment status is available online (https://www.fda.gov/medicaldevices/quality-and-compliance-medicaldevices/preamendment-status). b. The identified predicate(s) is consistent throughout the submission (e.g., the predicate(s) identified in the Substantial Equivalence section is the same as that listed in the 510(k) Summary (if applicable) and that used in comparative performance testing. Comments: 16. Submission includes a comparison of the following for the predicate(s) and subject device and a discussion why any differences between the subject and predicate(s) do not impact safety and effectiveness [see section 513(i)(1)(A) of the FD&C Act and 21 CFR 807.87(f)]. See “The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]” guidance document, available at https://www.fda.gov/regulatory-information/searchfda-guidance-documents/510k-program-evaluating-substantialequivalence-premarket-notifications-510k for more information on comparing intended use and technological characteristics. a. Indications for use If there are no differences between the subject device and the predicate(s) with respect to indications and intended use, this should be explicitly stated."
+    ],
+    "decision": "keep"
+  },
+  "gen-cross_doc-010": {
+    "id": "gen-cross_doc-010",
+    "category": "cross_doc",
+    "question": "For the MuCover Oral Wound Dressing (K253816), which biocompatibility standards did the manufacturer state it followed, and what is the docket number for the FDA guidance document that describes how substantial equivalence is evaluated for such 510(k) submissions?",
+    "answer": "The manufacturer stated that biocompatibility evaluation and testing for the MuCover Oral Wound Dressing (K253816) was conducted according to ISO 10993-1, ISO 10993-5, ISO 10993-10, ISO 10993-12, and ISO 10993-11. The FDA guidance on evaluating substantial equivalence in premarket notifications is identified by docket number FDA-2011-D-0652.",
+    "key_facts": [
+      "MuCover Oral Wound Dressing (K253816) biocompatibility testing followed ISO 10993-1, -5, -10, -12, and -11.",
+      "The FDA 510(k) substantial equivalence guidance has docket number FDA-2011-D-0652."
+    ],
+    "gold": [
+      {
+        "doc_id": "K253816",
+        "chunk_id": "K253816_c011",
+        "page_start": 9,
+        "page_end": 10
+      },
+      {
+        "doc_id": "510k-program-evaluating-substantial-equivalence-premarket-notification",
+        "chunk_id": "510k-program-evaluating-substantial-equivalence-premarket-notification_c000",
+        "page_start": 1,
+        "page_end": 2
+      }
+    ],
+    "source_text": [
+      "Performance Testing: MoleculeX Co., Ltd. Traditional 510(k) Notification 510(k) Summary Size Square [S3535] 35mm x 35mm x (0.4-0.5)mm [WxLxT] [S5100] 50mm x 100mm x (0.4-0.5)mm [WxLxT] [S5015] 50mm x 15mm x (0.4-0.5)mm [WxLxT] [S2515] 25mm x 15mm x (0.4-0.5)mm [WxLxT] Circular [C0015] 15mm x (0.4-0.5)mm [DxT] [C0012] 12mm x (0.4-0.5)mm [DxT] AD12: 12mm x (0.3~0.399)mm [DxT] OB23: 25mm x 15mm x (0.3~0.399)mm [WxLxT] OB53: 50mm x 15mm x (0.3~0.399)mm [WxLxT] Different (The difference in size or configuration does not affect the product’s safety or effectiveness.) Based on the information provided herein, MoleculeX Co., Ltd. concludes that the Oral Wound Dressing is substantially equivalent to the predicate devices for the intended use, physical and procedural characteristics, performance, safety characteristics, and labeling. The Oral Wound Dressing subject device incorporates same design features, procedural steps, and performance characteristics when compared to the predicate devices. Non-clinical testing, including bench test of the Oral Wound Dressing, has shown that the subject device meets the functional, performance, and safety requirements for the indications shared by the subject and predicate devices intended use to maintain the oral wound site. The Performance testing further confirms that the use of the Oral Wound Dressing can effectively maintain the dressing on wound site. The performance requirements for the subject Oral Wound Dressing successfully met the intended use. From the comparison performance testing with predicate device confirmed that the Oral Wound Dressing performs as intended and does not raise any new issues of safety and effectiveness, as compared with the predicate device, for use to maintain oral wound.\n\nMoleculeX Co., Ltd. Traditional 510(k) Notification 510(k) Summary b. Biocompatibility Testing: The biocompatibility evaluation and testing was conducted in accordance with the following standards and guidance, as recognized by the FDA: – ISO 10993-1, Biological evaluation of medical devices - Part 1: Evaluation and testing within a risk management process. – ISO 10993-5, Biological evaluation of medical devices - Part 5: Tests for in vitro cytotoxicity. – ISO 10993-10, Biological evaluation of medical devices - Part 10: Tests for skin sensitization. – ISO 10993-12, Biological evaluation of medical devices - Part 12: Sample preparation and reference materials. – ISO 10993-11, Biological evaluation of medical devices - Part 23: Tests for acute systemic toxicity test.",
+      "The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)] Guidance for Industry and Food and Drug Administration Staff Document issued on: July 28, 2014 The draft of this document issued on December 27, 2011. This document supersedes FDA’s Guidance on the CDRH Premarket Notification Review Program, 510(k) Memorandum K86-3, dated June 30, 1986. For questions for the Center for Devices and Radiological Health regarding this document, contact the Premarket Notification (510(k)) Section at 301-796-5640. For questions for the Center for Biologics Evaluation and Research regarding this document, contact the Office of Communication, Outreach and Development at 1-800-335-4709 or 240-402-7800. U.S. Department of Health and Human Services Food and Drug Administration Center for Devices and Radiological Health Center for Biologics Evaluation and Research Preface Public Comment You may submit electronic comments and suggestions at any time for Agency consideration to http://www.regulations.gov. Submit written comments to the Division of Dockets Management, Food and Drug Administration, 5630 Fishers Lane, Room. 1061, (HFA-305), Rockville, MD, 20852. Identify all comments with the docket number FDA-2011-D-0652. Comments may not be acted upon by the Agency until the document is next revised or updated. Additional Copies CDRH Additional copies are available from the Internet. You may also send an e-mail request to CDRHGuidance@fda.hhs.gov to receive a copy of the guidance. Please use the document number 1766 to identify the guidance you are requesting. CBER Additional copies are available from the Center for Biologics Evaluation and Research (CBER) by written request to the address below, by email request to the email address below, by calling the phone number below, or from the Internet at the webpage below:"
+    ],
+    "decision": "drop",
+    "drop_reason": "Passage 2 is cover-page/administrative metadata again (same class as #59) — docket number is trivia, not substantive content, and the two halves have no real connection beyond both existing in your corpus"
+  }
+}
