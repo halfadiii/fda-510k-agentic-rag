@@ -154,6 +154,43 @@ python make_eval_set.py review     # a person keeps, edits or drops each one
 python make_eval_set.py build      # merge with the hand-written ones -> data/eval/eval_set.json
 ```
 
+## The score
+
+Scored on 19 October 2026 with `score.py`, which runs every question through the
+full system and keeps three results apart: was the gold page retrieved, did it
+answer or refuse as it should, and did the answer hold the reviewed facts. A
+second model call (DeepSeek, temperature 0) marks each answer against the
+reference answer and its key facts. It never sees the passages.
+
+| | Result |
+| --- | --- |
+| Answerable questions answered correctly | **34 of 40** |
+| Questions it should refuse, refused | **9 of 9** |
+| Answers that contradict the reference | **0** |
+| Gold page in the top 5 | 35 of 40 |
+| Answers holding every reviewed key fact | 31 of 40 |
+| Cost of the whole run | about $0.03 |
+
+The judge passed 35. Reading its four lenient passes by hand, one left out part
+of what was asked (the sheet form of K231152's dressing), so the table says 34.
+
+Every failure was a refusal or an incomplete answer, never a wrong one. Three
+were search misses, where the gold page was not in the top 5. Two had the page
+and the model still answered INSUFFICIENT, which is the gate's lean towards
+caution showing from the other side. One answered only part of the question.
+
+Search alone, gold page in the top 5 of the 40: meaning search **35**, keyword
+search **34**, hybrid **35**. On this exam the hybrid ties meaning search rather
+than beating it. Its case is exact identifiers such as K212521, which the exam
+barely asks about.
+
+```bash
+python score.py              # all 49, about $0.03
+python score.py --limit 3    # a quick check first
+```
+
+Results, every answer and every verdict, are in `data/eval/results.json`.
+
 ---
 
 ## Run it
@@ -210,23 +247,23 @@ embed.py               chunks -> Qdrant (dense) + BM25 (keyword)
 search.py              dense, BM25, and hybrid with Reciprocal Rank Fusion
 answer.py              gate, draft, citation check, retry, refuse
 make_eval_set.py       the exam: generate, review by hand, build     -> data/eval/
+score.py               runs the exam and grades every answer        -> data/eval/results.json
 data/manifest.json     exactly which clearances the corpus holds
 data/audit.csv         the audit, per file
 data/chunk_stats.csv   chunks, words and sections per document
 data/eval/             candidates.json (drafts), reviewed.json (every keep/drop
-                       decision and its reason), eval_set.json (the exam)
+                       decision and its reason), eval_set.json (the exam),
+                       results.json (the score)
 ```
 
 ---
 
 ## State of things, honestly
 
-**The exam is built but not yet scored.** The citation check proves every
-citation points at a passage the model was given. It does not prove the answer
-reads that passage correctly. `data/eval/eval_set.json` is the set of questions
-with known answers that will measure it (see "The exam" above). Scoring against
-it is the next step: retrieval recall for dense against BM25 against hybrid, then
-answer faithfulness. Until then, this README makes no accuracy claim.
+**The score is one small exam.** 34 of 40 and 9 of 9 refusals (see "The score")
+is measured on 49 questions, mostly answered from a single document, and graded
+by a model checked by hand only where it was lenient. Say "on its exam", not
+"85% accurate".
 
 **Cross-document questions are thin.** Only one of the ten drafted survived
 review, so the exam barely tests questions that need a device summary and a
